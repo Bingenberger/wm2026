@@ -340,6 +340,7 @@ button {
   background: var(--bg-card);
   width: 100%;
   max-height: 95vh;
+  max-height: 95dvh; /* berücksichtigt Browser-Chrome auf Mobilgeräten */
   border-radius: var(--radius-lg) var(--radius-lg) 0 0;
   display: flex;
   flex-direction: column;
@@ -498,6 +499,7 @@ button {
 /* --- MODAL BODY --- */
 .modal-body {
   flex: 1;
+  min-height: 0; /* erlaubt Flex-Kind unter Inhaltsgröße zu schrumpfen → Header bleibt sichtbar */
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   padding: 20px 16px;
