@@ -1,0 +1,127 @@
+{
+  "land": "Argentinien",
+  "offizieller_name": "Argentinische Republik",
+  "spitzname": "La Albiceleste (Die Weiß-Hellblauen) / La Selección",
+  "flagge": "Drei waagerechte Streifen: Hellblau (oben), Weiß (Mitte), Hellblau (unten) – in der Mitte der weiße Streifen mit der 'Sol de Mayo' (Maisonne) in Gold. Die Sonne hat 16 Strahlen, abwechselnd gerade und wellig – Symbol der Unabhängigkeit Argentiniens.",
+
+  "steckbrief": {
+    "hauptstadt": "Buenos Aires",
+    "einwohner": "ca. 46 Millionen",
+    "sprache": "Spanisch",
+    "waehrung": "Argentinischer Peso (ARS)",
+    "lage": "Südamerika – zweitgrößtes Land des Kontinents, im Osten Atlantikküste, im Westen die Anden",
+    "nachbarn": ["Chile (Westen)", "Bolivien (Norden)", "Paraguay (Norden)", "Brasilien (Nordosten)", "Uruguay (Nordosten)"],
+    "bekannt_fuer": ["Lionel Messi – bester Fußballer aller Zeiten", "Tango (Nationaltanz, UNESCO-Welterbe)", "Asado (Grillen – Nationalsport!)", "Patagonie – wilde Naturlandschaft im Süden", "Buenos Aires – Paris Südamerikas", "Mate-Tee (wie Uruguay)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Argentinien ist das Land von Lionel Messi – dem besten Fußballer aller Zeiten! Und der Tango, einer der leidenschaftlichsten Tänze der Welt, kommt aus Buenos Aires.",
+    "lang": "Argentinien ist riesig – von den Tropen im Norden bis zu den eisigen Gletschern in Patagonien im Süden. Die Hauptstadt Buenos Aires ist eine der schönsten Städte Südamerikas – europäisch geprägt, voller Cafés, Theater und Tango-Bars. Im Westen ragen die Anden auf, darunter der Aconcagua – der höchste Berg außerhalb Asiens! Im Süden liegt Patagonien mit gewaltigen Gletschern, wilden Winden und den berühmten Pinguinkolonien. Argentinien ist bekannt für hervorragendes Rindfleisch und natürlich Mate-Tee. Und im Fußball ist Argentinien eine Weltmacht: drei WM-Titel, 16 Copa-América-Siege – und Lionel Messi ist der beste Fußballer der Geschichte!"
+  },
+
+  "hauptstadt": {
+    "name": "Buenos Aires",
+    "einwohner": "ca. 3,1 Millionen (Großraum ca. 15 Millionen)",
+    "lage": "Östlicher Rand Argentiniens, am Río de la Plata",
+    "wahrzeichen": ["Obelisco (68 m hohes Wahrzeichen im Stadtzentrum)", "Casa Rosada (Präsidentenpalast – rosa Farbe!)", "Teatro Colón (eines der schönsten Opernhäuser der Welt)", "La Bombonera (Stadion von Boca Juniors)", "Friedhof Recoleta (dort liegt Evita Perón)"],
+    "beschreibung": "Buenos Aires wird oft das 'Paris Südamerikas' genannt – breite Boulevards, prächtige Gebäude im europäischen Stil und eine lebendige Kulturszene. Die Casa Rosada, der Sitz des Präsidenten, ist tatsächlich rosa gestrichen! Im Armenviertel La Boca wurde der Tango erfunden und Boca Juniors gegründet – einer der leidenschaftlichsten Fußballklubs der Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Argentinien ist der amtierende Weltmeister (WM 2022 in Katar) und will als erst zweite Nation nach Brasilien 1962 den Titel verteidigen! Und: Lionel Messi nimmt bei seiner sechsten WM teil – wahrscheinlich seiner letzten. Mit 38 Jahren ist er fast so alt wie das Durchschnittsalter einiger Kaderplätze.",
+    "gruppe": "J",
+    "gruppenGegner": ["Algerien", "Österreich", "Jordanien"],
+    "spielorte": {
+      "Algerien": "Arrowhead Stadium, Kansas City",
+      "Österreich": "AT&T Stadium, Dallas",
+      "Jordanien": "AT&T Stadium, Dallas"
+    },
+    "spieltermine": {
+      "Algerien": "17. Juni 2026",
+      "Österreich": "22. Juni 2026",
+      "Jordanien": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Lionel Scaloni",
+      "nationalitaet": "Argentinisch",
+      "alter": 48,
+      "besonderheit": "Übernahm Argentinien 2018 inmitten einer Krise – zunächst nur als Interimscoach. Gewann seitdem alles: Copa América 2021, WM 2022, Copa América 2024. Gilt heute als einer der besten Trainer der Welt. Gibt nach der WM 2026 seinen Abschied bekannt."
+    },
+    "qualifikation": {
+      "weg": "CONMEBOL (Südamerika)",
+      "platz": 1,
+      "beschreibung": "Argentinien gewann die südamerikanische Qualifikation souverän als Gruppensieger. In den entscheidenden Spielen zeigte Lionel Messi mit 8 Toren einmal mehr seine überragende Klasse."
+    },
+    "kapitaen": "Lionel Messi",
+    "teilnahmen_gesamt": 19,
+    "wm_titel": 3,
+    "wm_titel_jahre": [1978, 1986, 2022],
+    "copa_america_titel": 16,
+    "bestes_ergebnis": "Weltmeister 1978, 1986 und 2022 – Titelverteidiger 2026",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Weltmeister!",
+      "highlight": "Dramatisches Finale gegen Frankreich: 3:3 nach Verlängerung, 4:2 im Elfmeterschießen. Messi erzielte zwei Tore. Eine der denkwürdigsten WM-Endrunden der Geschichte."
+    },
+    "bundesliga_bezug": "Exequiel Palacios spielt bei Bayer 04 Leverkusen – einziger aktueller Bundesliga-Profi im Kader.",
+    "stars": [
+      {
+        "name": "Lionel Messi",
+        "verein": "Inter Miami (USA)",
+        "position": "Offensives Mittelfeld / Rechtsaußen",
+        "alter": 38,
+        "ballon_dor_siege": 8,
+        "länderspieltore": 115,
+        "wm_tore": 13,
+        "rolle": "Kapitän und bester Spieler der Geschichte – 8-facher Ballon d'Or, WM-Sieger 2022. Diese WM ist wahrscheinlich sein Abschied von der Weltbühne. Kein Spieler hat so viele Ballon d'Ors gewonnen wie er."
+      },
+      {
+        "name": "Julián Álvarez",
+        "verein": "Atlético Madrid",
+        "position": "Stürmer",
+        "alter": 26,
+        "rolle": "Tormaschine – WM 2022 mit 4 Toren, darunter zwei gegen Kroatien im Halbfinale. Messis wichtigster Sturmpartner."
+      },
+      {
+        "name": "Lautaro Martínez",
+        "verein": "Inter Mailand",
+        "position": "Stürmer",
+        "alter": 28,
+        "rolle": "Mittelstürmer und Torjäger – traf im WM-Finale 2022 den entscheidenden Elfmeter"
+      },
+      {
+        "name": "Enzo Fernández",
+        "verein": "FC Chelsea",
+        "position": "Mittelfeld",
+        "alter": 25,
+        "rolle": "Junger Weltmeister von 2022 – Chelsea zahlte über 100 Millionen Euro für ihn"
+      },
+      {
+        "name": "Alexis Mac Allister",
+        "verein": "FC Liverpool",
+        "position": "Mittelfeld",
+        "alter": 27,
+        "rolle": "Premier-League-Sieger mit Liverpool – Herzstück des argentinischen Mittelfelds"
+      },
+      {
+        "name": "Emiliano Martínez",
+        "verein": "Aston Villa",
+        "position": "Torwart",
+        "alter": 33,
+        "rolle": "Weltbester Torhüter – Held des WM-Finals 2022 durch seine Elfmeterparaden, wurde zum besten Torwart des Turniers gewählt"
+      }
+    ],
+    "legenden": [
+      {
+        "name": "Diego Maradona",
+        "wm_jahre": [1982, 1986, 1990, 1994],
+        "besonderheit": "1986: 'Hand Gottes' und 'Tor des Jahrhunderts' innerhalb von 5 Minuten gegen England – das bekannteste Spiel der WM-Geschichte. Führte Argentinien 1986 zum WM-Titel.",
+        "rolle": "Argentiniens größte Legende nach Messi (oder umgekehrt!)"
+      }
+    ],
+    "fun_fact": "Lionel Messi hat 8 Ballon d'Or gewonnen – mehr als jeder andere Spieler der Geschichte! 2022 erzielte er im WM-Finale gegen Frankreich zwei Tore und gewann den Elfmeterschießen mit 4:2 – das dramatischste Finale seit Jahrzehnten. Und: Die Casa Rosada in Buenos Aires, der Sitz des Präsidenten, ist wirklich ROSA – benannt nach den Ochsenblut-Farben, mit denen sie ursprünglich gestrichen wurde. Exequiel Palacios spielt bei Bayer 04 Leverkusen – als einziger Bundesliga-Profi im argentinischen WM-Kader!"
+  }
+}

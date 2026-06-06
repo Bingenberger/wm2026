@@ -1,0 +1,114 @@
+{
+  "land": "Uruguay",
+  "offizieller_name": "Republik östlich des Uruguay (República Oriental del Uruguay)",
+  "spitzname": "La Celeste (Die Himmelsblaue) / Los Charrúas",
+  "flagge": "Neun waagerechte Streifen in Weiß und Hellblau (für die neun ursprünglichen Departements) – oben links ein weißes Feld mit der Sonne mit Gesicht (Sol de Mayo, die Maisonne). Die Sonne hat 16 Strahlen, abwechselnd gerade und wellig.",
+
+  "steckbrief": {
+    "hauptstadt": "Montevideo",
+    "einwohner": "ca. 3,5 Millionen – weniger als die Stadt Berlin!",
+    "sprache": "Spanisch",
+    "waehrung": "Uruguayischer Peso (UYU)",
+    "lage": "Südamerika – zwischen Argentinien (Westen) und Brasilien (Norden), am Río de la Plata",
+    "nachbarn": ["Argentinien (Westen)", "Brasilien (Norden)"],
+    "bekannt_fuer": ["Erstes WM-Gastgeberland 1930 – und gleich Weltmeister!", "Mate-Tee (Nationaltrank)", "Rindfleisch und Asado (Grillen)", "Luis Suárez und Edinson Cavani (Fußballlegenden)", "Copa-América-Rekordsieger (15 Titel)", "Kleinstes Land Südamerikas – aber riesig im Fußball!"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Uruguay ist das kleinste Land Südamerikas – mit nur 3,5 Millionen Einwohnern, weniger als Berlin! Aber im Fußball gehört Uruguay zu den erfolgreichsten Ländern der Welt: zweifacher Weltmeister und 15-facher Copa-América-Sieger.",
+    "lang": "Uruguay liegt zwischen den Riesen Argentinien und Brasilien und ist fast so groß wie das deutsche Bundesland Bayern – aber mit deutlich weniger Einwohnern. Die Hauptstadt Montevideo liegt direkt am Río de la Plata, dem breitesten Fluss der Welt. Uruguay ist bekannt für seinen Nationaltrank Mate – einen starken Kräutertee, den man aus einem Kürbisbecher mit einem Metallstrohhalm trinkt. Beim Grillen (Asado) ist Uruguay weltberühmt: Rindfleisch gehört zum täglichen Leben. Im Fußball ist Uruguay trotz seiner winzigen Größe eine Weltmacht: 1930 war Uruguay das erste WM-Gastgeberland – und gewann gleich den Titel! 1950 holten sie den zweiten WM-Titel mit dem legendären 'Maracanazo' – einem 2:1-Sieg gegen Gastgeber Brasilien vor 200.000 Zuschauern."
+  },
+
+  "hauptstadt": {
+    "name": "Montevideo",
+    "einwohner": "ca. 1,4 Millionen (Großraum ca. 1,9 Millionen)",
+    "lage": "Südküste Uruguays am Río de la Plata",
+    "wahrzeichen": ["Estadio Centenario (WM-Stadion von 1930 – UNESCO-Welterbeprojekt)", "Ciudad Vieja (historische Altstadt)", "Rambla (lange Uferpromenade)", "Palacio Salvo (historisches Wahrzeichen)"],
+    "beschreibung": "Montevideo ist eine gemütliche, lebendige Hafenstadt mit einer wunderschönen Strandpromenade, der Rambla, die sich kilometerlang am Río de la Plata entlangzieht. Das Estadio Centenario wurde 1930 für das erste WM-Finale der Geschichte gebaut und steht heute unter besonderem Schutz. Die Ciudad Vieja, die historische Altstadt, ist voller bunter Gebäude und Cafés."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Uruguay ist zweifacher Weltmeister – der erste (1930) und der zweite (1950). 1950 schlug Uruguay im legendären 'Maracanazo' Brasilien 2:1 vor fast 200.000 Zuschauern im Maracanã-Stadion in Rio – einer der größten Schocks der Sportgeschichte. Jetzt tritt Uruguay ohne die Legenden Suárez und Cavani an – eine neue Generation übernimmt die Verantwortung.",
+    "gruppe": "H",
+    "gruppenGegner": ["Saudi-Arabien", "Kap Verde", "Spanien"],
+    "spielorte": {
+      "Saudi-Arabien": "Estadio Akron, Guadalajara",
+      "Kap Verde": "Hard Rock Stadium, Miami",
+      "Spanien": "Estadio Akron, Guadalajara"
+    },
+    "spieltermine": {
+      "Saudi-Arabien": "16. Juni 2026",
+      "Kap Verde": "22. Juni 2026",
+      "Spanien": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Marcelo Bielsa",
+      "nationalitaet": "Argentinisch",
+      "alter": 70,
+      "besonderheit": "Gilt unter Trainern als Legende – Pep Guardiola nannte ihn einst den besten Trainer der Welt. Bekannt für intensiven, offensiven Pressing-Fußball. Früher Nationaltrainer von Argentinien und Chile, trainierte auch Athletic Bilbao, Marseille, Lille und Leeds United."
+    },
+    "qualifikation": {
+      "weg": "CONMEBOL (Südamerika)",
+      "platz": 4,
+      "beschreibung": "Vierter Platz in der südamerikanischen Qualifikation – direkt qualifiziert. Uruguay schlug dabei u.a. Brasilien 2:0 in Montevideo."
+    },
+    "kapitaen": "José María Giménez",
+    "teilnahmen_gesamt": 14,
+    "wm_titel": 2,
+    "wm_titel_jahre": [1930, 1950],
+    "copa_america_titel": 15,
+    "bestes_ergebnis": "Weltmeister 1930 und 1950 – sowie 4. Platz 2010 (Halbfinale)",
+    "historische_besonderheit": "Der 'Maracanazo' 1950: Uruguay gewann das entscheidende WM-Spiel gegen Gastgeber Brasilien 2:1 vor knapp 200.000 Zuschauern im Maracanã in Rio de Janeiro. Der brasilianische Torwart Barbosa lebte den Rest seines Lebens mit der Schuld – er wurde von Brasilianern beschuldigt, die Niederlage verursacht zu haben.",
+    "fehlende_legenden": [
+      "Luis Suárez – beendete seine internationale Karriere nach der Copa América 2024 (war bei 4 WMs dabei, 7 WM-Tore)",
+      "Edinson Cavani – zurückgetreten",
+      "Diego Godín – zurückgetreten"
+    ],
+    "stars": [
+      {
+        "name": "Federico Valverde",
+        "verein": "Real Madrid",
+        "position": "Mittelfeld / Rechtsaußen",
+        "alter": 26,
+        "rolle": "Anführer der neuen Generation – zweifacher Champions-League-Sieger mit Real Madrid, vielseitigster Spieler im Kader, Herzstück des Mittelfelds"
+      },
+      {
+        "name": "Darwin Núñez",
+        "verein": "Al-Hilal (Saudi-Arabien)",
+        "position": "Stürmer",
+        "alter": 26,
+        "rolle": "Erbe von Suárez und Cavani – physisch starker Stürmer, soll Uruguay in die K.o.-Runde schießen"
+      },
+      {
+        "name": "Ronald Araújo",
+        "verein": "FC Barcelona",
+        "position": "Innenverteidiger",
+        "alter": 26,
+        "rolle": "Einer der besten Verteidiger der Welt – bei Barcelona Stammkraft, Anführer der Defensive"
+      },
+      {
+        "name": "Manuel Ugarte",
+        "verein": "Manchester United",
+        "position": "Defensives Mittelfeld",
+        "alter": 24,
+        "rolle": "Kampfstarker Mittelfeldspieler – kämpft und grätscht für sein Leben"
+      },
+      {
+        "name": "José María Giménez",
+        "verein": "Atlético Madrid",
+        "position": "Innenverteidiger",
+        "alter": 31,
+        "rolle": "Kapitän – einer der kampferprobtesten Verteidiger Europas, nähert sich seinem 100. Länderspiel"
+      },
+      {
+        "name": "Rodrigo Bentancur",
+        "verein": "Tottenham Hotspur",
+        "position": "Mittelfeld",
+        "rolle": "Erfahrener Mittelfeldspieler – wenn fit, ein wichtiger Faktor"
+      }
+    ],
+    "fun_fact": "Uruguay hat nur 3,5 Millionen Einwohner – weniger als Berlin – und trotzdem zwei WM-Titel und 15 Copa-América-Titel! Der 'Maracanazo' 1950 ist eines der größten Fußball-Wunder der Geschichte: Uruguay schlug Brasilien 2:1 vor fast 200.000 Zuschauern im eigenen Stadion. Und: Das Stadion Estadio Centenario in Montevideo wurde 1930 für die erste WM überhaupt gebaut – und steht noch heute!"
+  }
+}

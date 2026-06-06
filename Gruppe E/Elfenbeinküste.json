@@ -1,0 +1,129 @@
+{
+  "land": "Elfenbeinküste",
+  "offizieller_name": "Republik Côte d'Ivoire",
+  "spitzname": "Les Éléphants (Die Elefanten)",
+  "flagge": "Drei senkrechte Streifen: Orange (links), Weiß (Mitte), Grün (rechts) – Orange steht für die Savannen im Norden, Weiß für Frieden, Grün für die Wälder im Süden",
+
+  "steckbrief": {
+    "hauptstadt": "Yamoussoukro (Regierungssitz), Abidjan (Wirtschaftsmetropole)",
+    "einwohner": "ca. 32 Millionen",
+    "sprachen": ["Französisch (Amtssprache)", "Dioula und viele weitere lokale Sprachen"],
+    "waehrung": "CFA-Franc (XOF)",
+    "lage": "Westafrika, am Golf von Guinea",
+    "nachbarn": ["Ghana", "Burkina Faso", "Mali", "Guinea", "Liberia"],
+    "bekannt_fuer": ["Weltgrößter Kakaoexporteur", "Didier Drogba und Yaya Touré", "Basílique de Notre-Dame de la Paix (größte Kirche der Welt nach Grundfläche)", "Afrikacup-Sieger 2023 und 2015", "Regenwald und Nationalparks", "Schokoladenproduktion – fast die Hälfte des Weltkakaos kommt von hier!"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Die Elfenbeinküste ist der weltgrößte Produzent von Kakao – fast die Hälfte des Kakaos für die Schokolade der ganzen Welt kommt von hier! Und beim Fußball stellt das Land eine der stärksten Mannschaften Afrikas.",
+    "lang": "Die Elfenbeinküste liegt im Westen Afrikas an einer langen Atlantikküste. Das Land ist bekannt als weltgrößter Kakaoproduzent – fast jede zweite Tafel Schokolade auf der Welt wird aus ivorischem Kakao hergestellt! Die Hauptstadt heißt offiziell Yamoussoukro, aber die größte und lebendigste Stadt ist Abidjan am Meer. Dort steht auch die Basílique de Notre-Dame de la Paix – die nach Grundfläche größte Kirche der Welt, modelliert nach dem Petersdom in Rom. Im Norden gibt es trockene Savannen, im Süden dichten Regenwald. Die bekanntesten Ivorer sind Fußballlegenden: Didier Drogba (früher Chelsea) und Yaya Touré (früher Barcelona und Manchester City) gelten als zwei der besten afrikanischen Fußballer aller Zeiten. Und bei der WM 2026 spielt die Elfenbeinküste direkt gegen Deutschland!"
+  },
+
+  "hauptstadt": {
+    "name": "Yamoussoukro (offiziell) / Abidjan (de facto Wirtschaftszentrum)",
+    "einwohner_abidjan": "ca. 5 Millionen (Abidjan)",
+    "wahrzeichen": ["Basílique de Notre-Dame de la Paix (weltgrößte Kirche nach Grundfläche, Yamoussoukro)", "Plateau-Viertel (Hochhausviertel in Abidjan)", "Cocody (Botschaftsviertel)", "Banco-Nationalpark (tropischer Regenwald innerhalb Abidjans)"],
+    "beschreibung": "Die Elfenbeinküste hat zwei Hauptstädte: Yamoussoukro ist die offizielle Hauptstadt mit der beeindruckenden Basilika, die größer als der Petersdom in Rom ist. Abidjan ist jedoch das eigentliche Herzstück des Landes – eine moderne Großstadt am Meer mit Hochhäusern, Stränden und einem pulsierenden Nachtleben."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Amtierender Afrikameister (Afrikacup 2023, ausgetragen 2024 im eigenen Land – gewonnen im Finale gegen Nigeria)! Die Qualifikation war makellos: 10 Spiele, keine Niederlage, kein Gegentor.",
+    "gruppe": "E",
+    "gruppenGegner": ["Ecuador", "Deutschland", "Curaçao"],
+    "spielorte": {
+      "Ecuador": "Philadelphia-Stadion, Philadelphia",
+      "Deutschland": "Toronto-Stadion, Toronto",
+      "Curaçao": "Philadelphia-Stadion, Philadelphia"
+    },
+    "spieltermine": {
+      "Ecuador": "15. Juni 2026",
+      "Deutschland": "20. Juni 2026",
+      "Curaçao": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Emerse Faé",
+      "nationalitaet": "Ivorisch",
+      "besonderheit": "Übernahm die Mannschaft im Januar 2024 während des Afrikacups – und gewann ihn direkt! Führte die Elfenbeinküste sensationell von einem drohenden Ausscheiden zur Afrikameisterschaft."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "gruppe": "F",
+      "beschreibung": "Makellose Qualifikation: 10 Spiele, 8 Siege, 2 Unentschieden, keine Niederlage, kein einziges Gegentor. Seko Fofana war mit 3 Toren bester Torschütze."
+    },
+    "kapitaen": "Franck Kessié",
+    "teilnahmen_gesamt": 4,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (alle 3 bisherigen Teilnahmen: 2006, 2010, 2014)",
+    "afrikacup_titel": 3,
+    "afrikacup_titel_jahre": [1992, 2015, 2023],
+    "letztes_turnier": {
+      "jahr": 2014,
+      "austragungsort": "Brasilien",
+      "ergebnis": "Vorrunde",
+      "beschreibung": "Bei allen drei bisherigen WM-Teilnahmen schied die Elfenbeinküste in der Gruppenphase aus – 2026 soll das endlich enden."
+    },
+    "bundesliga_spieler": [
+      "Yan Diomandé – Stürmer (RB Leipzig) – mit 12 Toren und 8 Assists einer der stärksten Offensivspieler der Bundesliga",
+      "Bazoumana Touré – Stürmer (TSG 1899 Hoffenheim)"
+    ],
+    "ex_bundesliga": [
+      "Evan Ndicka – Verteidiger (AS Rom, früher Eintracht Frankfurt)",
+      "Odilon Kossounou – Verteidiger (Atalanta Bergamo, früher Bayer 04 Leverkusen)",
+      "Elye Wahi – Stürmer (OGC Nizza, zählt zu Eintracht Frankfurt)"
+    ],
+    "stars": [
+      {
+        "name": "Franck Kessié",
+        "verein": "Al-Ahli (Saudi-Arabien)",
+        "position": "Mittelfeld",
+        "rolle": "Kapitän und Anführer – früher bei AC Mailand und FC Barcelona, einer der besten Mittelfeldspieler Afrikas"
+      },
+      {
+        "name": "Amad Diallo",
+        "verein": "Manchester United",
+        "position": "Flügel",
+        "rolle": "Explosiver Flügelspieler – schnell, trickreich, torgefährlich"
+      },
+      {
+        "name": "Yan Diomandé",
+        "verein": "RB Leipzig",
+        "position": "Stürmer",
+        "alter": 19,
+        "rolle": "Aufregendste Entdeckung des Kaders – 19-jähriger Bundesliga-Torjäger, Hoffnungsträger für die Zukunft"
+      },
+      {
+        "name": "Simon Adingra",
+        "verein": "AS Monaco",
+        "position": "Flügel",
+        "rolle": "Dynamischer Angreifer, kam in allen 10 Qualifikationsspielen zum Einsatz"
+      },
+      {
+        "name": "Ibrahim Sangaré",
+        "verein": "Nottingham Forest (England)",
+        "position": "Defensives Mittelfeld",
+        "rolle": "Starker Zweikämpfer und Absicherung vor der Abwehr"
+      },
+      {
+        "name": "Ousmane Diomandé",
+        "verein": "Sporting Lissabon",
+        "position": "Innenverteidiger",
+        "rolle": "Abwehrchef und einer der besten jungen Verteidiger Afrikas"
+      }
+    ],
+    "legenden": [
+      {
+        "name": "Didier Drogba",
+        "verein_bekanntester": "FC Chelsea",
+        "rolle": "Rekordtorschütze der Elfenbeinküste – gilt als einer der besten Stürmer aller Zeiten. Erbrachte in drei WMs stets Topleistungen."
+      },
+      {
+        "name": "Yaya Touré",
+        "verein_bekanntester": "FC Barcelona / Manchester City",
+        "rolle": "Einer der besten Mittelfeldspieler der Welt seiner Ära – WM-Rekordspieler der Elfenbeinküste (9 Einsätze bei 3 WMs)"
+      }
+    ],
+    "fun_fact": "Fast die Hälfte des Kakaos der ganzen Welt kommt aus der Elfenbeinküste – ohne dieses Land gäbe es viel weniger Schokolade! Und Yan Diomandé, der 19-jährige Stürmer von RB Leipzig, ist einer der aufregendsten Spieler dieser WM. Legenden wie Didier Drogba (Chelsea) und Yaya Touré (Manchester City/Barcelona) haben den Weg bereitet – jetzt ist eine neue Generation am Zug."
+  }
+}

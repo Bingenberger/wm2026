@@ -1,0 +1,112 @@
+{
+  "land": "DR Kongo",
+  "offizieller_name": "Demokratische Republik Kongo",
+  "spitzname": "Les Léopards (Die Leoparden)",
+  "flagge": "Hellblauer Hintergrund mit einem roten Diagonalstreifen von unten links nach oben rechts, der von gelben Streifen eingefasst wird. In der oberen linken Ecke ein gelber Stern. Blau steht für Frieden, Rot für das Blut der Märtyrer, Gelb für den Reichtum des Landes.",
+
+  "steckbrief": {
+    "hauptstadt": "Kinshasa",
+    "einwohner": "ca. 105 Millionen – viertbevölkerungsreichstes Land Afrikas",
+    "sprachen": ["Französisch (Amtssprache)", "Lingala, Swahili, Kikongo, Tshiluba (Nationalsprachen)"],
+    "waehrung": "Kongolesischer Franc (CDF)",
+    "lage": "Zentralafrika – größtes Land der Subsahara-Zone, grenzt an 9 Nachbarländer",
+    "nachbarn": ["Republik Kongo", "Zentralafrikanische Republik", "Südsudan", "Uganda", "Ruanda", "Burundi", "Tansania", "Sambia", "Angola"],
+    "bekannt_fuer": ["Kongobecken – zweitgrößter Regenwald der Welt", "Kongo-Fluss – tiefster Fluss der Erde", "Gorillas (mehr als die Hälfte aller Berggorillas leben hier)", "Diamanten und Kobalt (riesige Bodenschätze)", "Rumble in the Jungle (Ali vs. Foreman 1974 in Kinshasa)", "Kolossale Naturgewalt und Artenvielfalt"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Die DR Kongo ist riesig – fast so groß wie Westeuropa! Dort leben mehr als die Hälfte aller Berggorillas der Welt, und der Kongo-Fluss ist der tiefste Fluss der Erde. Und 1974 fand hier einer der bekanntesten Boxkämpfe aller Zeiten statt!",
+    "lang": "Die Demokratische Republik Kongo liegt im Herzen Afrikas und ist das drittgrößte Land des Kontinents. Das Kongobecken beherbergt den zweitgrößten Regenwald der Erde – nur der Amazonas ist größer. Der Kongo-Fluss ist mit einer Tiefe von bis zu 250 Metern der tiefste Fluss der Welt! In den Nationalparks der DR Kongo leben über die Hälfte der noch existierenden Berggorillas. Der Boden des Landes ist reich an wertvollen Rohstoffen: Diamanten, Gold, Kobalt (das für Handybatterien benötigt wird!) und Coltan. Ein unvergesslicher Moment der Geschichte: 1974 kämpften Muhammad Ali und George Foreman in Kinshasa – das 'Rumble in the Jungle' gilt als der berühmteste Boxkampf aller Zeiten."
+  },
+
+  "hauptstadt": {
+    "name": "Kinshasa",
+    "einwohner": "ca. 15 Millionen – nach Kairo und Lagos drittgrößte Stadt Afrikas",
+    "lage": "Westufer des Kongo-Flusses – gegenüber liegt Brazzaville, die Hauptstadt der Republik Kongo",
+    "besonderheit": "Kinshasa und Brazzaville sind die einzigen zwei Hauptstädte der Welt, die sich direkt gegenüberliegen – nur durch einen Fluss getrennt!",
+    "wahrzeichen": ["Stade des Martyrs (80.000 Plätze – eines der größten Stadien Afrikas)", "Palais de la Nation (Regierungssitz)", "Marché Central (zentraler Markt)", "Zongo-Fälle (Wasserfall in der Nähe)"],
+    "beschreibung": "Kinshasa ist eine der lebendigsten und lautesten Metropolen Afrikas – mit pulsierender Musikszene (Rumba Congolaise!), riesigen Märkten und dem gewaltigen Kongo-Fluss als Kulisse. Gegenüber auf dem anderen Flussufer liegt Brazzaville – das einzige Beispiel weltweit, dass zwei Hauptstädte so nah beieinander liegen."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Die DR Kongo kehrt nach 52 Jahren zur WM zurück! Bei der einzigen bisherigen Teilnahme trat das Land 1974 in Deutschland als 'Zaire' an – verlor alle drei Spiele und schoss kein einziges Tor (0:14 Tore gesamt). 2026 soll das erste WM-Tor der Geschichte endlich fallen! Die Qualifikation gelang dramatisch über das interkontinentale Playoff-Finale gegen Jamaika – in der Nachspielzeit.",
+    "gruppe": "K",
+    "gruppenGegner": ["Portugal", "Kolumbien", "Usbekistan"],
+    "spielorte": {
+      "Portugal": "NRG Stadium, Houston",
+      "Kolumbien": "Estadio Akron, Guadalajara",
+      "Usbekistan": "Mercedes-Benz Stadium, Atlanta"
+    },
+    "spieltermine": {
+      "Portugal": "17. Juni 2026",
+      "Kolumbien": "24. Juni 2026",
+      "Usbekistan": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Sébastien Desabre",
+      "nationalitaet": "Französisch",
+      "alter": 48,
+      "besonderheit": "Einer der erfolgreichsten Trainer der jüngsten kongolesischen Geschichte – in 16 Spielen unter seiner Führung gewann die DR Kongo 14 Mal und verlor nur 2. Früher Trainer von Uganda und Ägypten."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika) + interkontinentale Playoffs",
+      "beschreibung": "CAF-Gruppenphase als Zweiter hinter Senegal beendet. Dann über drei Playoff-Runden – darunter ein Last-Minute-Sieg gegen Jamaika im Finale in der Nachspielzeit. Dramatischer geht's kaum."
+    },
+    "kapitaen": "Chancel Mbemba",
+    "teilnahmen_gesamt": 2,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (1974 als Zaire – 0 Punkte, 0:14 Tore)",
+    "afrikacup_titel": 2,
+    "afrikacup_titel_jahre": [1968, 1974],
+    "historisches_ziel_2026": "Das allererste WM-Tor in der Geschichte des Landes erzielen!",
+    "stars": [
+      {
+        "name": "Yoane Wissa",
+        "verein": "Newcastle United (England)",
+        "position": "Stürmer",
+        "alter": 29,
+        "rolle": "Wichtigster Angreifer – wechselte von Brentford zu Newcastle United, Premier-League-Stürmer mit Torgefahr"
+      },
+      {
+        "name": "Cédric Bakambu",
+        "verein": "Real Betis (Spanien)",
+        "position": "Stürmer",
+        "alter": 35,
+        "länderspieltore": 21,
+        "rolle": "Erfahrener Torjäger – mit 21 Toren beinahe Rekordtorschütze der DR Kongo, spielt für Real Betis in Spanien. Bei seiner wahrscheinlich letzten großen Endrunde."
+      },
+      {
+        "name": "Chancel Mbemba",
+        "verein": "Lille OSC (Frankreich)",
+        "position": "Innenverteidiger",
+        "alter": 31,
+        "rolle": "Kapitän und Abwehrchef – früher bei Newcastle United und Olympique Marseille"
+      },
+      {
+        "name": "Aaron Wan-Bissaka",
+        "verein": "West Ham United (England)",
+        "position": "Rechtsverteidiger",
+        "alter": 27,
+        "rolle": "Premier-League-Stammspieler bei West Ham – einer der besten Zweikämpfer der Liga"
+      },
+      {
+        "name": "Arthur Masuaku",
+        "verein": "RC Lens (Frankreich)",
+        "position": "Linksverteidiger",
+        "alter": 32,
+        "rolle": "Erfahrener Außenverteidiger – früher bei West Ham United in der Premier League"
+      },
+      {
+        "name": "Gaël Kakuta",
+        "verein": "AEL Larissa (Griechenland)",
+        "position": "Offensives Mittelfeld",
+        "alter": 34,
+        "bundesliga_vergangenheit": "Mehrere Stationen, u.a. Levante und Rayo Vallecano",
+        "rolle": "Erfahrener Spielmacher – früher bei Chelsea ausgebildet, bringt Kreativität ins Mittelfeld"
+      }
+    ],
+    "fun_fact": "1974 trat die DR Kongo als 'Zaire' bei der WM in Deutschland an – und kassierte 0:9 gegen Jugoslawien, eines der höchsten WM-Ergebnisse der Geschichte. 52 Jahre später kehrt das Land zurück und will endlich das erste WM-Tor erzielen! Der Kongo-Fluss ist so tief wie ein 25-stöckiges Hochhaus – bis zu 250 Meter! Und 1974 fand in Kinshasa das berühmteste Boxduell aller Zeiten statt: Muhammad Ali gegen George Foreman – das 'Rumble in the Jungle'."
+  }
+}

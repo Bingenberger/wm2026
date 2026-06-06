@@ -1,0 +1,134 @@
+{
+  "land": "Österreich",
+  "offizieller_name": "Republik Österreich",
+  "spitzname": "Die Roten (nach dem roten Trikot) / Das ÖFB-Team / Wunderteam (historisch)",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Weiß (Mitte), Rot (unten) – eine der ältesten Nationalflaggen der Welt, seit dem 13. Jahrhundert belegt! Eine Legende besagt, der Herzog erhielt diese Farben nach einer blutigen Schlacht – sein weißes Hemd war so rot gefärbt, dass nur an der Stelle seines Gürtels ein weißer Streifen blieb.",
+
+  "steckbrief": {
+    "hauptstadt": "Wien",
+    "einwohner": "ca. 9 Millionen",
+    "sprache": "Deutsch",
+    "waehrung": "Euro (€)",
+    "lage": "Mitteleuropa – Alpenland, grenzt direkt an Deutschland, Schweiz, Liechtenstein, Tschechien, Slowakei, Ungarn, Slowenien und Italien",
+    "nachbarn": ["Deutschland", "Tschechien", "Slowakei", "Ungarn", "Slowenien", "Italien", "Schweiz", "Liechtenstein"],
+    "bekannt_fuer": ["Wien – Mozarts Geburtsstadt (nein, Salzburg!), aber Wien war seine Wirkungsstätte", "Mozart und Beethoven (lebten in Wien)", "Wiener Schnitzel und Sachertorte", "Berge und Skifahren (Alpen!)", "Wienerschnitzel, Apfelstrudel und Mozartkugeln", "Schloss Schönbrunn und Stephansdom"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Österreich ist das Nachbarland Deutschlands – aber trotzdem ein eigenes Land mit eigener Kultur! Bekannt für die Alpen, Mozart und Wiener Schnitzel. Und 2026 endlich wieder bei der WM nach 28 Jahren Pause!",
+    "lang": "Österreich liegt mitten in Europa und ist von Bergen umgeben – die Alpen bedecken großen Teile des Landes. Im Winter ist Österreich ein Skiparadies, im Sommer locken grüne Täler und klare Bergseen. Die Hauptstadt Wien ist eine der schönsten Städte der Welt – voller Paläste, Cafés und Musik. Mozart wurde zwar in Salzburg geboren, aber lebte und arbeitete in Wien, wo er seine berühmtesten Werke schrieb. Beethoven, Schubert und Brahms lebten ebenfalls in Wien – kein Wunder, dass Wien einmal die Musikhauptstadt der Welt war! Und natürlich: Österreich ist das Land des Wiener Schnitzels, der Sachertorte (berühmteste Schokoladentorte der Welt!) und des Apfelstrudels."
+  },
+
+  "hauptstadt": {
+    "name": "Wien",
+    "einwohner": "ca. 2 Millionen",
+    "lage": "Östlicher Rand Österreichs, an der Donau",
+    "besonderheit": "Wien ist gleichzeitig die Hauptstadt und eines der neun Bundesländer Österreichs",
+    "wahrzeichen": ["Stephansdom (116 m hohe Kathedrale, Wahrzeichen Wiens)", "Schloss Schönbrunn (ehemaliger Kaisersitz, UNESCO-Welterbe)", "Wiener Staatsoper (eines der bedeutendsten Opernhäuser der Welt)", "Prater und Riesenrad (historisches Wiener Wahrzeichen)", "Ringstraße (Prachtstraße mit Museen und Parlamentsgebäude)"],
+    "beschreibung": "Wien war jahrhundertelang Hauptstadt des Habsburgerreiches – und dieser kaiserliche Glanz ist noch überall zu spüren. Das Schloss Schönbrunn mit seinen 1.441 Zimmern und dem riesigen Park war die Sommerresidenz der Kaiser. Im Stephansdom schlägt das Herz der Stadt. Und die Kaffeehäuser – seit Jahrhunderten gibt es sie, wo man bei einer Melange (Kaffee mit Milch) stundenlang sitzen und Zeitung lesen kann – sind UNESCO-Weltkulturerbe."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Österreich kehrt nach 28 Jahren Pause zur WM zurück – die letzte Teilnahme war 1998 in Frankreich! Die Qualifikation war dramatisch: Das entscheidende 1:1 gegen Bosnien-Herzegowina durch Michael Gregoritschs Kopfball in der Schlussphase machte das Ernst-Happel-Stadion in Wien beben.",
+    "gruppe": "J",
+    "gruppenGegner": ["Jordanien", "Argentinien", "Algerien"],
+    "spielorte": {
+      "Jordanien": "Levi's Stadium, San Francisco",
+      "Argentinien": "AT&T Stadium, Dallas",
+      "Algerien": "Arrowhead Stadium, Kansas City"
+    },
+    "spieltermine": {
+      "Jordanien": "17. Juni 2026",
+      "Argentinien": "22. Juni 2026",
+      "Algerien": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Ralf Rangnick",
+      "nationalitaet": "Deutsch",
+      "alter": 67,
+      "besonderheit": "Der Schwabe aus Backnang trainiert Österreich! Übernahm das ÖFB-Team im Mai 2022 und revolutionierte den österreichischen Fußball mit aggressivem Gegenpressing. Früher bei Hoffenheim, Schalke 04 und RB Leipzig. Schlug den Lockruf des FC Bayern ab, um seine Mission mit Österreich zu Ende zu bringen. Sein Stil hat Generationen von Trainern geprägt – auch Jürgen Klopp und Julian Nagelsmann nennen ihn als Vorbild.",
+      "stationen_als_trainer": ["VfB Stuttgart", "Hannover 96", "TSG Hoffenheim", "FC Schalke 04", "RB Leipzig (Sportdirektor und Trainer)", "Manchester United (Interimstrainer)", "Österreich (Nationaltrainer)"]
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Österreich gewann die Qualifikationsgruppe souverän als Erster. Das dramatische Heimspiel gegen Bosnien-Herzegowina, wo Michael Gregoritsch in der Schlussphase das entscheidende 1:1 köpfte, sicherte die WM-Teilnahme."
+    },
+    "kapitaen": "David Alaba",
+    "teilnahmen_gesamt": 8,
+    "wm_titel": 0,
+    "bestes_ergebnis": "3. Platz (WM 1954 in der Schweiz) – bis heute das beste Ergebnis",
+    "em_ergebnis_2024": "Achtelfinale (EM 2024 in Deutschland – ausgeschieden gegen die Türkei)",
+    "letztes_turnier": {
+      "jahr": 1998,
+      "austragungsort": "Frankreich",
+      "ergebnis": "Vorrunde"
+    },
+    "bundesliga_spieler": [
+      "Konrad Laimer – Mittelfeld (FC Bayern München)",
+      "Marcel Sabitzer – Mittelfeld (Borussia Dortmund)",
+      "Carney Chukwuemeka – Mittelfeld (Borussia Dortmund)",
+      "Christoph Baumgartner – Mittelfeld (RB Leipzig)",
+      "Xaver Schlager – Mittelfeld (RB Leipzig)",
+      "Nicolas Seiwald – Mittelfeld (RB Leipzig)",
+      "Marco Friedl – Verteidiger (SV Werder Bremen)",
+      "Romano Schmid – Mittelfeld (SV Werder Bremen)",
+      "Stefan Posch – Verteidiger (FSV Mainz 05)",
+      "Phillipp Mwene – Verteidiger (FSV Mainz 05)",
+      "Alexander Prass – Mittelfeld (TSG Hoffenheim)",
+      "Philipp Lienhart – Verteidiger (SC Freiburg)",
+      "Patrick Wimmer – Angriff (VfL Wolfsburg)",
+      "Michael Gregoritsch – Stürmer (FC Augsburg)"
+    ],
+    "stars": [
+      {
+        "name": "David Alaba",
+        "verein": "Real Madrid",
+        "position": "Innenverteidiger / Linksverteidiger",
+        "alter": 33,
+        "länderspiele": 112,
+        "rolle": "Kapitän und Aushängeschild – Champions-League-Sieger mit Real Madrid und Bayern München. Mit 112 Länderspielen einer der erfahrensten Österreicher aller Zeiten."
+      },
+      {
+        "name": "Marcel Sabitzer",
+        "verein": "Borussia Dortmund",
+        "position": "Mittelfeld",
+        "alter": 32,
+        "länderspiele": 95,
+        "rolle": "Motor und Anführer im Mittelfeld – einer der erfahrensten Spieler, früher bei RB Leipzig und Bayern München"
+      },
+      {
+        "name": "Konrad Laimer",
+        "verein": "FC Bayern München",
+        "position": "Mittelfeld / Rechtsverteidiger",
+        "alter": 29,
+        "rolle": "Vielseitiger Allrounder beim FC Bayern – läuft, kämpft und spielt sich in jedes Spiel"
+      },
+      {
+        "name": "Marko Arnautović",
+        "verein": "FK Roter Stern Belgrad",
+        "position": "Stürmer",
+        "alter": 37,
+        "länderspiele": 132,
+        "länderspieltore": 36,
+        "rolle": "Rekordtorschütze Österreichs mit 36 Toren – bei seiner wahrscheinlich letzten WM. Früher bei West Ham, Inter Mailand und Manchester United."
+      },
+      {
+        "name": "Christoph Baumgartner",
+        "verein": "RB Leipzig",
+        "position": "Offensives Mittelfeld",
+        "alter": 25,
+        "rolle": "Kreativer Spielmacher bei RB Leipzig – Österreichs größtes Mittelfeld-Talent"
+      },
+      {
+        "name": "Nicolas Seiwald",
+        "verein": "RB Leipzig",
+        "position": "Defensives Mittelfeld",
+        "alter": 25,
+        "rolle": "Zweikampfstarker Mittelfeldspieler bei RB Leipzig – Herzstück der Defensivarbeit"
+      }
+    ],
+    "fun_fact": "14 von 26 Spielern spielen in der deutschen Bundesliga – so viele wie kein anderes WM-Team! Trainer Ralf Rangnick ist Deutscher und kommt aus Backnang in Baden-Württemberg – er trainiert Österreich wie kein anderer vor ihm und lehnte sogar den FC Bayern München ab, um bei Österreich zu bleiben. David Alaba ist der erste Österreicher, der die Champions League gewonnen hat – und zwar zweimal (Bayern München 2020, Real Madrid 2022)!"
+  }
+}

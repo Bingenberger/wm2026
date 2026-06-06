@@ -1,0 +1,105 @@
+{
+  "land": "Curaçao",
+  "offizieller_name": "Land Curaçao",
+  "staatsform": "Autonomes Land innerhalb des Königreichs der Niederlande",
+  "spitzname": "The Blue Wave (Die Blaue Welle)",
+  "flagge": "Blauer Hintergrund mit einem gelben waagerechten Streifen unten und zwei weißen Sternen oben links – der blaue Teil steht für den Ozean und den Himmel, Gelb für die Sonne, die zwei Sterne für die Hauptinsel und die kleine Nachbarinsel Klein Curaçao",
+
+  "steckbrief": {
+    "hauptstadt": "Willemstad",
+    "einwohner": "ca. 150.000",
+    "sprachen": ["Papiamentu (Kreolsprache)", "Niederländisch", "Englisch", "Spanisch"],
+    "waehrung": "Niederländisch-Karibischer Gulden (ANG)",
+    "lage": "Karibik – kleine Insel vor der Küste Venezuelas, südlich der Karibischen See",
+    "nachbarn": ["Venezuela (ca. 65 km entfernt, über das Meer)", "Aruba (Nachbarinsel)", "Bonaire (Nachbarinsel)"],
+    "bekannt_fuer": ["Bunte koloniale Architektur in Willemstad (UNESCO-Welterbe)", "Kristallklares Meer und Korallenriffe", "Tauchen und Schnorcheln", "Erdölraffinerie (eine der größten der Welt)", "Karibisches Klima und Strände", "Teil des Königreichs der Niederlande"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Curaçao ist eine winzige Karibikinsel mit nur 150.000 Einwohnern – und trotzdem bei der WM 2026 dabei! Es ist das kleinste Land, das sich jemals für eine Fußball-Weltmeisterschaft qualifiziert hat.",
+    "lang": "Curaçao liegt in der südlichen Karibik, nicht weit von Venezuela entfernt, und gehört zum Königreich der Niederlande – ähnlich wie Grönland zu Dänemark. Obwohl so klein, hat die Insel vier Amtssprachen: Papiamentu (eine einzigartige Kreolsprache), Niederländisch, Englisch und Spanisch. Die Hauptstadt Willemstad ist berühmt für ihre knallbunten Kolonialgebäude direkt am Wasser – dieses Stadtbild gehört zum UNESCO-Welterbe! Das Meer rund um die Insel ist kristallklar, die Korallenriffe gehören zu den schönsten der Karibik. Curaçao hat auf der ganzen Welt Bekanntheit durch den blauen Likör gleichen Namens erlangt – benannt nach der bitteren Orangen, die auf der Insel wachsen. Und bei der WM 2026 schreibt die Insel Geschichte!"
+  },
+
+  "hauptstadt": {
+    "name": "Willemstad",
+    "einwohner": "ca. 130.000",
+    "besonderheit": "UNESCO-Welterbe – die bunte Kolonialarchitektur der Innenstadt Handelskade ist weltweit einzigartig",
+    "wahrzeichen": ["Handelskade (bunte Häuserfront am Wasser)", "Königin-Emma-Brücke (Schwimmbrücke)", "Fort Amsterdam", "Mikve Israel-Emanuel Synagoge (älteste Synagoge Amerikas)"],
+    "beschreibung": "Willemstad ist eine der faszinierendsten Hauptstädte der Karibik. Die bunten, niederländisch geprägten Kolonialgebäude direkt am Sint Annabaai-Kanal wurden als UNESCO-Welterbe anerkannt. Die schwimmende Königin-Emma-Brücke verbindet die beiden Stadthälften – und öffnet sich, wenn Schiffe passieren. In der Stadt steht auch die älteste aktive Synagoge Amerikas, gebaut im Jahr 1732."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Curaçao ist mit ca. 150.000 Einwohnern das kleinste Land, das sich jemals für eine Fußball-Weltmeisterschaft qualifiziert hat! Bisher war Island (ca. 400.000 Einwohner, WM 2018) der kleinste WM-Teilnehmer. Curaçao unterbietet diese Marke bei weitem. Es ist die erste WM-Teilnahme überhaupt.",
+    "gruppe": "E",
+    "gruppenGegner": ["Deutschland", "Ecuador", "Elfenbeinküste"],
+    "spielorte": {
+      "Deutschland": "Houston-Stadion, Houston",
+      "Ecuador": "Kansas City-Stadion, Kansas City",
+      "Elfenbeinküste": "Philadelphia-Stadion, Philadelphia"
+    },
+    "spieltermine": {
+      "Deutschland": "14. Juni 2026",
+      "Ecuador": "21. Juni 2026",
+      "Elfenbeinküste": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Dick Advocaat",
+      "nationalitaet": "Niederländisch",
+      "alter": 78,
+      "besonderheit": "Mit 78 Jahren der älteste WM-Trainer aller Zeiten! Trainierte zuvor u.a. die Niederlande, Belgien, Russland und Borussia Mönchengladbach. Führte Curaçao zur historischen WM-Qualifikation, trat danach aus persönlichen Gründen zurück – und kehrte kurz vor der WM wieder zurück."
+    },
+    "qualifikation": {
+      "weg": "CONCACAF (Nord- und Mittelamerika)",
+      "beschreibung": "Curaçao blieb in der gesamten WM-Qualifikation ungeschlagen und erzielte mehr Tore als jede andere CONCACAF-Mannschaft (28 Tore in 10 Spielen). Highlights: 7:0 gegen Bermuda, 5:1 gegen Haiti. Den WM-Platz sicherte ein 2:0-Sieg gegen Jamaika im Oktober 2025."
+    },
+    "kapitaen": "Leandro Bacuna",
+    "teilnahmen_gesamt": 1,
+    "wm_titel": 0,
+    "erste_wm_teilnahme": 2026,
+    "kader_besonderheit": "Fast der gesamte Kader hat niederländische Wurzeln – 25 von 26 Spielern stammen aus niederländischen Akademien oder spielen in der Eredivisie. Curaçao ist ein autonomes Land im Königreich der Niederlande, viele Spieler mit curaçaoischer Abstammung wuchsen in den Niederlanden auf.",
+    "bundesliga_spieler": [
+      "Tahith Chong – Angriff (Sheffield United, früher Werder Bremen – 13 Bundesliga-Spiele)",
+      "Jürgen Locadia – Stürmer (Miami FC, früher Hoffenheim und Bochum – 22 Bundesliga-Spiele, 6 Tore)",
+      "Riechedly Bazoer – Verteidiger (Konyaspor, früher VfL Wolfsburg – 25 Bundesliga-Spiele)",
+      "Joshua Brenet – Verteidiger (Kayserispor, früher TSG Hoffenheim – 15 Bundesliga-Spiele)"
+    ],
+    "stars": [
+      {
+        "name": "Tahith Chong",
+        "verein": "Sheffield United (England)",
+        "position": "Stürmer / Flügel",
+        "alter": 26,
+        "besonderheit": "Als einziger Spieler im Kader direkt auf Curaçao geboren. Durchlief die Jugendakademie von Manchester United, spielte auf Leihbasis für Werder Bremen.",
+        "rolle": "Bekanntester Spieler und Star des Teams"
+      },
+      {
+        "name": "Jürgen Locadia",
+        "verein": "Miami FC (USA)",
+        "position": "Stürmer",
+        "besonderheit": "Früher in der Bundesliga bei Hoffenheim und Bochum aktiv",
+        "rolle": "Erfahrener Torjäger"
+      },
+      {
+        "name": "Eloy Room",
+        "verein": "Miami FC (USA)",
+        "position": "Torwart",
+        "rolle": "Rekordspieler – am häufigsten für Curaçao aufgelaufen"
+      },
+      {
+        "name": "Leandro Bacuna",
+        "verein": "k.A.",
+        "position": "Mittelfeld",
+        "rolle": "Kapitän und Routinier"
+      },
+      {
+        "name": "Armando Obispo",
+        "verein": "PSV Eindhoven (Niederlande)",
+        "position": "Verteidiger",
+        "rolle": "Einziger Spieler bei einem Champions-League-Verein"
+      }
+    ],
+    "fun_fact": "Curaçao hat weniger Einwohner als die Stadt Bonn – und spielt trotzdem bei der Weltmeisterschaft! Der blau-gelbe Likör 'Curaçao' (den du vielleicht aus Cocktails kennst) stammt von der Insel und ist nach ihr benannt. Trainer Dick Advocaat ist 78 Jahre alt – damit ist er der älteste WM-Trainer aller Zeiten. Und: Gleich vier Spieler im Kader kennen die Bundesliga aus eigener Erfahrung!"
+  }
+}

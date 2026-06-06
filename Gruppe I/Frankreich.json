@@ -1,0 +1,129 @@
+{
+  "land": "Frankreich",
+  "offizieller_name": "Französische Republik",
+  "spitzname": "Les Bleus (Die Blauen) / Équipe Tricolore",
+  "flagge": "Drei senkrechte Streifen in Blau (links), Weiß (Mitte) und Rot (rechts) – das berühmte Tricolore. Die Farben stammen aus der Französischen Revolution 1789 und stehen für Freiheit (Blau), Gleichheit (Weiß) und Brüderlichkeit (Rot).",
+
+  "steckbrief": {
+    "hauptstadt": "Paris",
+    "einwohner": "ca. 68 Millionen",
+    "sprache": "Französisch",
+    "waehrung": "Euro (€)",
+    "lage": "Westeuropa – grenzt an Belgien, Luxemburg, Deutschland, Schweiz, Italien und Spanien",
+    "nachbarn": ["Belgien", "Luxemburg", "Deutschland", "Schweiz", "Italien", "Spanien", "Andorra", "Monaco"],
+    "bekannt_fuer": ["Eiffelturm und Paris", "Mode und Parfüm", "Französische Küche (Croissant, Baguette, Käse)", "Louvre-Museum (Mona Lisa)", "Tour de France (Radrennen)", "Napoleon und die Französische Revolution"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Frankreich ist das Land des Eiffelturms, der Baguettes und der Mode – und einer der stärksten Fußballnationen der Welt mit Superstar Kylian Mbappé!",
+    "lang": "Frankreich liegt in Westeuropa und ist eines der bekanntesten Länder der Welt. Paris, die Hauptstadt, gilt als eine der romantischsten Städte der Welt – mit dem Eiffelturm als Wahrzeichen, dem Louvre-Museum (in dem die berühmteste Gemälde der Welt hängt – die Mona Lisa!) und den Champs-Élysées. Frankreich ist bekannt für seine Küche: Baguette, Croissants, Käse (über 1.000 Sorten!) und Wein sind weltberühmt. Jedes Jahr gibt es die Tour de France – das bekannteste Radrennen der Welt, das durch ganz Frankreich führt. Und Frankreich ist das Land der großen Revolution: 1789 stürmte das Volk die Bastille und erkämpfte Freiheit, Gleichheit, Brüderlichkeit – diese drei Worte stehen noch heute auf Frankreichs Motto!"
+  },
+
+  "hauptstadt": {
+    "name": "Paris",
+    "einwohner": "ca. 2,1 Millionen (Großraum ca. 12 Millionen)",
+    "lage": "Nordfrankreich, an der Seine",
+    "wahrzeichen": ["Eiffelturm (324 m – erbaut 1889)", "Louvre (größtes Kunstmuseum der Welt – Mona Lisa!)", "Notre-Dame-Kathedrale", "Arc de Triomphe", "Sacré-Cœur (Basilika auf dem Montmartre-Hügel)"],
+    "beschreibung": "Paris ist eine der schönsten und bekanntesten Städte der Welt. Der Eiffelturm – ursprünglich nur als temporäres Ausstellungsgebäude 1889 gebaut – wurde zum Symbol Frankreichs und Europas. Im Louvre, dem größten Kunstmuseum der Welt, hängt die Mona Lisa – das bekannteste Gemälde der Geschichte. Die Notre-Dame-Kathedrale, die 2019 bei einem Brand schwer beschädigt wurde, wurde aufwendig restauriert und 2024 feierlich wiedereröffnet."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Frankreich ist die Nummer 1 der FIFA-Weltrangliste und einer der heißesten Titelanwärter. 2022 verloren die Franzosen das Finale gegen Argentinien erst im Elfmeterschießen – nur einen Schritt vom dritten Stern entfernt! Es ist Trainer Didier Deschamps' letzte WM – er legt sein Amt nach dem Turnier nieder.",
+    "gruppe": "I",
+    "gruppenGegner": ["Senegal", "Irak", "Norwegen"],
+    "spielorte": {
+      "Senegal": "MetLife Stadium, New York/New Jersey",
+      "Irak": "Lincoln Financial Field, Philadelphia",
+      "Norwegen": "Gillette Stadium, Boston"
+    },
+    "spieltermine": {
+      "Senegal": "17. Juni 2026",
+      "Irak": "21. Juni 2026",
+      "Norwegen": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Didier Deschamps",
+      "nationalitaet": "Französisch",
+      "alter": 57,
+      "besonderheit": "Einer der ganz wenigen Männer, die sowohl als Spieler (1998) als auch als Trainer (2018) Weltmeister wurden – neben Beckenbauer und Zagallo. Es ist seine letzte WM als Trainer – er legt sein Amt im Sommer 2026 nieder. Ein Trainer für die Geschichtsbücher."
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Souverän qualifiziert: 6 Spiele, 0 Niederlagen, bereits am 5. Spieltag sicher. Highlights: 4:0 gegen die Ukraine."
+    },
+    "kapitaen": "Kylian Mbappé",
+    "teilnahmen_gesamt": 17,
+    "wm_titel": 2,
+    "wm_titel_jahre": [1998, 2018],
+    "em_titel": 2,
+    "em_titel_jahre": [1984, 2000],
+    "bestes_ergebnis": "Weltmeister 1998 und 2018 – Vize-Weltmeister 2022",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Finale (Vize-Weltmeister)",
+      "ausgeschieden_gegen": "Argentinien (Elfmeterschießen nach 3:3 n.V.)",
+      "highlight": "Mbappé erzielte als zweiter Spieler der Geschichte einen Hattrick im WM-Finale!"
+    },
+    "bundesliga_spieler": [
+      "Michael Olise – Rechtsaußen / Offensives Mittelfeld (FC Bayern München)",
+      "Dayot Upamecano – Innenverteidiger (FC Bayern München)"
+    ],
+    "ex_bundesliga_im_kader": [
+      "Lucas Hernández (PSG, früher Bayern München)",
+      "Marcus Thuram (Inter Mailand, früher Borussia Mönchengladbach)",
+      "Ibrahima Konaté (Liverpool, früher RB Leipzig)",
+      "Manu Koné (AS Rom, früher Borussia Mönchengladbach)",
+      "Maxence Lacroix (Crystal Palace, früher VfL Wolfsburg)",
+      "Ousmane Dembélé (PSG, früher Borussia Dortmund)"
+    ],
+    "stars": [
+      {
+        "name": "Kylian Mbappé",
+        "verein": "Real Madrid",
+        "position": "Stürmer / Linksaußen",
+        "alter": 27,
+        "rolle": "Kapitän und bester Spieler – einer der schnellsten und torgefährlichsten Spieler der Welt. Erzielte im WM-Finale 2022 einen Hattrick gegen Argentinien. Seit 2024 bei Real Madrid."
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "verein": "Paris Saint-Germain",
+        "position": "Rechtsaußen",
+        "alter": 29,
+        "bundesliga_vergangenheit": "Borussia Dortmund",
+        "rolle": "Ballon d'Or 2025 – bester Spieler der Welt, Dribbelkünstler auf dem Flügel. Früher bei Borussia Dortmund."
+      },
+      {
+        "name": "Michael Olise",
+        "verein": "FC Bayern München",
+        "position": "Rechtsaußen / Offensives Mittelfeld",
+        "alter": 24,
+        "rolle": "Formstärkster Spieler des Kaders – beim FC Bayern seit 2024, traf im Kalenderjahr 2026 zwölf Mal. Technisch brillant, herausragender Freistoßschütze."
+      },
+      {
+        "name": "N'Golo Kanté",
+        "verein": "Fenerbahçe (Türkei)",
+        "position": "Defensives Mittelfeld",
+        "alter": 35,
+        "rolle": "Legende des französischen Fußballs – Weltmeister 2018, kämpft sich trotz Alter weiter durch. Einer der beliebtesten Spieler Frankreichs."
+      },
+      {
+        "name": "Marcus Thuram",
+        "verein": "Inter Mailand",
+        "position": "Stürmer",
+        "bundesliga_vergangenheit": "Borussia Mönchengladbach",
+        "rolle": "Physisch starker Mittelstürmer – früher bei Borussia Mönchengladbach, jetzt bei Inter Mailand. Sein Vater Lilian Thuram war Weltmeister 1998!"
+      },
+      {
+        "name": "Rayan Cherki",
+        "verein": "Manchester City",
+        "position": "Offensives Mittelfeld / Flügel",
+        "alter": 22,
+        "rolle": "Jüngstes Supertalent – bei Manchester City von Pep Guardiola trainiert, gilt als Frankreichs nächster Superstar"
+      }
+    ],
+    "fun_fact": "Ousmane Dembélé spielte früher bei Borussia Dortmund in der Bundesliga! Und Michael Olise sowie Dayot Upamecano spielen beim FC Bayern München – beide sind im französischen WM-Kader. Marcus Thurams Vater Lilian Thuram war 1998 Weltmeister mit Frankreich – jetzt will sein Sohn den gleichen Erfolg wiederholen! Und Trainer Didier Deschamps ist einer von nur drei Menschen der Welt, die sowohl als Spieler als auch als Trainer Weltmeister wurden."
+  }
+}

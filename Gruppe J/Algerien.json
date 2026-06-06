@@ -1,0 +1,117 @@
+{
+  "land": "Algerien",
+  "offizieller_name": "Demokratische Volksrepublik Algerien",
+  "spitzname": "Les Fennecs (Die Wüstenfüchse)",
+  "flagge": "Zwei senkrechte Hälften: Grün (links) und Weiß (rechts) – in der Mitte ein roter Halbmond und ein roter fünfzackiger Stern. Grün steht für den Islam und die Natur, Weiß für Reinheit, Rot für das Blut der Märtyrer.",
+
+  "steckbrief": {
+    "hauptstadt": "Algier",
+    "einwohner": "ca. 46 Millionen",
+    "sprachen": ["Arabisch (Amtssprache)", "Tamazight (Berbersprache, Amtssprache seit 2016)", "Französisch (weit verbreitet)"],
+    "waehrung": "Algerischer Dinar (DZD)",
+    "lage": "Nordafrika – größtes Land Afrikas und des arabischen Raums! Grenzt ans Mittelmeer im Norden und die Sahara im Süden",
+    "nachbarn": ["Tunesien", "Libyen", "Niger", "Mali", "Mauretanien", "Marokko"],
+    "bekannt_fuer": ["Größtes Land Afrikas", "Sahara-Wüste (riesige Sanddünen)", "Römische Ruinen (Timgad, Djémila – UNESCO-Welterbe)", "Kuskus (Nationalgericht)", "Riyad Mahrez – Premier-League-Legende", "Unabhängigkeitskrieg gegen Frankreich (1954–1962)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Algerien ist das größte Land Afrikas – fast fünf Mal so groß wie Deutschland! Im Süden erstreckt sich die riesige Sahara, im Norden liegen wunderschöne Mittelmeerstädte und antike Ruinen.",
+    "lang": "Algerien liegt in Nordafrika und ist das größte Land des ganzen Kontinents – und auch das größte arabische Land der Welt! Über 80 Prozent des Landes sind Sahara-Wüste, mit riesigen orangefarbenen Sanddünen, die manchmal 50 Meter hoch sind. Dazwischen gibt es Oasen – grüne Inseln mitten in der Wüste, wo Dattelpalmen wachsen. Im Norden am Mittelmeer liegt Algier, eine wunderschöne Küstenstadt. Dort und in anderen Teilen des Landes gibt es eindrucksvolle Ruinen aus der Römerzeit, die zum UNESCO-Welterbe gehören. Algerien kämpfte zwischen 1954 und 1962 für seine Unabhängigkeit von Frankreich – ein sehr bedeutsames Ereignis in der Geschichte des Landes. Und seit 2026 kann Algerien wieder von der größten Fußballbühne träumen."
+  },
+
+  "hauptstadt": {
+    "name": "Algier",
+    "arabisch": "الجزائر (al-Jazāʾir)",
+    "einwohner": "ca. 3,7 Millionen",
+    "lage": "Nordküste Algeriens, am Mittelmeer",
+    "wahrzeichen": ["Kasbah von Algier (UNESCO-Welterbe – mittelalterliche Altstadt)", "Große Moschee von Algier (eine der größten Moscheen der Welt)", "Märtyrerdenkmal (Monument des Martyrs)", "Hafen von Algier"],
+    "beschreibung": "Algier ist eine lebendige Stadt, die sich an einem Hang über dem Mittelmeer erstreckt – deshalb wird sie auch 'Algier die Weiße' genannt, wegen der weißen Häuser, die im Sonnenlicht leuchten. Die Kasbah, die alte Festungsstadt, ist ein Labyrinth aus engen Gassen, alten Palästen und farbenfrohen Häusern – UNESCO-Welterbe. Die neue Große Moschee von Algier hat ein über 265 Meter hohes Minarett – eines der höchsten der Welt!"
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Algerien kehrt nach zwölf Jahren Pause zur WM zurück – die letzte Teilnahme war 2014, als die Wüstenfüchse Deutschland 120 Minuten lang am Rande einer Blamage hielten! Das historisch beste WM-Ergebnis Algeriens. Gleich zum Auftakt wartet Weltmeister und Titelverteidiger Argentinien.",
+    "gruppe": "J",
+    "gruppenGegner": ["Argentinien", "Jordanien", "Österreich"],
+    "spielorte": {
+      "Argentinien": "Arrowhead Stadium, Kansas City",
+      "Jordanien": "Levi's Stadium, San Francisco",
+      "Österreich": "Arrowhead Stadium, Kansas City"
+    },
+    "spieltermine": {
+      "Argentinien": "16. Juni 2026",
+      "Jordanien": "21. Juni 2026",
+      "Österreich": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Vladimir Petković",
+      "nationalitaet": "Bosnisch-Schweizerisch",
+      "besonderheit": "Früher Trainer der Schweizer Nationalmannschaft (2014–2021) – jetzt führt er Algerien zur WM! Übernahm Algerien 2024 und qualifizierte das Team souverän. Gilt als taktisch versiert und bringt europäische Professionalität."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "gruppe": "G",
+      "beschreibung": "Souveräner Gruppensieg: 8 Siege, 1 Unentschieden, 1 Niederlage. WM-Ticket bereits am vorletzten Spieltag mit 3:0 gegen Somalia gesichert. Mohamed Amoura überragender Torschütze mit 10 Treffern – bester in der gesamten afrikanischen Qualifikation!"
+    },
+    "kapitaen": "Riyad Mahrez",
+    "teilnahmen_gesamt": 5,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Achtelfinale (WM 2014 in Brasilien – 1:2 n.V. gegen Deutschland)",
+    "historische_besonderheit": "WM 2014, Porto Alegre: Deutschland brauchte die Verlängerung, um Algerien 2:1 zu besiegen – ein dramatisches Spiel, das ganz Deutschland in Atem hielt. André Schürrle und Özil retteten Deutschland erst in der Verlängerung.",
+    "afrikacup_titel": 2,
+    "afrikacup_titel_jahre": [1990, 2019],
+    "bundesliga_spieler": [
+      "Ibrahim Maza – Offensives Mittelfeld (Bayer 04 Leverkusen) – wertvollster Spieler des Kaders, 20 Jahre alt",
+      "Ramy Bensebaïni – Linksverteidiger (Borussia Dortmund)",
+      "Mohamed Amine Amoura – Stürmer (VfL Wolfsburg) – 10 WM-Qualifikationstore!",
+      "Farès Chaïbi – Mittelfeld (Eintracht Frankfurt)"
+    ],
+    "stars": [
+      {
+        "name": "Riyad Mahrez",
+        "verein": "Al-Ahli (Saudi-Arabien)",
+        "position": "Rechtsaußen",
+        "alter": 35,
+        "rolle": "Kapitän und größter Star – gewann mit Leicester City 2016 sensationell die Premier League, Champions-League-Sieger mit Manchester City 2023. Bei seiner zweiten und wohl letzten WM."
+      },
+      {
+        "name": "Ibrahim Maza",
+        "verein": "Bayer 04 Leverkusen",
+        "position": "Offensives Mittelfeld",
+        "alter": 20,
+        "rolle": "Größtes Talent – 20-jähriger Aufsteiger bei Bayer Leverkusen, gilt als wertvollster algerischer Spieler und Zukunft der Nationalmannschaft"
+      },
+      {
+        "name": "Mohamed Amine Amoura",
+        "verein": "VfL Wolfsburg",
+        "position": "Stürmer",
+        "alter": 26,
+        "rolle": "Torjäger der Qualifikation – 10 Tore in der WM-Qualifikation, bester Torschütze der gesamten afrikanischen Ausscheidung. Bundesliga-Profi beim VfL Wolfsburg."
+      },
+      {
+        "name": "Ramy Bensebaïni",
+        "verein": "Borussia Dortmund",
+        "position": "Linksverteidiger",
+        "alter": 31,
+        "rolle": "Erfahrener Bundesliga-Verteidiger beim BVB – offensivstark und set-piece-gefährlich"
+      },
+      {
+        "name": "Luca Zidane",
+        "verein": "FC Granada (Spanien)",
+        "position": "Torwart",
+        "alter": 28,
+        "besonderheit": "Sein Vater ist Zinédine Zidane – einer der besten Fußballer aller Zeiten! Luca erhielt von der FIFA die Genehmigung, für Algerien zu spielen, da seine Mutter Algerierin ist.",
+        "rolle": "Stammtorhüter – trägt den berühmtesten Namen im algerischen WM-Kader"
+      },
+      {
+        "name": "Rayan Aït-Nouri",
+        "verein": "Manchester City",
+        "position": "Linksverteidiger",
+        "alter": 25,
+        "rolle": "Premier-League-Stammspieler bei Manchester City – einer der besten Linksverteidiger Europas"
+      }
+    ],
+    "fun_fact": "Luca Zidane ist der Sohn von Zinédine Zidane – einer der größten Fußballer aller Zeiten und dreifacher Weltfußballer! Luca spielt jetzt im Tor für Algerien. Und: 2014 hielt Algerien Deutschland 120 Minuten lang auf – André Schürrle und Mesut Özil retteten Deutschland erst in der Verlängerung. Vier Bundesliga-Profis sind im algerischen WM-Kader: Maza (Leverkusen), Bensebaïni (BVB), Amoura (Wolfsburg) und Chaïbi (Frankfurt)!"
+  }
+}

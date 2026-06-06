@@ -1,0 +1,98 @@
+{
+  "land": "Südkorea",
+  "spitzname": "Taegeuk Warriors",
+  "flagge": "Weißer Hintergrund mit rotem und blauem Taegeuk-Symbol in der Mitte und vier schwarzen Trigrammen in den Ecken",
+
+  "steckbrief": {
+    "hauptstadt": "Seoul",
+    "einwohner": "ca. 52 Millionen",
+    "sprache": "Koreanisch",
+    "waehrung": "Südkoreanischer Won (₩)",
+    "lage": "Ostasien, auf der Koreanischen Halbinsel",
+    "nachbarn": ["Nordkorea (Landesgrenze im Norden)", "Japan (über das Meer)", "China (über das Meer)"],
+    "bekannt_fuer": ["K-Pop und K-Dramen", "Technologie (Samsung, Hyundai)", "Kimchi und Bibimbap", "Taekwondo", "Manga-Comics (Manhwa)", "Fußball"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Südkorea ist berühmt für K-Pop, Technik und leckeres Essen – und einer der stärksten Fußballnationen ganz Asiens!",
+    "lang": "Südkorea liegt in Ostasien auf einer Halbinsel und ist eines der modernsten Länder der Welt. Die Hauptstadt Seoul ist riesig – über 10 Millionen Menschen leben dort! Südkorea ist bekannt für seine Technikfirmen wie Samsung und Hyundai, aber auch für K-Pop-Musik, die auf der ganzen Welt beliebt ist. Das typische Essen ist Kimchi – das ist fermentiertes Gemüse, meist Kohl mit Chili, das zu fast jeder Mahlzeit gegessen wird. Der Nationalsport ist Taekwondo – eine Kampfsportart, die aus Korea stammt. Beim Fußball ist Südkorea die stärkste Mannschaft Asiens und schafft es fast immer zur Weltmeisterschaft!"
+  },
+
+  "hauptstadt": {
+    "name": "Seoul",
+    "einwohner": "ca. 10 Millionen (Großraum ca. 25 Millionen)",
+    "fluss": "Han-Fluss",
+    "wahrzeichen": ["N Seoul Tower", "Gyeongbokgung-Palast", "Dongdaemun Design Plaza", "Bukchon Hanok Village", "Han-Fluss-Parks"],
+    "beschreibung": "Seoul ist eine gigantische Metropole am Han-Fluss und eine der technologisch fortschrittlichsten Städte der Welt. Mitten in der Großstadt stehen jahrhundertealte Königspaläste neben glitzernden Wolkenkratzern. Vom N Seoul Tower auf dem Namsan-Berg hat man einen atemberaubenden Blick über die ganze Stadt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "gruppe": "A",
+    "gruppenGegner": ["Tschechien", "Mexiko", "Südafrika"],
+    "spielorte": {
+      "Tschechien": "k. A.",
+      "Mexiko": "Mexiko-Stadt (Aztekenstadion)",
+      "Südafrika": "Monterrey (Monterrey-Stadion)"
+    },
+    "spieltermine": {
+      "Tschechien": "12. Juni 2026",
+      "Mexiko": "19. Juni 2026",
+      "Südafrika": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Hong Myung-bo",
+      "nationalitaet": "Südkoreanisch",
+      "besonderheit": "Führte Südkorea 2002 als Kapitän ins WM-Halbfinale – jetzt steht er als Trainer auf der Bank. Bereits seine zweite Amtszeit als Nationalcoach."
+    },
+    "qualifikation": {
+      "beschreibung": "Südkorea qualifizierte sich über die asiatische WM-Qualifikation (AFC). Es ist die elfte Teilnahme in Folge – eine der längsten Serien weltweit."
+    },
+    "kapitaen": "Son Heung-min",
+    "teilnahmen_gesamt": 12,
+    "teilnahmen_in_folge": 11,
+    "wm_titel": 0,
+    "bestes_ergebnis": "4. Platz (2002 als Gastgeber gemeinsam mit Japan)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "Brasilien",
+      "ergebnis_detail": "1:4"
+    },
+    "stars": [
+      {
+        "name": "Son Heung-min",
+        "verein": "Los Angeles FC (USA)",
+        "position": "Stürmer",
+        "rolle": "Kapitän und Rekordnationalspieler mit 142 Einsätzen – vor seiner vierten WM-Teilnahme"
+      },
+      {
+        "name": "Kim Min-jae",
+        "verein": "FC Bayern München",
+        "position": "Innenverteidiger",
+        "rolle": "Weltklasse-Abwehrchef"
+      },
+      {
+        "name": "Lee Kang-in",
+        "verein": "Paris Saint-Germain",
+        "position": "Offensives Mittelfeld",
+        "rolle": "Kreativer Spielmacher, Champions-League-Sieger"
+      },
+      {
+        "name": "Hwang Hee-chan",
+        "verein": "Wolverhampton Wanderers",
+        "position": "Stürmer",
+        "rolle": "Gefährlicher Torjäger"
+      },
+      {
+        "name": "Lee Jae-sung",
+        "verein": "1. FSV Mainz 05",
+        "position": "Mittelfeld",
+        "rolle": "Erfahrener Mittelfeldstratege, über 100 Länderspiele"
+      }
+    ],
+    "bundesliga_spieler": ["Kim Min-jae (FC Bayern München)", "Lee Jae-sung (1. FSV Mainz 05)", "Jens Castrop (Borussia Mönchengladbach)"],
+    "fun_fact": "Son Heung-min ist der bekannteste Fußballer Asiens – früher spielte er für Tottenham Hotspur in England, jetzt in den USA. Bei der WM 2018 schoss er das berühmte 2:0 gegen Deutschland! Und: Gleich drei Südkoreaner spielen in der deutschen Bundesliga."
+  }
+}

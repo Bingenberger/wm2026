@@ -1,0 +1,106 @@
+{
+  "land": "Kanada",
+  "spitzname": "Les Rouges / The Canucks",
+  "flagge": "Weißes Feld in der Mitte mit einem roten Ahornblatt – links und rechts je ein roter Streifen. Das Ahornblatt ist das wichtigste Symbol Kanadas.",
+
+  "steckbrief": {
+    "hauptstadt": "Ottawa",
+    "einwohner": "ca. 40 Millionen",
+    "sprachen": ["Englisch", "Französisch"],
+    "waehrung": "Kanadischer Dollar (CA$)",
+    "lage": "Nordamerika – flächenmäßig das zweitgrößte Land der Welt",
+    "nachbarn": ["USA (Süden)", "USA (Alaska, Nordwesten)"],
+    "bekannt_fuer": ["Ahornsirup", "Eishockey", "Niagarafälle", "Rocky Mountains", "Bären und Elche", "Freundlichkeit der Menschen", "Multikulturelle Gesellschaft"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Kanada ist das zweitgrößte Land der Welt – aber beim Fußball ist es ein aufgehender Stern, der 2026 endlich im eigenen Land glänzen will!",
+    "lang": "Kanada ist riesig – fast 200-mal so groß wie Deutschland! Von der Atlantikküste im Osten bis zum Pazifik im Westen gibt es Wälder, Prärien, Gebirge und Tundra. Die bekanntesten Naturwunder sind die Niagarafälle an der Grenze zu den USA und die schneebedeckten Rocky Mountains im Westen. Kanada hat zwei offizielle Sprachen: Englisch und Französisch – denn früher war das Land teils britisch, teils französisch besiedelt. Die Nationalsportart ist Eishockey, aber beim Fußball hat Kanada in den letzten Jahren riesige Sprünge gemacht. Bei der WM 2026 spielen die Kanadier im eigenen Land – und wollen endlich ihren ersten WM-Sieg feiern!"
+  },
+
+  "hauptstadt": {
+    "name": "Ottawa",
+    "einwohner": "ca. 1,1 Millionen",
+    "fluss": "Ottawa River",
+    "wahrzeichen": ["Parliament Hill (Parlamentsgebäude)", "Rideau Canal", "Canadian Museum of History", "ByWard Market"],
+    "beschreibung": "Ottawa liegt an der Grenze zur französischsprachigen Provinz Québec. Das beeindruckende Parliament Hill thront auf einem Hügel über dem Ottawa River. Im Winter wird der Rideau Canal zum längsten Eislaufkanal der Welt! Die größten und bekanntesten Städte Kanadas sind allerdings Toronto, Vancouver und Montréal – sie alle sind WM-Spielorte 2026."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit_gastgeber": "Kanada ist Mitgastgeber und trägt zwei seiner drei Gruppenspiele auf eigenem Boden aus – in Toronto und Vancouver.",
+    "gruppe": "B",
+    "gruppenGegner": ["Bosnien-Herzegowina", "Katar", "Schweiz"],
+    "spielorte": {
+      "Bosnien-Herzegowina": "Toronto (BMO Field)",
+      "Katar": "Vancouver (BC Place)",
+      "Schweiz": "Vancouver (BC Place)"
+    },
+    "spieltermine": {
+      "Bosnien-Herzegowina": "12. Juni 2026",
+      "Katar": "18. Juni 2026",
+      "Schweiz": "24. Juni 2026"
+    },
+    "trainer": {
+      "name": "Jesse Marsch",
+      "nationalitaet": "US-amerikanisch",
+      "besonderheit": "Kennen viele deutsche Fans: Er war 2021 kurzzeitig Trainer bei RB Leipzig. Zuvor trainierte er RB Salzburg. Sein Auftrag: den ersten WM-Sieg Kanadas."
+    },
+    "qualifikation": {
+      "beschreibung": "Als Mitgastgeber war Kanada automatisch für die WM 2026 qualifiziert."
+    },
+    "kapitaen": "Alphonso Davies",
+    "vizekapitaen": "Stephen Eustaquio",
+    "hinweis_kapitaen": "Alphonso Davies laboriert an einer Oberschenkelverletzung – für das erste Spiel ist sein Einsatz fraglich. Stephen Eustaquio führt das Team in seiner Abwesenheit.",
+    "teilnahmen_gesamt": 3,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (bei allen bisherigen Teilnahmen – 1986 und 2022)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Vorrunde ausgeschieden",
+      "beschreibung": "Nach 36 Jahren Pause kehrte Kanada 2022 zur WM zurück – und verlor alle drei Gruppenspiele, erzielte dabei aber zwei Tore. Alphonso Davies köpfte nach nur 67 Sekunden gegen Kroatien das erste WM-Tor der kanadischen Geschichte."
+    },
+    "historisches_wm_tor": {
+      "torschütze": "Alphonso Davies",
+      "gegner": "Kroatien",
+      "zeit": "67. Sekunde",
+      "jahr": 2022,
+      "bedeutung": "Erstes WM-Tor in der Geschichte der kanadischen Nationalmannschaft"
+    },
+    "stars": [
+      {
+        "name": "Alphonso Davies",
+        "verein": "FC Bayern München",
+        "position": "Linksverteidiger / Außenbahn",
+        "rolle": "Kapitän und Superstar – schoss 2022 das erste WM-Tor Kanadas. Aktuell verletzt."
+      },
+      {
+        "name": "Jonathan David",
+        "verein": "Juventus Turin",
+        "position": "Stürmer",
+        "rolle": "Haupttorjäger, einer der besten Stürmer Europas"
+      },
+      {
+        "name": "Ismaël Koné",
+        "verein": "US Sassuolo",
+        "position": "Mittelfeld",
+        "rolle": "Kreativer Mittelfeldstratege"
+      },
+      {
+        "name": "Tajon Buchanan",
+        "verein": "Villarreal CF",
+        "position": "Außenbahn",
+        "rolle": "Schneller Flügelspieler"
+      },
+      {
+        "name": "Stephen Eustaquio",
+        "verein": "FC Porto",
+        "position": "Mittelfeld",
+        "rolle": "Vizekapitän und Anführer im Mittelfeld"
+      }
+    ],
+    "fun_fact": "Kanada hat bei der WM noch nie gewonnen – null Siege in sechs Spielen! 2026 wollen sie das im eigenen Land endlich ändern. Und: Der Nationalsport in Kanada ist eigentlich Eishockey, nicht Fußball – aber gerade erlebt der kanadische Fußball seinen größten Aufstieg aller Zeiten!"
+  }
+}

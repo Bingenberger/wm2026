@@ -1,0 +1,118 @@
+{
+  "land": "Spanien",
+  "offizieller_name": "Königreich Spanien",
+  "spitzname": "La Furia Roja (Die Rote Fury) / La Roja",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Gelb (Mitte, doppelt so breit), Rot (unten) – mit dem spanischen Wappen im gelben Streifen. Rot und Gelb sind die Farben der alten Königreiche Kastilien und Aragón.",
+
+  "steckbrief": {
+    "hauptstadt": "Madrid",
+    "einwohner": "ca. 47 Millionen",
+    "sprache": "Spanisch (Kastilisch) – regional auch Katalanisch, Baskisch, Galizisch",
+    "waehrung": "Euro (€)",
+    "lage": "Südwesteuropa – Iberische Halbinsel, grenzt an Frankreich, Portugal und (kleines Stück) an Marokko",
+    "nachbarn": ["Frankreich (Norden)", "Portugal (Westen)", "Andorra (Norden)"],
+    "bekannt_fuer": ["FC Barcelona und Real Madrid", "Flamenco und Stierkampf", "Paella und Tapas", "Gaudi und Sagrada Família", "Strand und Sonne (Costa del Sol)", "La Tomatina (Tomatenwurf-Festival)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Spanien ist eine der erfolgreichsten Fußballnationen der Welt – Weltmeister 2010 und viermaliger Europameister! Und mit Lamine Yamal hat Spanien den aufregendsten Jungspieler der Welt.",
+    "lang": "Spanien liegt auf der Iberischen Halbinsel im Südwesten Europas und ist bekannt für seine Sonne, Strände und lebendige Kultur. Die Hauptstadt Madrid und Barcelona sind zwei der bekanntesten Städte der Welt – nicht zuletzt wegen ihrer Fußballklubs Real Madrid und FC Barcelona, die zu den berühmtesten Vereinen der Welt gehören. Der Architekt Antoni Gaudí hinterließ in Barcelona einzigartige Bauwerke – die Sagrada Família, eine riesige Basilika, wird seit 1882 gebaut und ist noch immer nicht fertig! Spanien ist auch das Land von Flamenco (einem leidenschaftlichen Tanz), leckeren Tapas und Paella. Und jedes Jahr gibt es in Buñol das verrückteste Fest Europas: La Tomatina – dabei werfen sich Tausende Menschen Tomaten!"
+  },
+
+  "hauptstadt": {
+    "name": "Madrid",
+    "einwohner": "ca. 3,3 Millionen (Großraum ca. 6,7 Millionen)",
+    "lage": "Geografische Mitte Spaniens, auf dem Hochplateau Meseta",
+    "wahrzeichen": ["Königlicher Palast (größter Palast Europas nach Grundfläche)", "Puerta del Sol (Herz der Stadt)", "Prado-Museum (eines der bedeutendsten Kunstmuseen der Welt)", "Santiago-Bernabéu-Stadion (Real Madrid)", "Retiro-Park"],
+    "beschreibung": "Madrid ist die höchstgelegene Hauptstadt der Europäischen Union – auf 667 Metern Höhe. Der Königliche Palast ist einer der größten Europas, wird aber heute nur für offizielle Zeremonien genutzt. Im Prado-Museum hängen Meisterwerke von Velázquez und Goya. Das Bernabéu-Stadion ist mit 83.000 Plätzen einer der beeindruckendsten Fußballtempel der Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Spanien ist amtierender Europameister (EM 2024 in Deutschland gewonnen!) und die Nummer 1 der FIFA-Weltrangliste. Der Kader hat eine historische Besonderheit: Erstmals bei einer WM steht kein einziger Spieler von Real Madrid im spanischen Aufgebot. Stattdessen dominiert Stadtrivale FC Barcelona mit acht Spielern.",
+    "gruppe": "H",
+    "gruppenGegner": ["Kap Verde", "Saudi-Arabien", "Uruguay"],
+    "spielorte": {
+      "Kap Verde": "Hard Rock Stadium, Miami",
+      "Saudi-Arabien": "Mercedes-Benz Stadium, Atlanta",
+      "Uruguay": "Estadio Akron, Guadalajara"
+    },
+    "spieltermine": {
+      "Kap Verde": "15. Juni 2026",
+      "Saudi-Arabien": "21. Juni 2026",
+      "Uruguay": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Luis de la Fuente",
+      "nationalitaet": "Spanisch",
+      "alter": 64,
+      "besonderheit": "Übernahm Spanien im Dezember 2022 nach dem Achtelfinal-Aus bei der WM 2022. Gewann mit Spanien die EM 2024 in Deutschland – alle sieben Spiele gewonnen, bestes Turnier seit Jahren. Früher Trainer der spanischen U-21-Nationalmannschaft."
+    },
+    "qualifikation": {
+      "beschreibung": "Als einer der Topfavoriten qualifizierte sich Spanien souverän ohne Probleme für die WM 2026."
+    },
+    "kapitaen": "Rodri",
+    "teilnahmen_gesamt": 17,
+    "wm_titel": 1,
+    "wm_titel_jahre": [2010],
+    "em_titel": 4,
+    "em_titel_jahre": [1964, 1984, 2008, 2012, 2024],
+    "nations_league_titel": 1,
+    "bestes_ergebnis": "Weltmeister 2010 (Südafrika) – einziger WM-Titel",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "Marokko (Elfmeterschießen)",
+      "beschreibung": "Bitter Enttäuschung: Spanien dominierte das Spiel, schoss aber kein Tor und verlor im Elfmeterschießen."
+    },
+    "bundesliga_spieler": [
+      "Alejandro Grimaldo – Linksverteidiger (Bayer 04 Leverkusen) – einziger Bundesliga-Profi im Kader"
+    ],
+    "stars": [
+      {
+        "name": "Lamine Yamal",
+        "verein": "FC Barcelona",
+        "position": "Rechtsaußen",
+        "alter": 18,
+        "geburtstag": "13. Juli 2007",
+        "besonderheit": "Wurde am Tag vor dem WM-Finale 2006 geboren! War bei der EM 2024 in Deutschland 16 Jahre alt und der jüngste EM-Torschütze der Geschichte. Gilt als größtes Talent der Welt.",
+        "rolle": "Gesicht der neuen spanischen Supergeneration"
+      },
+      {
+        "name": "Rodri",
+        "verein": "Manchester City",
+        "position": "Defensives Mittelfeld",
+        "rolle": "Kapitän und Taktgeber – Ballon d'Or 2024, bester Mittelfeldspieler der Welt, Schlüsselspieler der EM 2024"
+      },
+      {
+        "name": "Nico Williams",
+        "verein": "Athletic Bilbao",
+        "position": "Linksaußen",
+        "alter": 23,
+        "rolle": "Explosiver Flügelstürmer – zusammen mit Yamal das gefährlichste Flügelduo Europas"
+      },
+      {
+        "name": "Pedri",
+        "verein": "FC Barcelona",
+        "position": "Zentrales Mittelfeld",
+        "rolle": "Technisch brillanter Mittelfeldspieler – nach Verletzungspausen wieder in Topform"
+      },
+      {
+        "name": "Dani Olmo",
+        "verein": "FC Barcelona",
+        "position": "Offensives Mittelfeld",
+        "bundesliga_vergangenheit": "RB Leipzig",
+        "rolle": "Kreativer Mittelfeldspieler – früher in der Bundesliga bei RB Leipzig aktiv"
+      },
+      {
+        "name": "Alejandro Grimaldo",
+        "verein": "Bayer 04 Leverkusen",
+        "position": "Linksverteidiger",
+        "rolle": "Einziger Bundesliga-Profi im Kader – Champions-League-Sieger mit Leverkusen, einer der besten Linksverteidiger Europas"
+      }
+    ],
+    "fun_fact": "Lamine Yamal wurde am 13. Juli 2007 geboren – einen Tag bevor Spanien im WM-Finale 2006 hätte spielen können (Spanien war 2006 allerdings im Viertelfinale ausgeschieden). Er war 16 Jahre alt, als er bei der EM 2024 in Deutschland das wichtigste Tor seiner Karriere erzielte! Und: Alejandro Grimaldo von Bayer Leverkusen ist der einzige Bundesliga-Profi im spanischen WM-Kader. Dani Olmo spielte früher bei RB Leipzig – jetzt spielt er für den FC Barcelona und für Spanien bei der WM!"
+  }
+}

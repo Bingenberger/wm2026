@@ -1,0 +1,127 @@
+{
+  "land": "Kroatien",
+  "offizieller_name": "Republik Kroatien",
+  "spitzname": "Vatreni (Die Feurigen) / Kockasti (Die Karierten – nach dem Schachbrettmuster im Trikot)",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Weiß (Mitte), Blau (unten) – mit dem kroatischen Wappen in der Mitte: ein rot-weißes Schachbrettmuster (25 Felder) mit fünf kleinen Wappen darüber, die historische Regionen repräsentieren.",
+
+  "steckbrief": {
+    "hauptstadt": "Zagreb",
+    "einwohner": "ca. 4 Millionen – kleiner als Berlin!",
+    "sprache": "Kroatisch",
+    "waehrung": "Euro (€) – seit Januar 2023",
+    "lage": "Südosteuropa – Adria-Küste, Halbinsel Istrien, Balkan. Grenzt an Slowenien, Ungarn, Serbien, Bosnien-Herzegowina und Montenegro",
+    "nachbarn": ["Slowenien", "Ungarn", "Serbien", "Bosnien-Herzegowina", "Montenegro"],
+    "bekannt_fuer": ["Schöne Adria-Küste mit tausenden Inseln", "Plitvicer Seen (UNESCO-Welterbe)", "Das Schachbrettmuster (kroatisches Symbol)", "Luka Modrić – Ballon d'Or 2018", "Krawatte – in Kroatien erfunden!", "Dubrovnik – Kulisse für 'Game of Thrones'"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Kroatien ist ein winziges Land mit nur 4 Millionen Einwohnern – kleiner als Berlin – und trotzdem dreimal WM-Halbfinalist! Und die Krawatte wurde in Kroatien erfunden.",
+    "lang": "Kroatien liegt an der wunderschönen Adriaküste und hat über 1.000 Inseln! Die Plitvicer Seen im Landesinneren mit türkisblauen Wasserfällen und Seen gehören zum UNESCO-Welterbe. Die Altstadt von Dubrovnik mit ihren mittelalterlichen Stadtmauern am Meer ist weltbekannt – auch als Kulisse für die Fantasyserie 'Game of Thrones'! Eine kroatische Erfindung, die wir alle kennen: die Krawatte! Kroatische Soldaten trugen im 17. Jahrhundert bunte Halstücher – daraus wurde die Krawatte. Im Fußball ist Kroatien ein Riese: Trotz nur 4 Millionen Einwohnern dreimal WM-Halbfinale – das schafft kein anderes Land der Welt! Luka Modrić, der kreativste Mittelfeldspieler seiner Generation, räumte 2018 den Ballon d'Or ab."
+  },
+
+  "hauptstadt": {
+    "name": "Zagreb",
+    "einwohner": "ca. 800.000",
+    "lage": "Nordkroatien, an der Save",
+    "wahrzeichen": ["Kathedrale von Zagreb (104 m – höchstes Gebäude Kroatiens)", "Obere Stadtzone Gornji Grad (mittelalterlicher Stadtkern)", "Dolac-Markt (bunter Freiluftmarkt)", "Museum der Beziehungen (Museum für zerbrochene Liebesbeziehungen!)"],
+    "beschreibung": "Zagreb ist eine gemütliche, grüne Stadt mit einem charmanten mittelalterlichen Kern. Das Museumsviertel überrascht: Das 'Museum of Broken Relationships' sammelt Gegenstände aus beendeten Beziehungen – weltberühmt und ein echter Geheimtipp. Kroatien ist das einzige Land der Welt, das ein solches Museum hat."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Kroatien ist das erfolgreichste kleine Land der WM-Geschichte: Vier Millionen Einwohner – und dreimal mindestens Halbfinale (1998, 2018, 2022)! 2018 standen sie sogar im Finale gegen Frankreich. Die Statistik ist unglaublich: Bei drei von sechs WM-Teilnahmen mindestens Halbfinale. Und Luka Modrić nimmt mit 40 Jahren zum fünften Mal teil!",
+    "gruppe": "L",
+    "gruppenGegner": ["England", "Panama", "Ghana"],
+    "spielorte": {
+      "England": "AT&T Stadium, Dallas",
+      "Panama": "BMO Field, Toronto",
+      "Ghana": "Lincoln Financial Field, Philadelphia"
+    },
+    "spieltermine": {
+      "England": "17. Juni 2026",
+      "Panama": "24. Juni 2026",
+      "Ghana": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Zlatko Dalić",
+      "nationalitaet": "Kroatisch",
+      "alter": 56,
+      "besonderheit": "Übernahm Kroatien 2017 mitten in einer Qualifikationskrise – zunächst ohne festen Vertrag. Führte das Team sensationell ins WM-Finale 2018 und 2022 zum dritten Platz. Bereitet sich auf seine dritte WM-Endrunde in Folge vor."
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Dominante Qualifikation: Kroatien ließ die Konkurrenten keine Chance und sicherte sich das WM-Ticket komfortabel."
+    },
+    "kapitaen": "Luka Modrić",
+    "teilnahmen_gesamt": 7,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vize-Weltmeister 2018 (Finale gegen Frankreich) – und 3. Platz 1998 und 2022",
+    "em_ergebnis": "Regelmäßig dabei, zuletzt EM 2024 (Vorrunde)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "3. Platz (Bronze)",
+      "highlight": "Halbfinale gegen Argentinien verloren (0:3), dann Bronze gegen Marokko (2:1)"
+    },
+    "bundesliga_spieler": [
+      "Josip Stanišić – Rechtsverteidiger (FC Bayern München)",
+      "Luka Vušković – Innenverteidiger (Hamburger SV) – 19-jähriges Talent",
+      "Kristijan Jakić – Mittelfeld (FC Augsburg)",
+      "Andrej Kramarić – Stürmer (TSG 1899 Hoffenheim)",
+      "Igor Matanović – Stürmer (SC Freiburg)"
+    ],
+    "ex_bundesliga_im_kader": [
+      "Joško Gvardiol (Manchester City, früher RB Leipzig)",
+      "Ivan Perišić (PSV Eindhoven, früher Borussia Dortmund und Bayern München)",
+      "Marin Pongračić (Fiorentina, früher Borussia Dortmund)"
+    ],
+    "stars": [
+      {
+        "name": "Luka Modrić",
+        "verein": "AC Mailand",
+        "position": "Zentrales Mittelfeld",
+        "alter": 40,
+        "ballon_dor": "2018",
+        "rolle": "Kapitän, Herzstück und Legende – mit 40 Jahren bei seiner fünften WM. Ballon-d'Or 2018, WM-Finalist 2018, dreimaliger WM-Halbfinalist. Kreativster Mittelfeldspieler seiner Generation."
+      },
+      {
+        "name": "Joško Gvardiol",
+        "verein": "Manchester City",
+        "position": "Innenverteidiger / Linksverteidiger",
+        "alter": 23,
+        "bundesliga_vergangenheit": "RB Leipzig",
+        "rolle": "Bester Verteidiger der Zukunft – bei Manchester City unter Pep Guardiola zum Weltklasse-Spieler gereift. Früher bei RB Leipzig."
+      },
+      {
+        "name": "Mateo Kovačić",
+        "verein": "Manchester City",
+        "position": "Zentrales Mittelfeld",
+        "alter": 32,
+        "rolle": "Unermüdlicher Mittelfeldspieler – Champions-League-Sieger mit Manchester City"
+      },
+      {
+        "name": "Andrej Kramarić",
+        "verein": "TSG 1899 Hoffenheim",
+        "position": "Stürmer / Offensives Mittelfeld",
+        "alter": 34,
+        "rolle": "Bundesliga-Legende – seit Jahren Dauerbrenner bei Hoffenheim, Kroatiens zuverlässigster Torjäger"
+      },
+      {
+        "name": "Dominik Livaković",
+        "verein": "Dinamo Zagreb",
+        "position": "Torwart",
+        "rolle": "Elfmeter-Spezialist – bei der WM 2022 in vier Elfmeterschießen unschlagbar. Kroatien gewann sechs von sieben Elfmeterschießen bei Großturnieren!"
+      },
+      {
+        "name": "Ivan Perišić",
+        "verein": "PSV Eindhoven",
+        "position": "Linksaußen",
+        "alter": 37,
+        "bundesliga_vergangenheit": "Borussia Dortmund, Bayern München",
+        "rolle": "Erfahrener Flügelstürmer – früher bei BVB und Bayern, immer für ein WM-Tor gut"
+      }
+    ],
+    "fun_fact": "Kroatien hat nur 4 Millionen Einwohner – weniger als Berlin – und war trotzdem schon dreimal im WM-Halbfinale! Kein anderes Land schafft das mit so wenigen Menschen. Die Krawatte wurde in Kroatien erfunden – kroatische Soldaten trugen bunte Halstücher, die in Frankreich 'cravate' (von 'Croate' = Kroate) genannt wurden. Und fünf Spieler im Kader spielen in der Bundesliga: Stanišić (Bayern), Vušković (HSV), Jakić (Augsburg), Kramarić (Hoffenheim) und Matanović (Freiburg)!"
+  }
+}

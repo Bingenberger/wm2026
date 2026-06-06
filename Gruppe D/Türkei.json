@@ -1,0 +1,121 @@
+{
+  "land": "Türkei",
+  "offizieller_name": "Republik Türkei (Türkiye)",
+  "spitzname": "Milli Takım (Die Nationalmannschaft) / Ay-Yıldızlılar (Die Halbmond-Stern-Träger)",
+  "flagge": "Roter Hintergrund mit weißem Halbmond und weißem Stern – ein sehr altes Symbol, das schon im Osmanischen Reich verwendet wurde",
+
+  "steckbrief": {
+    "hauptstadt": "Ankara",
+    "einwohner": "ca. 85 Millionen",
+    "sprache": "Türkisch",
+    "waehrung": "Türkische Lira (TL)",
+    "lage": "Zwischen Europa und Asien – der Bosporus teilt das Land in einen europäischen und einen asiatischen Teil",
+    "nachbarn": ["Griechenland", "Bulgarien", "Georgien", "Armenien", "Iran", "Irak", "Syrien"],
+    "bekannt_fuer": ["Hagia Sophia und Blaue Moschee in Istanbul", "Türkisches Frühstück und Baklava", "Bosporus-Meerenge zwischen Europa und Asien", "Kappadokien mit Feenkamine und Heißluftballons", "Türkischer Tee und Kaffee", "Die Ruinen von Troja und Ephesos"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Die Türkei liegt auf zwei Kontinenten gleichzeitig – ein Teil liegt in Europa, der andere in Asien! Istanbul, die größte Stadt, ist die einzige Metropole der Welt, die auf zwei Kontinenten liegt.",
+    "lang": "Die Türkei ist ein Land zwischen Europa und Asien – der Bosporus, eine schmale Meerenge durch Istanbul, trennt die beiden Kontinente. Istanbul mit über 15 Millionen Einwohnern ist die einzige Großstadt der Welt, die auf zwei Kontinenten liegt! Die Hauptstadt ist Ankara. Besonders bekannt sind die Hagia Sophia – eine riesige Kirche aus dem Jahr 537, die später zur Moschee wurde – und die Blaue Moschee mit ihren sechs Minaretten. In Kappadokien gibt es bizarre Felsformationen, sogenannte Feenkamine, und im Sommer steigen dort tausende bunte Heißluftballons auf. Typisches Essen sind Kebab, Baklava (ein süßes Gebäck mit Pistazien und Honig) und natürlich der starke türkische Tee."
+  },
+
+  "hauptstadt": {
+    "name": "Ankara",
+    "einwohner": "ca. 5,7 Millionen",
+    "wahrzeichen": ["Atatürk-Mausoleum (Anıtkabir)", "Ankara-Burg", "Museum für anatolische Zivilisationen"],
+    "bekanntere_stadt": {
+      "Istanbul": "Hagia Sophia, Blaue Moschee, Bosporus, Großer Basar – die bekannteste Stadt der Türkei und die einzige auf zwei Kontinenten"
+    },
+    "beschreibung": "Ankara ist die Hauptstadt seit 1923, als Mustafa Kemal Atatürk die moderne Türkei gründete. Das beeindruckendste Bauwerk ist das Mausoleum von Atatürk – dem Gründer der Republik. Viel berühmter ist jedoch Istanbul: Die Stadt verbindet Orient und Okzident, Moscheen und moderne Hochhäuser, antike Bazare und trendige Restaurants."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Nur die dritte WM-Teilnahme überhaupt! Zuvor war die Türkei 1954 und 2002 dabei. 2002 erreichte sie sensationell den 3. Platz – das bleibt bis heute die größte Leistung des türkischen Fußballs. Die Qualifikation gelang über die europäischen Play-offs.",
+    "gruppe": "D",
+    "gruppenGegner": ["Australien", "Paraguay", "USA"],
+    "spielorte": {
+      "Australien": "BC Place, Vancouver",
+      "Paraguay": "Levi's Stadium, San Francisco Bay Area",
+      "USA": "SoFi Stadium, Los Angeles"
+    },
+    "spieltermine": {
+      "Australien": "14. Juni 2026",
+      "Paraguay": "20. Juni 2026",
+      "USA": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Vincenzo Montella",
+      "nationalitaet": "Italienisch",
+      "besonderheit": "Seit September 2023 Nationaltrainer. Als Spieler war er Stürmer bei AS Roma und Italiens Nationalmannschaft. Folgte auf den Deutschen Stefan Kuntz. Führte die Türkei zur EM 2024 (Viertelfinale) und nun zur WM 2026."
+    },
+    "qualifikation": {
+      "weg": "UEFA-Play-offs",
+      "beschreibung": "Die Türkei belegte in ihrer Qualifikationsgruppe hinter Spanien Platz 2 und musste in die Play-offs. Dort wurde erst Rumänien (1:0) bezwungen, dann Kosovo im Finale (1:0). Das entscheidende Tor gegen Kosovo erzielte Kerem Aktürkoglu."
+    },
+    "kapitaen": "Hakan Çalhanoğlu",
+    "teilnahmen_gesamt": 3,
+    "wm_titel": 0,
+    "bestes_ergebnis": "3. Platz (WM 2002 in Japan/Südkorea)",
+    "wm_rekord": "Hakan Şükür schoss 2002 das schnellste Tor der WM-Geschichte – nach nur 11 Sekunden gegen Südkorea im Spiel um Platz 3!",
+    "letztes_turnier": {
+      "jahr": 2002,
+      "austragungsort": "Japan/Südkorea",
+      "ergebnis": "3. Platz",
+      "beschreibung": "Bei der WM 2002 erreichte die Türkei sensationell das Halbfinale und gewann das Spiel um Platz 3 gegen Südkorea 3:2."
+    },
+    "bundesliga_spieler": [
+      "Can Uzun – Angriff (Eintracht Frankfurt)",
+      "Ozan Kabak – Verteidiger (TSG 1899 Hoffenheim)",
+      "Salih Özcan – Mittelfeld (Borussia Dortmund)"
+    ],
+    "stars": [
+      {
+        "name": "Arda Güler",
+        "verein": "Real Madrid",
+        "position": "Offensives Mittelfeld",
+        "alter": 21,
+        "geburtsort": "Muğla, Türkei",
+        "rolle": "Das größte Talent des türkischen Fußballs – gilt als eines der aufregendsten Talente Europas. Spielt für Real Madrid!"
+      },
+      {
+        "name": "Kenan Yıldız",
+        "verein": "Juventus Turin",
+        "position": "Offensives Mittelfeld / Flügel",
+        "alter": 21,
+        "geburtsort": "Regensburg, Deutschland",
+        "rolle": "In Regensburg geboren und aufgewachsen, entschied sich für die Türkei statt Deutschland – spielt für Juventus Turin"
+      },
+      {
+        "name": "Hakan Çalhanoğlu",
+        "verein": "Inter Mailand",
+        "position": "Defensives Mittelfeld / Spielmacher",
+        "alter": 32,
+        "rolle": "Kapitän – Champions-League-erfahren bei Inter Mailand, taktischer Anführer der Mannschaft"
+      },
+      {
+        "name": "Can Uzun",
+        "verein": "Eintracht Frankfurt",
+        "position": "Angriff / Mittelfeld",
+        "alter": 20,
+        "geburtsort": "Deutschland",
+        "rolle": "Jüngstes Bundesliga-Talent im Kader – entschied sich für die Türkei statt Deutschland"
+      },
+      {
+        "name": "Ferdi Kadıoğlu",
+        "verein": "Brighton & Hove Albion (England)",
+        "position": "Linksverteidiger",
+        "rolle": "Erzielte im Playoff-Halbfinale den entscheidenden Treffer gegen Rumänien"
+      },
+      {
+        "name": "Merih Demiral",
+        "verein": "Al-Ahli (Saudi-Arabien)",
+        "position": "Innenverteidiger",
+        "rolle": "Erfahrener Abwehranker"
+      }
+    ],
+    "besonderheit_spieler": "Gleich mehrere Spieler im türkischen Kader wurden in Deutschland geboren oder aufgewachsen und hätten auch für Deutschland spielen können – zum Beispiel Kenan Yıldız (Regensburg) und Can Uzun.",
+    "fun_fact": "Hakan Şükür erzielte 2002 gegen Südkorea nach nur 11 Sekunden das schnellste Tor in der WM-Geschichte – das steht bis heute im Guinness-Buch! Und Arda Güler und Kenan Yıldız waren noch nicht einmal geboren, als die Türkei das letzte Mal bei einer WM spielte. Jetzt führen die 21-Jährigen die Hoffnungen einer ganzen Nation!"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "land": "Schweiz",
+  "offizieller_name": "Schweizerische Eidgenossenschaft",
+  "spitzname": "Die Nati / Schweizer Nati",
+  "flagge": "Rotes quadratisches Feld mit weißem Kreuz in der Mitte – eine der wenigen quadratischen Flaggen der Welt (neben dem Vatikan)",
+
+  "steckbrief": {
+    "hauptstadt": "Bern",
+    "einwohner": "ca. 8,8 Millionen",
+    "sprachen": ["Deutsch", "Französisch", "Italienisch", "Rätoromanisch"],
+    "waehrung": "Schweizer Franken (CHF)",
+    "lage": "Mitteleuropa, ohne Meereszugang, in den Alpen",
+    "nachbarn": ["Deutschland", "Frankreich", "Italien", "Österreich", "Liechtenstein"],
+    "bekannt_fuer": ["Schokolade und Käse", "Uhren und Banken", "Alpenberge und Skifahren", "Neutralität", "Rotes Kreuz (gegründet in der Schweiz)", "Roger Federer"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Die Schweiz hat vier Landessprachen und eine der schönsten Berglandschaften der Welt – und beim Fußball ist sie seit Jahren eine der konstantesten Mannschaften Europas!",
+    "lang": "Die Schweiz liegt mitten in Europa und ist bekannt für ihre atemberaubenden Alpen mit schneebedeckten Gipfeln, glasklaren Seen und gemütlichen Bergdörfern. Das Besondere: In der Schweiz spricht man gleich vier verschiedene Sprachen – Deutsch, Französisch, Italienisch und das seltene Rätoromanisch! Die Schweiz ist außerdem weltberühmt für ihre Schokolade, ihren Käse (Emmentaler, Raclette) und ihre präzisen Uhren. Das Rote Kreuz – die wichtigste Hilfsorganisation der Welt – wurde 1863 in Genf gegründet. Die Schweiz ist offiziell neutral, das heißt, sie nimmt an keinen Kriegen teil. Und beim Fußball ist die kleine Schweiz schon seit Jahren eine feste Größe bei Weltmeisterschaften!"
+  },
+
+  "hauptstadt": {
+    "name": "Bern",
+    "einwohner": "ca. 130.000 (eine der kleinsten Hauptstädte Europas)",
+    "fluss": "Aare",
+    "wahrzeichen": ["Zytglogge (Zeitglockenturm)", "Berner Münster", "Bundeshaus (Parlament)", "Bärenpark", "Altstadt (UNESCO-Welterbe)"],
+    "beschreibung": "Bern ist eine der kleinsten Hauptstädte Europas – fast so groß wie Köln-Mülheim! Die charmante Altstadt mit ihren langen Laubenpassagen gehört zum UNESCO-Welterbe. Das Wahrzeichen der Stadt ist der Zytglogge, ein mittelalterlicher Uhrturm aus dem 13. Jahrhundert. Der Name Bern soll übrigens vom Bären kommen – im Stadtpark gibt es echte Bären zu sehen!"
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Die Schweiz nimmt zum 13. Mal und zum sechsten Mal in Folge an einer WM teil – eine beeindruckende Serie. Sie ist klarer Favorit der Gruppe B.",
+    "gruppe": "B",
+    "gruppenGegner": ["Katar", "Bosnien-Herzegowina", "Kanada"],
+    "spielorte": {
+      "Katar": "San Francisco (Levi's Stadium, Santa Clara)",
+      "Bosnien-Herzegowina": "Los-Angeles-Stadion, Los Angeles",
+      "Kanada": "BC Place, Vancouver"
+    },
+    "spieltermine": {
+      "Katar": "13. Juni 2026",
+      "Bosnien-Herzegowina": "18. Juni 2026",
+      "Kanada": "24. Juni 2026"
+    },
+    "trainer": {
+      "name": "Murat Yakin",
+      "nationalitaet": "Schweizerisch (mit türkischen Wurzeln)",
+      "besonderheit": "Seit 2021 Nationaltrainer. Führte die Schweiz bei der WM 2022 ins Achtelfinale und bei der EM 2024 ins Viertelfinale. Qualifizierte sich für die WM 2026 mit einer makellosen Qualifikation ohne eine einzige Niederlage."
+    },
+    "qualifikation": {
+      "beschreibung": "Makellose Qualifikation – kein einziges Spiel verloren. Die Schweiz startete mit einem 4:0 gegen den Kosovo und ließ sich durch die gesamte Qualifikationsphase nicht stoppen."
+    },
+    "kapitaen": "Granit Xhaka",
+    "teilnahmen_gesamt": 13,
+    "teilnahmen_in_folge": 6,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Viertelfinale (1934, 1938, 1954)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "Portugal",
+      "ergebnis_detail": "1:6",
+      "beschreibung": "Bei der WM 2022 erreichte die Schweiz das Achtelfinale, schied dort aber deutlich gegen Portugal aus."
+    },
+    "bundesliga_spieler": [
+      "Gregor Kobel – Torwart (Borussia Dortmund)",
+      "Nico Elvedi – Verteidiger (Borussia Mönchengladbach)",
+      "Aurèle Amenda – Verteidiger (Eintracht Frankfurt)",
+      "Silvan Widmer – Verteidiger (1. FSV Mainz 05)",
+      "Luca Jaquez – Verteidiger (VfB Stuttgart)",
+      "Miro Muheim – Verteidiger (Hamburger SV)",
+      "Johan Manzambi – Mittelfeld/Sturm (SC Freiburg)",
+      "Fabian Rieder – Mittelfeld (FC Augsburg)",
+      "Cedric Itten – Sturm (Fortuna Düsseldorf)"
+    ],
+    "stars": [
+      {
+        "name": "Granit Xhaka",
+        "verein": "AFC Sunderland",
+        "position": "Mittelfeld",
+        "rolle": "Kapitän und Herzstück der Nati – seit über einem Jahrzehnt taktischer Anführer der Schweiz"
+      },
+      {
+        "name": "Manuel Akanji",
+        "verein": "Inter Mailand",
+        "position": "Innenverteidiger",
+        "rolle": "Weltklasse-Abwehrspieler, früherer Manchester-City-Profi"
+      },
+      {
+        "name": "Breel Embolo",
+        "verein": "Stade Rennes",
+        "position": "Stürmer",
+        "rolle": "Erster Angreifer der Nati – eröffnete die WM-Qualifikation mit einem Doppelpack"
+      },
+      {
+        "name": "Gregor Kobel",
+        "verein": "Borussia Dortmund",
+        "position": "Torwart",
+        "rolle": "Neue Schweizer Nummer eins – einer der besten Torhüter der Bundesliga"
+      },
+      {
+        "name": "Xherdan Shaqiri",
+        "verein": "FC Basel",
+        "position": "Offensives Mittelfeld",
+        "rolle": "Rückkehrer und Routinier – sorgt für Standardgefahr und Erfahrung"
+      },
+      {
+        "name": "Johan Manzambi",
+        "verein": "SC Freiburg",
+        "position": "Mittelfeld/Sturm",
+        "rolle": "Jüngster Spieler im Kader (20 Jahre) – aufstrebendes Talent aus der Bundesliga"
+      }
+    ],
+    "fun_fact": "Die Schweiz hat eine quadratische Flagge – das ist weltweit einzigartig unter den Nationalflaggen! Und im Kader stehen gleich neun Spieler aus der deutschen Bundesliga – damit kennen die deutschen Fans fast die halbe Mannschaft. Übrigens: Granit Xhaka wurde in Basel geboren und hat albanische Wurzeln – er steht für die bunte, multikulturelle Schweiz."
+  }
+}

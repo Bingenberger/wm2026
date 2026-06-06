@@ -1,0 +1,102 @@
+{
+  "land": "Panama",
+  "offizieller_name": "Republik Panama",
+  "spitzname": "Los Canaleros (Die Kanalarbeiter) / La Marea Roja (Die Rote Flut)",
+  "flagge": "Vier Viertel: Oben links Weiß mit einem roten fünfzackigen Stern, oben rechts Rot, unten links Blau, unten rechts Weiß mit einem blauen fünfzackigen Stern. Weiß steht für Frieden, Rot für die Konservative Partei, Blau für die Liberale Partei – Panama wollte bei der Unabhängigkeit Einheit zwischen den politischen Lagern symbolisieren.",
+
+  "steckbrief": {
+    "hauptstadt": "Panama-Stadt",
+    "einwohner": "ca. 4,5 Millionen",
+    "sprachen": ["Spanisch (Amtssprache)", "Englisch (weit verbreitet)"],
+    "waehrung": "Balboa (PAB) – aber im Alltag wird der US-Dollar benutzt, da Balboa = 1 US-Dollar!",
+    "lage": "Zentralamerika – verbindet Nord- und Südamerika. Die schmalste Stelle des amerikanischen Doppelkontinents.",
+    "nachbarn": ["Costa Rica (Westen)", "Kolumbien (Osten)"],
+    "bekannt_fuer": ["Panamakanal – eines der größten Bauwerke der Menschheit", "Verbindung zwischen Atlantik und Pazifik", "Biodiversität – zweithöchste Artendichte der Welt", "Panama-Hut (kommt eigentlich aus Ecuador!)", "Kürzeste Stelle des amerikanischen Kontinents"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Panama ist das schmale Bindeglied zwischen Nord- und Südamerika – und der Panamakanal, der Atlantik und Pazifik verbindet, ist eines der wichtigsten Bauwerke der Welt!",
+    "lang": "Panama liegt am schmälsten Punkt Amerikas, gerade einmal 80 Kilometer breit an der engsten Stelle! Der Panamakanal, fertiggestellt 1914, verbindet den Atlantik mit dem Pazifik – seitdem müssen Schiffe nicht mehr den langen Weg um Südamerika nehmen. Täglich passieren rund 40 Schiffe den Kanal, der eine der wichtigsten Wasserstraßen der Welt ist. Panama ist auch eines der artenreichsten Länder der Welt – die kleine Landbrücke ist ein natürlicher Korridor für Tiere und Pflanzen zwischen Nord- und Südamerika. Lustige Verwechslung: Der sogenannte 'Panama-Hut' kommt gar nicht aus Panama, sondern aus Ecuador! Aber Panama macht trotzdem seinen Namen damit."
+  },
+
+  "hauptstadt": {
+    "name": "Panama-Stadt",
+    "spanisch": "Ciudad de Panamá",
+    "einwohner": "ca. 1,5 Millionen",
+    "lage": "Pazifikküste am südlichen Eingang des Panamakanals",
+    "wahrzeichen": ["Mirador del Canal (Aussichtspunkt über den Panamakanal)", "Casco Viejo (historische Altstadt, UNESCO-Welterbe)", "Miraflores-Schleuse (Besucherzentrum des Kanals)", "Skyline von Panama (eine der modernsten Skylines Lateinamerikas)"],
+    "beschreibung": "Panama-Stadt ist eine überraschend moderne Metropole mit einer beeindruckenden Skyline direkt am Pazifik. Die historische Altstadt Casco Viejo ist UNESCO-Welterbe und voller bunter Kolonialgebäude, lebhafter Bars und kleiner Plätze. Vom Mirador del Canal kann man Containerschiffe durch die Schleuse fahren sehen – ein faszinierendes Schauspiel!"
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Panamas zweite WM-Teilnahme! 2018 war das WM-Debüt – die Szenen nach der Qualifikation 2017 mit Felipe Baloy, der weinend beim Jubeln gefilmt wurde, gingen um die Welt. Bei der WM 2018 verlor Panama alle drei Spiele und erzielte nur 2 Tore (beide beim 1:6 gegen England). 2026 jagen Los Canaleros den ersten WM-Punkt und das erste Tor außerhalb des England-Spiels in der Geschichte!",
+    "gruppe": "L",
+    "gruppenGegner": ["Ghana", "Kroatien", "England"],
+    "spielorte": {
+      "Ghana": "BMO Field, Toronto",
+      "Kroatien": "BMO Field, Toronto",
+      "England": "MetLife Stadium, New York/New Jersey"
+    },
+    "spieltermine": {
+      "Ghana": "18. Juni 2026",
+      "Kroatien": "24. Juni 2026",
+      "England": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Thomas Christiansen",
+      "nationalitaet": "Dänisch",
+      "geburtsort": "Dänemark (in Spanien aufgewachsen, spielte für Spanien)",
+      "bundesliga_vergangenheit": "VfL Bochum (Aufstieg 2002, Torschützenkönig!) und Hannover 96",
+      "besonderheit": "Als aktiver Spieler war er Bundesliga-Torschützenkönig mit Bochum – jetzt trainiert er Panama! Übernahm das Amt im Juli 2020 und führte Panama nach seiner ersten Amtszeit zur WM 2026. Einer der dienstältesten CONCACAF-Trainer.",
+      "besonderes_faktum": "Spielte früher beim VfL Bochum und Hannover 96 in der deutschen Bundesliga – ist also fast ein Kollege aus der Region!"
+    },
+    "qualifikation": {
+      "weg": "CONCACAF",
+      "beschreibung": "Ungeschlagene CONCACAF-Schlussrunde – Panama qualifizierte sich souverän. Höhepunkte: Siege gegen die USA (zweimal!). José Fajardo und José Luis Rodríguez waren mit je drei Toren die besten Torschützen."
+    },
+    "kapitaen": "Aníbal Godoy",
+    "teilnahmen_gesamt": 2,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (2018) – 0 Punkte, 2:11 Tore",
+    "historischer_moment_2018": "Felipe Baloys Tor zum 1:6 gegen England war das erste WM-Tor der Geschichte Panamas – die Bilder von Baloy und den weinenden Fans gingen um die Welt.",
+    "stars": [
+      {
+        "name": "Adalberto Carrasquilla",
+        "verein": "Pumas UNAM (Mexiko)",
+        "position": "Offensives Mittelfeld",
+        "alter": 27,
+        "auszeichnung": "CONCACAF-Spieler des Jahres 2023/24",
+        "rolle": "Kreativster Spieler – technisch stärkstes Talent Panamas, kann ein Spiel im Alleingang drehen"
+      },
+      {
+        "name": "Aníbal Godoy",
+        "verein": "San Diego FC (USA)",
+        "position": "Defensives Mittelfeld",
+        "alter": 37,
+        "rolle": "Kapitän und Herzstück – Rekordnationalspieler Panamas, seit Jahren das taktische und emotionale Zentrum des Teams"
+      },
+      {
+        "name": "Michael Murillo",
+        "verein": "Beşiktaş Istanbul (Türkei)",
+        "position": "Rechtsverteidiger",
+        "alter": 29,
+        "rolle": "Offensivstarker Außenverteidiger – spielt in der türkischen Süper Lig"
+      },
+      {
+        "name": "Orlando Mosquera",
+        "verein": "Al Fayha (Saudi-Arabien)",
+        "position": "Torwart",
+        "rolle": "Verlässlichstes Element im Team – seit Jahren Stammtorhüter"
+      },
+      {
+        "name": "José Fajardo",
+        "verein": "Universidad Católica (Ecuador)",
+        "position": "Stürmer",
+        "rolle": "Torjäger der Qualifikation – 3 Tore, wichtigster Angreifer"
+      }
+    ],
+    "fun_fact": "Trainer Thomas Christiansen spielte früher beim VfL Bochum in der Bundesliga – und wurde dort sogar Torschützenkönig! Und 2018 weinte der damals 37-jährige Felipe Baloy bei seinem WM-Tor gegen England – das erste Tor in der Geschichte Panamas bei einer WM. Die Bilder gingen um die ganze Welt. Der Panama-Hut kommt übrigens nicht aus Panama, sondern aus Ecuador – das ist eine der größten geografischen Verwechslungen der Geschichte!"
+  }
+}

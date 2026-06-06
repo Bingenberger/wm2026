@@ -1,0 +1,111 @@
+{
+  "land": "Paraguay",
+  "offizieller_name": "Republik Paraguay",
+  "spitzname": "Albirroja (Die Weißroten) / Los Guaranís",
+  "flagge": "Drei waagerechte Streifen in Rot, Weiß und Blau – mit dem Staatswappen auf der Vorderseite und dem Staatssiegel auf der Rückseite. Paraguay ist das einzige Land der Welt mit verschiedenen Motiven auf Vorder- und Rückseite der Flagge!",
+
+  "steckbrief": {
+    "hauptstadt": "Asunción",
+    "einwohner": "ca. 7,5 Millionen",
+    "sprachen": ["Spanisch", "Guaraní"],
+    "waehrung": "Paraguayischer Guaraní (PYG)",
+    "lage": "Südamerika – Binnenstaat ohne Meereszugang, zwischen Brasilien, Argentinien und Bolivien",
+    "nachbarn": ["Brasilien", "Argentinien", "Bolivien"],
+    "bekannt_fuer": ["Iguazú-Wasserfälle (auf der Grenze zu Brasilien und Argentinien)", "Guaraní-Kultur und Sprache", "Größter Wasserkraftwerk-Staudamm der Welt (Itaipú)", "Mate-Tee", "Chaco-Urwald", "Freundliche Menschen und günstige Preise"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Paraguay ist ein kleines Land im Herzen Südamerikas ohne Meeresküste – aber mit der weltweit einzigen Flagge, die auf Vorder- und Rückseite verschiedene Motive zeigt!",
+    "lang": "Paraguay liegt genau in der Mitte Südamerikas und hat keinen Zugang zum Meer. Trotzdem ist es bekannt für einen der spektakulärsten Wasserfälle der Welt – die Iguazú-Wasserfälle liegen zwar auf der Grenze zu Brasilien und Argentinien, gehören aber zu den Naturwundern dieser Region. Das Land hat zwei offizielle Sprachen: Spanisch und Guaraní – Guaraní ist die Sprache der indigenen Guaraní-Völker und wird von über 90 % der Bevölkerung gesprochen. Das ist etwas ganz Besonderes! Auf der Grenze zu Brasilien steht der Itaipú-Staudamm – lange Zeit das größte Wasserkraftwerk der Welt. Typisch paraguayisch ist der Genuss von Mate-Tee, einem kräftigen Kräutertee aus einem Kürbis. Und die Flagge Paraguays ist die einzige der Welt, die auf Vorder- und Rückseite unterschiedliche Motive hat!"
+  },
+
+  "hauptstadt": {
+    "name": "Asunción",
+    "einwohner": "ca. 550.000 (Großraum ca. 3 Millionen)",
+    "fluss": "Paraguay",
+    "wahrzeichen": ["Palacio de los López (Regierungspalast)", "Nationalpantheon der Helden", "Kathedrale Metropolitana", "La Encarnación-Kirche"],
+    "beschreibung": "Asunción ist eine der ältesten Hauptstädte Südamerikas und liegt am Ufer des Paraguay-Flusses. Die Stadt verbindet koloniale Architektur mit moderner Lebensart. Bekannt ist Asunción für seine entspannte Atmosphäre und die freundlichen Bewohner. Nicht weit entfernt liegt der Itaipú-Staudamm – ein technisches Weltwunder, das Paraguay und Brasilien gemeinsam betreiben."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Rückkehr nach 16 Jahren WM-Abstinenz! Die letzten drei WM-Turniere (2014, 2018, 2022) verpasste Paraguay. Die Qualifikation war eine sensationelle Aufholjagd: Paraguay schlug auf dem Weg dorthin Brasilien (1:0) und Argentinien (2:1). Alle 26 WM-Spieler feiern ihr WM-Debüt – ein kompletter Generationenwechsel.",
+    "gruppe": "D",
+    "gruppenGegner": ["USA", "Türkei", "Australien"],
+    "spielorte": {
+      "USA": "SoFi Stadium, Los Angeles",
+      "Türkei": "Levi's Stadium, San Francisco Bay Area",
+      "Australien": "Levi's Stadium, San Francisco Bay Area"
+    },
+    "spieltermine": {
+      "USA": "13. Juni 2026",
+      "Türkei": "19. Juni 2026",
+      "Australien": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Gustavo Alfaro",
+      "nationalitaet": "Argentinisch",
+      "besonderheit": "Übernahm Paraguay im August 2024, als kaum noch jemand an die WM-Qualifikation glaubte. Zuvor führte er Ecuador zu dessen bester WM (2022). In 12 Spielen unter Alfaro verlor Paraguay kein einziges Spiel mehr."
+    },
+    "qualifikation": {
+      "weg": "CONMEBOL (Südamerika)",
+      "platz": 6,
+      "beschreibung": "Einer der spektakulärsten Aufschwünge der Qualifikation: Nach katastrophalem Start (nur 5 von 18 möglichen Punkten unter dem Vorgänger) drehte Alfaro alles um. Paraguay schlug Argentinien (2:1) und Brasilien (1:0) und qualifizierte sich letztlich als Sechster mit dem niedrigsten Gegentorschnitt des gesamten CONMEBOL-Qualifikationswettbewerbs."
+  },
+    "kapitaen": "Gustavo Gómez",
+    "teilnahmen_gesamt": 9,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Viertelfinale (1986 und 2010)",
+    "letztes_turnier": {
+      "jahr": 2010,
+      "austragungsort": "Südafrika",
+      "ergebnis": "Viertelfinale",
+      "ausgeschieden_gegen": "Spanien (später Weltmeister)",
+      "ergebnis_detail": "0:1",
+      "beschreibung": "Paraguay erreichte 2010 das Viertelfinale und schied dort knapp gegen den späteren Weltmeister Spanien aus – das bislang beste WM-Ergebnis."
+    },
+    "copa_america_titel": 2,
+    "copa_america_titel_jahre": [1953, 1979],
+    "stars": [
+      {
+        "name": "Julio Enciso",
+        "verein": "Racing Straßburg (Frankreich)",
+        "position": "Offensives Mittelfeld / Flügel",
+        "alter": 22,
+        "rolle": "Das größte paraguayische Talent – überragte im Conference-League-Viertelfinale gegen Mainz 05 mit einem Tor und zwei Assists. Spitzname: 'La Joya' (Das Juwel)"
+      },
+      {
+        "name": "Miguel Almirón",
+        "verein": "Atlanta United (USA)",
+        "position": "Mittelfeld / Außenbahn",
+        "rolle": "Erfahrener Schlüsselspieler – früher bei Newcastle United in der Premier League"
+      },
+      {
+        "name": "Gustavo Gómez",
+        "verein": "Palmeiras (Brasilien)",
+        "position": "Innenverteidiger",
+        "rolle": "Kapitän und defensiver Fels – spielt beim brasilianischen Spitzenklub Palmeiras"
+      },
+      {
+        "name": "Junior Alonso",
+        "verein": "Atlético Mineiro (Brasilien)",
+        "position": "Innenverteidiger",
+        "rolle": "Erfahrener Abwehrchef, Säule der besten Defensive der CONMEBOL-Qualifikation"
+      },
+      {
+        "name": "Diego Gómez",
+        "verein": "Brighton & Hove Albion (England)",
+        "position": "Mittelfeld",
+        "rolle": "Premier-League-Talent, junges Kreativzentrum"
+      },
+      {
+        "name": "Antonio Sanabria",
+        "verein": "Cremonese (Italien)",
+        "position": "Stürmer",
+        "rolle": "Erfahrener Torjäger mit Einsätzen in Spanien und Italien"
+      }
+    ],
+    "fun_fact": "Paraguay hat die einzige Flagge der Welt mit verschiedenen Motiven auf Vorder- und Rückseite! Und: Auf dem Weg zur WM-Qualifikation schlug Paraguay Weltmeister Argentinien (2:1) und Rekordweltmeister Brasilien (1:0) – das schafft nicht jeder! Julio Enciso, ihr jüngstes Supertalent, spielte für Brighton in der Premier League und sorgte zuletzt im Europapokal gegen Mainz 05 für Furore."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "land": "Bosnien-Herzegowina",
+  "offizieller_name": "Bosnien und Herzegowina",
+  "spitzname": "Zmajevi (Die Drachen)",
+  "flagge": "Blauer Hintergrund mit einem gelben Dreieck und einer diagonalen Reihe weißer Sterne – die Sterne stehen für Europa, das Dreieck für die drei Volksgruppen des Landes",
+
+  "steckbrief": {
+    "hauptstadt": "Sarajevo",
+    "einwohner": "ca. 3,2 Millionen",
+    "sprachen": ["Bosnisch", "Kroatisch", "Serbisch"],
+    "waehrung": "Bosnisch-Herzegowinische Konvertible Mark (KM)",
+    "lage": "Südosteuropa, Westbalkan",
+    "nachbarn": ["Kroatien", "Serbien", "Montenegro"],
+    "bekannt_fuer": ["Altstadt Baščaršija in Sarajevo", "Stari Most (alte Brücke in Mostar)", "Berge und Skigebiete", "Olympische Winterspiele 1984", "Cevapcici und Burek", "Kaffeekultur"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Bosnien-Herzegowina ist ein kleines Land auf dem Balkan mit einer bewegten Geschichte – und einer Fußball-Nationalmannschaft, die sich durch zwei dramatische Elfmeterschießen zur WM 2026 gekämpft hat!",
+    "lang": "Bosnien-Herzegowina liegt im Südosten Europas und ist umgeben von Kroatien, Serbien und Montenegro. Das Land hat eine sehr bewegte Geschichte: Erst seit 1992 ist es ein unabhängiger Staat. Die Hauptstadt Sarajevo ist berühmt für ihre bunte Altstadt Baščaršija, wo orientalische und europäische Einflüsse aufeinandertreffen. In Mostar steht die berühmte Stari Most – eine alte Steinbrücke aus dem 16. Jahrhundert, die heute zum UNESCO-Welterbe gehört. 1984 war Sarajevo sogar Austragungsort der Olympischen Winterspiele! Typisches Essen sind Cevapcici – gegrillte Fleischröllchen – und Burek, ein blätterteigartiges Gebäck."
+  },
+
+  "hauptstadt": {
+    "name": "Sarajevo",
+    "einwohner": "ca. 275.000",
+    "fluss": "Miljacka",
+    "wahrzeichen": ["Baščaršija (Altstadt)", "Gazi Husrev-beg-Moschee", "Lateinerbrücke", "Olimpijski muzej", "Tunnel des Lebens"],
+    "beschreibung": "Sarajevo liegt in einem Talkessel umgeben von Bergen und gilt als eine der vielschichtigsten Städte Europas – Moscheen, orthodoxe Kirchen, Synagogen und Kathedralen stehen dort nahe beieinander. Die Stadt war 1984 Gastgeber der Olympischen Winterspiele. In der Altstadt Baščaršija duftet es nach frischem Kaffee und gegrilltem Fleisch – hier fühlt man sich fast wie in einer anderen Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Erst die zweite WM-Teilnahme in der Geschichte – und die Qualifikation gelang auf dramatische Weise über zwei gewonnene Elfmeterschießen, erst gegen Wales und dann gegen Italien!",
+    "gruppe": "B",
+    "gruppenGegner": ["Kanada", "Schweiz", "Katar"],
+    "spielorte": {
+      "Kanada": "Toronto-Stadion, Toronto",
+      "Schweiz": "Los-Angeles-Stadion, Los Angeles",
+      "Katar": "Seattle-Stadion, Seattle"
+    },
+    "spieltermine": {
+      "Kanada": "12. Juni 2026",
+      "Schweiz": "18. Juni 2026",
+      "Katar": "24. Juni 2026"
+    },
+    "trainer": {
+      "name": "Sergej Barbarez",
+      "nationalitaet": "Bosnisch",
+      "besonderheit": "Früher selbst Bundesliga-Profi – unter anderem beim Hamburger SV und Bayer Leverkusen. Als Trainer hatte er noch nie einen Cheftrainerposten inne, bevor er Nationalcoach wurde – und führte das Team dennoch gleich zur WM."
+    },
+    "qualifikation": {
+      "weg": "UEFA-Play-offs",
+      "beschreibung": "Bosnien-Herzegowina verpasste das direkte WM-Ticket knapp und musste in die Play-offs. Dort wurden in zwei Elfmeterschießen nacheinander Wales (Halbfinale) und Italien (Finale) ausgeschaltet – ein historischer Coup!"
+    },
+    "kapitaen": "Edin Džeko",
+    "teilnahmen_gesamt": 2,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (WM 2014 in Brasilien)",
+    "letztes_turnier": {
+      "jahr": 2014,
+      "austragungsort": "Brasilien",
+      "ergebnis": "Vorrunde",
+      "beschreibung": "Bei der WM-Premiere 2014 in Brasilien schied Bosnien-Herzegowina in der Gruppenphase aus – feierte aber einen historischen 3:1-Sieg gegen den Iran, den ersten WM-Sieg der Landesgeschichte."
+    },
+    "bundesliga_spieler": [
+      "Nikola Vasilj – Torwart (FC St. Pauli)",
+      "Ermedin Demirovic – Stürmer (VfB Stuttgart)",
+      "Haris Tabakovic – Stürmer (Borussia Mönchengladbach)",
+      "Edin Džeko – Stürmer (FC Schalke 04, 2. Bundesliga)",
+      "Nikola Katic – Verteidiger (FC Schalke 04, 2. Bundesliga)",
+      "Dzenis Burnic – Mittelfeld (Karlsruher SC, 2. Bundesliga)"
+    ],
+    "stars": [
+      {
+        "name": "Edin Džeko",
+        "verein": "FC Schalke 04",
+        "alter": 40,
+        "position": "Stürmer",
+        "rolle": "Kapitän, Rekordnationalspieler und Rekordtorschütze – mit 40 Jahren einer der ältesten WM-Spieler überhaupt"
+      },
+      {
+        "name": "Ermedin Demirovic",
+        "verein": "VfB Stuttgart",
+        "position": "Stürmer",
+        "rolle": "Torgefährlicher Bundesligaprofi, erlebt seine erste WM"
+      },
+      {
+        "name": "Haris Tabakovic",
+        "verein": "Borussia Mönchengladbach",
+        "position": "Stürmer",
+        "rolle": "Schoss zwei entscheidende Tore im WM-Play-off-Finale gegen Italien"
+      },
+      {
+        "name": "Sead Kolasinac",
+        "verein": "Atalanta Bergamo",
+        "position": "Verteidiger",
+        "rolle": "Erfahrener Abwehrspieler, früherer Schalker"
+      },
+      {
+        "name": "Nikola Vasilj",
+        "verein": "FC St. Pauli",
+        "position": "Torwart",
+        "rolle": "Sicherer Rückhalt im Tor"
+      }
+    ],
+    "fun_fact": "Bosnien-Herzegowina gab als erstes von allen 48 WM-Ländern seinen Kader bekannt – einen ganzen Monat vor dem Turnierstart! Und: Im Kader steckt eine Menge Bundesliga-Power – ganze sechs Spieler sind aus der 1. oder 2. Bundesliga dabei, darunter Kapitän Edin Džeko vom FC Schalke 04. Der Spitzname „Zmajevi” bedeutet übrigens „Die Drachen” auf Bosnisch!"
+  }
+}

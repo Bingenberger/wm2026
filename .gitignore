@@ -1,0 +1,16 @@
+# Originale Quellbilder und -audios (zu groß für GitHub, ~931 MB)
+# Die konvertierten Dateien liegen in assets/ und sind eingecheckt
+Gruppe */*.png
+Gruppe */*.ogg
+Gruppe */*.oga
+Gruppe */*.wav
+Gruppe */*.mp3
+
+# Claude Code interne Einstellungen
+.claude/
+
+# Build-Artefakte
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

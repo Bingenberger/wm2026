@@ -1,0 +1,126 @@
+{
+  "land": "Schweden",
+  "offizieller_name": "Königreich Schweden",
+  "spitzname": "Blågult (Blau-Gelb) / Tre Kronor (Drei Kronen)",
+  "flagge": "Blaues Feld mit einem gelben Kreuz, dessen senkrechter Balken etwas links der Mitte liegt – das sogenannte Skandinavische Kreuz. Blau und Gelb sind die schwedischen Nationalfarben.",
+
+  "steckbrief": {
+    "hauptstadt": "Stockholm",
+    "einwohner": "ca. 10,5 Millionen",
+    "sprache": "Schwedisch",
+    "waehrung": "Schwedische Krone (SEK)",
+    "lage": "Nordeuropa – Skandinavien, grenzt an Norwegen und Finnland, Ostsee im Osten",
+    "nachbarn": ["Norwegen (Westen)", "Finnland (Osten)"],
+    "bekannt_fuer": ["IKEA, ABBA und Astrid Lindgren (Pippi Langstrumpf)", "Mittsommer und Nordlichter", "Elche und Rentiere", "Weltbestes Gesundheitssystem", "Minecraft (in Stockholm erfunden!)", "Zlatan Ibrahimović"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Schweden ist das Land von ABBA, IKEA und Pippi Langstrumpf – und eines der schönsten Länder der Welt mit Wäldern, Seen und im Norden sogar Nordlichtern!",
+    "lang": "Schweden liegt ganz oben in Europa, in Skandinavien. Das Land ist riesig – fast so groß wie Deutschland, aber mit nur halb so vielen Menschen! Deshalb gibt es unendlich viel Natur: Dichte Wälder, tausende Seen und im Norden, in Lappland, sogar Rentiere und in der langen Winternacht die faszinierenden Nordlichter. Bekannte schwedische Erfindungen und Marken sind IKEA (die weltberühmten Möbel), Minecraft (das berühmteste Computerspiel der Welt wurde in Stockholm erfunden!), ABBA (die berühmteste Popband Schwedens) und Astrid Lindgren, die Pippi Langstrumpf erfand. Im Sommer gibt es in Schweden Mittsommer-Feste – mitten im Juni ist es so hell, dass die Sonne kaum untergeht!"
+  },
+
+  "hauptstadt": {
+    "name": "Stockholm",
+    "einwohner": "ca. 1 Million (Großraum ca. 2,4 Millionen)",
+    "lage": "Östliche Küste Schwedens, auf 14 Inseln zwischen dem Mälarsee und der Ostsee",
+    "wahrzeichen": ["Gamla Stan (Altstadt auf einer Insel)", "Vasa-Museum (Kriegsschiff von 1628)", "Königliches Schloss", "ABBA-Museum", "Stadthaus (Rathaus, wo der Nobelpreis-Abendessen stattfindet)"],
+    "beschreibung": "Stockholm ist eine der schönsten Hauptstädte Europas – die Stadt verteilt sich auf 14 Inseln und wird vom Wasser geprägt. Die mittelalterliche Altstadt Gamla Stan mit engen Gassen und bunten Häusern ist das Herzstück. Im Vasa-Museum kann man ein 400 Jahre altes Kriegsschiff bestaunen, das fast vollständig erhalten ist. Im Nobel-Saal des Rathauses wird jedes Jahr das Bankett für die Nobelpreisträger veranstaltet."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Schwedens Qualifikation war ein echter Thriller! Nach einer schwachen Gruppenphase (letzter Platz, kein einziger Sieg) rettete das Nations-League-Ranking die Play-off-Chance. Dann: Hattrick von Gyökeres im Halbfinale gegen die Ukraine, Siegtreffer von Gyökeres in der 88. Minute im Finale gegen Polen – WM-Ticket in letzter Sekunde! Erstmals seit 2018 wieder bei einer WM.",
+    "gruppe": "F",
+    "gruppenGegner": ["Tunesien", "Niederlande", "Japan"],
+    "spielorte": {
+      "Tunesien": "Estadio BBVA, Monterrey",
+      "Niederlande": "NRG Stadium, Houston",
+      "Japan": "AT&T Stadium, Dallas"
+    },
+    "spieltermine": {
+      "Tunesien": "15. Juni 2026",
+      "Niederlande": "20. Juni 2026",
+      "Japan": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Graham Potter",
+      "nationalitaet": "Englisch",
+      "besonderheit": "Ein Engländer trainiert Schweden – und spricht fließend Schwedisch! Potter begann seine Trainerkarriere beim schwedischen Viertligisten Östersunds FK, führte ihn in die höchste Spielklasse, gewann den schwedischen Pokal 2017 und qualifizierte sich für die Europa League. Zwei seiner drei Kinder sind in Schweden geboren. Nach Stationen bei Brighton, Chelsea und West Ham kehrte er 2025 nach Schweden zurück."
+    },
+    "qualifikation": {
+      "weg": "UEFA Play-offs (über Nations-League-Ranking)",
+      "beschreibung": "Schweden belegte in der Qualifikationsgruppe den letzten Platz ohne einen Sieg. Über das Nations-League-Ranking kam eine Play-off-Chance. Halbfinale: Sieg gegen die Ukraine. Finale: 3:2 gegen Polen – Gyökeres traf in der 88. Minute zum entscheidenden Siegtreffer."
+    },
+    "kapitaen": "Victor Lindelöf",
+    "teilnahmen_gesamt": 13,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vize-Weltmeister 1958 (im eigenen Land), Dritter 1950 und 1994",
+    "letztes_turnier": {
+      "jahr": 2018,
+      "austragungsort": "Russland",
+      "ergebnis": "Viertelfinale",
+      "ausgeschieden_gegen": "England (0:2)",
+      "beschreibung": "Bei der WM 2018 erreichte Schweden dank einer starken Defensive das Viertelfinale, ehe England Endstation war."
+    },
+    "verletzt_fehlend": [
+      "Dejan Kulusevski (Tottenham Hotspur) – verletzt",
+      "Lucas Bergvall (Tottenham Hotspur) – verletzt"
+    ],
+    "bundesliga_spieler": [
+      "Daniel Svensson – Verteidiger (Borussia Dortmund)",
+      "Eric Smith – Mittelfeld (FC St. Pauli)",
+      "Alexander Bernhardsson – Angriff (Holstein Kiel)",
+      "Mattias Svanberg – Mittelfeld (VfL Wolfsburg)"
+    ],
+    "stars": [
+      {
+        "name": "Viktor Gyökeres",
+        "verein": "FC Arsenal (England)",
+        "position": "Stürmer",
+        "rolle": "Tormaschine des Turniers – erzielte in der Saison 2024/25 bei Sporting CP über 50 Tore in allen Wettbewerben und wechselte dann für eine Rekordsumme zu Arsenal. Im WM-Play-off traf er dreimal gegen die Ukraine und schoss Schweden in der 88. Minute gegen Polen zur WM."
+      },
+      {
+        "name": "Alexander Isak",
+        "verein": "FC Liverpool (England)",
+        "position": "Stürmer",
+        "rolle": "Nachfolger von Zlatan Ibrahimović als Schwedens Leitfigur – Premier-League-Torschützenkönig, schnell und technisch sehr stark"
+      },
+      {
+        "name": "Anthony Elanga",
+        "verein": "Newcastle United (England)",
+        "position": "Flügel",
+        "rolle": "Explosiver Außenstürmer – traf im WM-Play-off-Finale gegen Polen zum 1:0"
+      },
+      {
+        "name": "Victor Lindelöf",
+        "verein": "Aston Villa (England)",
+        "position": "Innenverteidiger",
+        "rolle": "Kapitän – erfahrener Abwehrchef, früher bei Manchester United"
+      },
+      {
+        "name": "Isak Hien",
+        "verein": "Atalanta Bergamo (Italien)",
+        "position": "Innenverteidiger",
+        "rolle": "Starker Verteidiger mit Champions-League-Erfahrung"
+      },
+      {
+        "name": "Eric Smith",
+        "verein": "FC St. Pauli (Deutschland)",
+        "position": "Mittelfeld",
+        "rolle": "Einziger Zweitliga-Profi im Kader – spielt in Hamburg für den FC St. Pauli"
+      }
+    ],
+    "legenden": [
+      {
+        "name": "Zlatan Ibrahimović",
+        "rolle": "Bekanntester Schwede im Weltfußball – spielte u.a. bei Ajax, Juventus, Inter, Barcelona, AC Mailand, PSG und Manchester United. Witziger Typ mit großem Selbstbewusstsein. Ist inzwischen zurückgetreten."
+      },
+      {
+        "name": "Henrik Larsson",
+        "rolle": "Schwedens WM-Rekordtorschütze (gemeinsam mit Kennet Andersson, je 5 Tore) – spielte 1994, 2002 und 2006 für Schweden bei der WM"
+      }
+    ],
+    "fun_fact": "Viktor Gyökeres schoss Schweden in der 88. Minute des WM-Playoff-Finales gegen Polen zur WM – ein dramatischeres WM-Ticket gibt es kaum! Trainer Graham Potter ist Engländer, spricht aber fließend Schwedisch und zwei seiner Kinder sind in Schweden geboren. Und: Minecraft – das meistgespielte Computerspiel der Welt – wurde in Stockholm erfunden!"
+  }
+}

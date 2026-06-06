@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>WM 2026 – Länder-Lexikon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header id="site-header">
+    <div class="header-inner">
+      <div class="header-title">
+        <span class="ball-icon">&#9917;</span>
+        <div>
+          <h1>WM 2026</h1>
+          <p class="header-sub">Länder-Lexikon</p>
+        </div>
+      </div>
+      <p class="header-desc">Entdecke alle 48 Mannschaften der Fußball-Weltmeisterschaft!</p>
+    </div>
+  </header>
+
+  <!-- GRUPPEN-NAVIGATION -->
+  <nav id="group-nav" aria-label="Gruppenauswahl">
+    <div class="nav-scroll">
+      <div class="nav-inner">
+      <button class="nav-btn active" data-gruppe="alle" aria-pressed="true">Alle</button>
+      <button class="nav-btn" data-gruppe="A" aria-pressed="false">Gruppe A</button>
+      <button class="nav-btn" data-gruppe="B" aria-pressed="false">Gruppe B</button>
+      <button class="nav-btn" data-gruppe="C" aria-pressed="false">Gruppe C</button>
+      <button class="nav-btn" data-gruppe="D" aria-pressed="false">Gruppe D</button>
+      <button class="nav-btn" data-gruppe="E" aria-pressed="false">Gruppe E</button>
+      <button class="nav-btn" data-gruppe="F" aria-pressed="false">Gruppe F</button>
+      <button class="nav-btn" data-gruppe="G" aria-pressed="false">Gruppe G</button>
+      <button class="nav-btn" data-gruppe="H" aria-pressed="false">Gruppe H</button>
+      <button class="nav-btn" data-gruppe="I" aria-pressed="false">Gruppe I</button>
+      <button class="nav-btn" data-gruppe="J" aria-pressed="false">Gruppe J</button>
+      <button class="nav-btn" data-gruppe="K" aria-pressed="false">Gruppe K</button>
+      <button class="nav-btn" data-gruppe="L" aria-pressed="false">Gruppe L</button>
+      </div><!-- /.nav-inner -->
+    </div><!-- /.nav-scroll -->
+  </nav>
+
+  <!-- HAUPT-INHALT -->
+  <main id="main-content" role="main">
+    <!-- Wird per JavaScript befüllt -->
+  </main>
+
+  <!-- LÄNDER-DETAIL-MODAL -->
+  <div id="country-modal" class="modal" role="dialog" aria-modal="true" aria-label="Länderdetails" hidden>
+    <div class="modal-overlay" id="modal-overlay"></div>
+    <div class="modal-panel">
+
+      <!-- Modal Header -->
+      <div class="modal-header" id="modal-header">
+        <button class="back-btn" id="modal-back-btn" aria-label="Zurück">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+          Zurück
+        </button>
+        <div class="modal-country-title" id="modal-country-title">
+          <img id="modal-flag" src="" alt="" class="modal-flag-img">
+          <div>
+            <h2 id="modal-land-name"></h2>
+            <p id="modal-spitzname"></p>
+          </div>
+        </div>
+        <div class="gruppe-badge" id="modal-gruppe-badge"></div>
+      </div>
+
+      <!-- Tab-Navigation -->
+      <div class="modal-tabs" id="modal-tabs" role="tablist">
+        <button class="tab-btn active" data-tab="land" role="tab" aria-selected="true">
+          <span class="tab-icon">&#127758;</span>
+          <span class="tab-label">Land</span>
+        </button>
+        <button class="tab-btn" data-tab="team" role="tab" aria-selected="false">
+          <span class="tab-icon">&#9917;</span>
+          <span class="tab-label">Team & WM</span>
+        </button>
+        <button class="tab-btn" data-tab="karte" role="tab" aria-selected="false">
+          <span class="tab-icon">&#128506;</span>
+          <span class="tab-label">Karte</span>
+        </button>
+        <button class="tab-btn" data-tab="postkarte" role="tab" aria-selected="false">
+          <span class="tab-icon">&#128247;</span>
+          <span class="tab-label">Postkarte</span>
+        </button>
+        <button class="tab-btn" data-tab="trikot" role="tab" aria-selected="false">
+          <span class="tab-icon">&#128085;</span>
+          <span class="tab-label">Trikot</span>
+        </button>
+        <button class="tab-btn" data-tab="hymne" role="tab" aria-selected="false">
+          <span class="tab-icon">&#127925;</span>
+          <span class="tab-label">Hymne</span>
+        </button>
+      </div>
+
+      <!-- Tab-Inhalt -->
+      <div class="modal-body" id="modal-body">
+        <!-- Wird per JavaScript befüllt -->
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Audio-Element (global, wird für Hymnen genutzt) -->
+  <audio id="global-audio" preload="none"></audio>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

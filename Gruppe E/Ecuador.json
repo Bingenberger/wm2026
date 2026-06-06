@@ -1,0 +1,121 @@
+{
+  "land": "Ecuador",
+  "offizieller_name": "Republik Ecuador",
+  "spitzname": "La Tri (Die Drei – für die drei Farben der Flagge)",
+  "flagge": "Drei waagerechte Streifen: Gelb (oben, doppelt so breit), Blau (Mitte) und Rot (unten) – mit dem Staatswappen in der Mitte. Gelb steht für die Sonne und die Reichtümer, Blau für den Himmel und das Meer, Rot für das Blut der Helden.",
+
+  "steckbrief": {
+    "hauptstadt": "Quito",
+    "einwohner": "ca. 18 Millionen",
+    "sprachen": ["Spanisch", "Kichwa (Quechua) und weitere indigene Sprachen"],
+    "waehrung": "US-Dollar ($) – Ecuador hat seit 2000 den US-Dollar als offizielle Währung",
+    "lage": "Südamerika – direkt am Äquator (Ecuador bedeutet auf Spanisch 'Äquator'!), zwischen Kolumbien und Peru",
+    "nachbarn": ["Kolumbien (Norden)", "Peru (Süden und Osten)"],
+    "bekannt_fuer": ["Galápagos-Inseln (einzigartige Tierwelt)", "Äquator – das Land liegt genau in der Mitte der Welt", "Quito – eine der höchstgelegenen Hauptstädte der Welt", "Amazonas-Regenwald", "Bananen (weltweit größter Exporteur)", "Charles Darwin und seine Theorie"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Ecuador bedeutet auf Spanisch 'Äquator' – das Land liegt genau in der Mitte der Erde! Und es ist der weltgrößte Bananenexporteur. Beim Fußball schlugen sie in der WM-Qualifikation sogar Weltmeister Argentinien!",
+    "lang": "Ecuador liegt genau am Äquator – der unsichtbaren Linie, die die Erde in eine nördliche und eine südliche Hälfte teilt. Davon hat das Land sogar seinen Namen! Die Hauptstadt Quito liegt auf über 2.800 Metern Höhe in den Anden – eine der höchstgelegenen Hauptstädte der Welt. Im Osten beginnt der Amazonas-Regenwald mit einer unglaublichen Artenvielfalt. Vor der Küste liegen die Galápagos-Inseln, wo Charles Darwin Tiere entdeckte, die ihn zu seiner berühmten Evolutionstheorie inspirierten. Ecuador ist der weltgrößte Bananenexporteur – ein Großteil der Bananen in deutschen Supermärkten kommt von dort! Und bei Kakao und Blumen ist Ecuador ebenfalls Weltspitze."
+  },
+
+  "hauptstadt": {
+    "name": "Quito",
+    "einwohner": "ca. 1,8 Millionen",
+    "hoehe": "ca. 2.850 Meter über dem Meeresspiegel – eine der höchstgelegenen Hauptstädte der Welt",
+    "wahrzeichen": ["Altstadt (UNESCO-Welterbe, älteste erhaltene Kolonialstadt Südamerikas)", "Basilika del Voto Nacional", "Äquatordenkmal 'Mitad del Mundo' (außerhalb der Stadt)", "Pichincha-Vulkan (über der Stadt)"],
+    "beschreibung": "Quito liegt auf fast 2.850 Metern Höhe in den Anden – wer nicht daran gewöhnt ist, bekommt dort schnell Höhenluft! Die Altstadt gehört zum UNESCO-Welterbe und gilt als am besten erhaltene Kolonialstadt Südamerikas. Nicht weit entfernt liegt das Denkmal 'Mitad del Mundo' – dort steht man buchstäblich auf dem Äquator und hat einen Fuß auf der Nordhalbkugel und einen auf der Südhalbkugel."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Ecuador belegte in der härtesten WM-Qualifikation der Welt (CONMEBOL, Südamerika) den zweiten Platz – hinter Weltmeister Argentinien. Dabei schlugen sie Argentinien (1:0) und erzielten ein Unentschieden gegen Brasilien (0:0). Nur 5 Gegentore in der gesamten Qualifikation – die beste Defensive Südamerikas!",
+    "gruppe": "E",
+    "gruppenGegner": ["Elfenbeinküste", "Curaçao", "Deutschland"],
+    "spielorte": {
+      "Elfenbeinküste": "Philadelphia-Stadion, Philadelphia",
+      "Curaçao": "Arrowhead Stadium, Kansas City",
+      "Deutschland": "MetLife Stadium, New York/New Jersey"
+    },
+    "spieltermine": {
+      "Elfenbeinküste": "15. Juni 2026",
+      "Curaçao": "21. Juni 2026",
+      "Deutschland": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Sebastián Beccacece",
+      "nationalitaet": "Argentinisch",
+      "besonderheit": "Übernahm Ecuador im August 2024. Verwandelte eine defensiv wacklige Mannschaft in eine Festung – seit seinem Amtsantritt verlor Ecuador kein einziges Spiel mehr in der Qualifikation."
+    },
+    "qualifikation": {
+      "weg": "CONMEBOL (Südamerika)",
+      "platz": 2,
+      "gegentore_qualifikation": 5,
+      "beschreibung": "Zweiter Platz in der südamerikanischen Qualifikation, direkt hinter Weltmeister Argentinien. Ecuador überzeugte vor allem defensiv: Nur 5 Gegentore in 18 Spielen – der beste Wert in ganz Südamerika. Höhepunkte: 1:0 gegen Argentinien und 0:0 gegen Brasilien."
+    },
+    "kapitaen": "Enner Valencia",
+    "teilnahmen_gesamt": 5,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Achtelfinale (WM 2006 in Deutschland)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Vorrunde",
+      "beschreibung": "Bei der WM 2022 schied Ecuador in der Gruppenphase aus, nachdem es das Eröffnungsspiel gegen Gastgeber Katar gewonnen hatte."
+    },
+    "verbindung_deutschland": "2006 spielte Ecuador in Deutschland bei der WM – und verlor das letzte Gruppenspiel 0:3 gegen Deutschland. 2026 treffen beide Länder erneut aufeinander – diesmal in New York!",
+    "bundesliga_spieler": [
+      "Jeremy Arévalo – Stürmer/Flügel (VfB Stuttgart)"
+    ],
+    "ex_bundesliga": [
+      "Willian Pacho – Verteidiger (Paris Saint-Germain, früher Eintracht Frankfurt)",
+      "Piero Hincapié – Verteidiger (Arsenal FC, früher Bayer 04 Leverkusen)"
+    ],
+    "stars": [
+      {
+        "name": "Moisés Caicedo",
+        "verein": "FC Chelsea (England)",
+        "position": "Defensives Mittelfeld",
+        "alter": 24,
+        "rolle": "Herzstück des Teams – für 150 Millionen Euro von Brighton zu Chelsea, einer der teuersten Mittelfeldspieler der Geschichte"
+      },
+      {
+        "name": "Willian Pacho",
+        "verein": "Paris Saint-Germain",
+        "position": "Innenverteidiger",
+        "alter": 24,
+        "rolle": "Champions-League-Sieger 2025 mit PSG – früher bei Eintracht Frankfurt, starker Abwehrchef"
+      },
+      {
+        "name": "Piero Hincapié",
+        "verein": "Arsenal FC",
+        "position": "Innenverteidiger / Linksverteidiger",
+        "alter": 24,
+        "rolle": "Früher bei Bayer 04 Leverkusen – nun beim FC Arsenal, einer der besten Verteidiger Südamerikas"
+      },
+      {
+        "name": "Enner Valencia",
+        "verein": "Pachuca (Mexiko)",
+        "position": "Stürmer",
+        "alter": 36,
+        "rolle": "Kapitän und Rekordtorschütze Ecuadors – traf bei der WM 2022 dreimal und wurde Torschützenkönig des Turniers. Mit 36 Jahren der Erfahrungsträger."
+      },
+      {
+        "name": "Kendry Páez",
+        "verein": "River Plate (Argentinien)",
+        "position": "Mittelfeld",
+        "alter": 19,
+        "rolle": "Jüngstes Ausnahmetalent – früher für Independiente del Valle, gilt als einer der größten Talente Südamerikas"
+      },
+      {
+        "name": "Pervis Estupiñán",
+        "verein": "AC Mailand",
+        "position": "Linksverteidiger",
+        "alter": 28,
+        "rolle": "Schneller Außenverteidiger – wechselte von Brighton zu AC Mailand"
+      }
+    ],
+    "fun_fact": "Ecuador bedeutet auf Spanisch 'Äquator' – das Land liegt buchstäblich in der Mitte der Welt! Piero Hincapié und Willian Pacho spielten beide in der Bundesliga: Hincapié bei Bayer Leverkusen, Pacho bei Eintracht Frankfurt. Jetzt spielen sie bei Arsenal und PSG – und bei der WM gegen Deutschland! Und Moisés Caicedo ist einer der teuersten Mittelfeldspieler der Geschichte: Chelsea zahlte 150 Millionen Euro für ihn."
+  }
+}

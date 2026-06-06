@@ -1,0 +1,102 @@
+{
+  "land": "Ägypten",
+  "offizieller_name": "Arabische Republik Ägypten",
+  "spitzname": "Die Pharaonen",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Weiß (Mitte), Schwarz (unten) – in der Mitte der weiße Streifen mit dem goldenen Adler von Saladin. Rot steht für die Revolution, Weiß für Frieden, Schwarz für die dunkle Zeit der Unterdrückung.",
+
+  "steckbrief": {
+    "hauptstadt": "Kairo",
+    "einwohner": "ca. 106 Millionen",
+    "sprache": "Arabisch",
+    "waehrung": "Ägyptisches Pfund (EGP)",
+    "lage": "Nordostafrika – grenzt an das Mittelmeer, das Rote Meer, den Sudan und Libyen. Liegt an der Schnittstelle zwischen Afrika, dem Nahen Osten und dem Mittelmeer.",
+    "nachbarn": ["Sudan (Süden)", "Libyen (Westen)", "Israel (Nordosten)"],
+    "bekannt_fuer": ["Pyramiden von Gizeh und die Sphinx", "Mumien und Pharaonen", "Der Nil – längster Fluss der Welt", "Kairo – größte Stadt Afrikas", "Tutanchamun und Kleopatra", "Rotes Meer mit Korallenriffen"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Ägypten ist das Land der Pyramiden und Pharaonen – und einer der ältesten Hochkulturen der Menschheit! Der Nil fließt durch das Land und macht die Wüste fruchtbar.",
+    "lang": "Ägypten ist über 5.000 Jahre alt – eine der ältesten Hochkulturen der Welt! Die Pyramiden von Gizeh, darunter die Cheops-Pyramide, sind eines der sieben Weltwunder der Antike – und das einzige, das noch steht! Die Sphinx, ein riesiges Steindenkmal mit Löwenkörper und Menschenkopf, bewacht die Pyramiden seit 4.500 Jahren. Der Nil ist der längste Fluss der Welt und macht es möglich, dass in der Wüste Menschen leben können – das fruchtbare Niltal war der Ursprung der ägyptischen Zivilisation. Berühmte Pharaonen sind Tutanchamun (der Junge-König, dessen goldene Totenmaske weltberühmt ist) und Kleopatra. Ägypten ist aber auch ein modernes Land mit über 100 Millionen Menschen – die Hauptstadt Kairo ist die größte Stadt Afrikas!"
+  },
+
+  "hauptstadt": {
+    "name": "Kairo",
+    "arabisch": "القاهرة (al-Qāhira)",
+    "einwohner": "ca. 22 Millionen (Großraum) – größte Stadt Afrikas",
+    "wahrzeichen": ["Pyramiden von Gizeh (30 km außerhalb – UNESCO-Welterbe)", "Sphinx", "Ägyptisches Museum (goldene Totenmaske Tutanchamuns)", "Al-Azhar-Moschee (über 1.000 Jahre alt)", "Khan el-Khalili Basar"],
+    "beschreibung": "Kairo ist eine der aufregendsten Städte der Welt – eine riesige Metropole, in der uralte Geschichte auf moderne Millionenstadt trifft. Direkt am Stadtrand stehen die Pyramiden von Gizeh, die vor 4.500 Jahren als Grabmäler für die Pharaonen gebaut wurden. Im Ägyptischen Museum kann man die goldene Totenmaske des jungen Pharaos Tutanchamun bewundern. Die engen Gassen des Khan el-Khalili Basars versetzen Besucher in eine andere Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Ägypten ist der Rekordsieger des Afrikanischen Nationen-Pokals (7 Titel!) – aber bei der WM gab es noch nie einen Sieg. In sieben WM-Partien holten die Pharaonen keinen einzigen Sieg. Das soll sich 2026 endlich ändern! Die Qualifikation war historisch makellos: erstmals seit dem WM-Debüt 1934 blieb Ägypten in der gesamten Qualifikation ungeschlagen (8 Siege, 2 Unentschieden).",
+    "gruppe": "G",
+    "gruppenGegner": ["Belgien", "Neuseeland", "Iran"],
+    "spielorte": {
+      "Belgien": "Lumen Field, Seattle",
+      "Neuseeland": "BC Place, Vancouver",
+      "Iran": "Lumen Field, Seattle"
+    },
+    "spieltermine": {
+      "Belgien": "15. Juni 2026",
+      "Neuseeland": "22. Juni 2026",
+      "Iran": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Hossam Hassan",
+      "nationalitaet": "Ägyptisch",
+      "besonderheit": "Selbst eine Legende des ägyptischen Fußballs – Rekordtorschütze und Rekordnationalspieler Ägyptens als Spieler. Übernahm das Team im Februar 2024 und führte es ungeschlagen durch die WM-Qualifikation."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "beschreibung": "Gruppensieger mit 8 Siegen und 2 Unentschieden – 0 Niederlagen. Mohamed Salah erzielte allein 9 der 19 ägyptischen Qualifikationstori. Erstmals seit 1934 blieb Ägypten in der gesamten Qualifikation ungeschlagen."
+    },
+    "kapitaen": "Mohamed Salah",
+    "teilnahmen_gesamt": 4,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (1934, 1990, 2018) – noch nie einen WM-Sieg errungen!",
+    "afrikacup_titel": 7,
+    "afrikacup_titel_jahre": [1957, 1959, 1986, 1998, 2006, 2008, 2010],
+    "historische_besonderheit": "1934 war Ägypten das erste afrikanische Team bei einer WM überhaupt! Abdulrahman Fawzi erzielte dabei die ersten WM-Tore eines afrikanischen Spielers (2 Treffer beim 2:4 gegen Ungarn).",
+    "ex_bundesliga": [
+      "Omar Marmoush – Stürmer (Manchester City, früher Eintracht Frankfurt)"
+    ],
+    "stars": [
+      {
+        "name": "Mohamed Salah",
+        "verein": "FC Liverpool (England) – verlässt Liverpool im Sommer 2026",
+        "position": "Stürmer / Rechtsaußen",
+        "alter": 33,
+        "rolle": "Kapitän und Superstar – einer der besten Fußballer der Welt, schoss in der Qualifikation allein 9 Tore. Für ihn ist es die zweite WM-Teilnahme nach 2018. Ägyptens Rekordtorschütze."
+      },
+      {
+        "name": "Omar Marmoush",
+        "verein": "Manchester City (England)",
+        "position": "Stürmer / Offensives Mittelfeld",
+        "alter": 27,
+        "bundesliga_vergangenheit": "Eintracht Frankfurt",
+        "rolle": "Salahs legitimer Nachfolger – schaffte seinen Durchbruch bei Eintracht Frankfurt in der Bundesliga, wechselte 2025 für fast 70 Millionen Euro zu Manchester City"
+      },
+      {
+        "name": "Mahmoud Trezeguet",
+        "verein": "Al Ahly (Ägypten)",
+        "position": "Mittelfeld / Flügel",
+        "rolle": "Erfahrener Spielmacher – früher in der Türkei und bei Aston Villa aktiv"
+      },
+      {
+        "name": "Hamza Abdelkarim",
+        "verein": "FC Barcelona (Spanien, Jugend/Reserve)",
+        "position": "Stürmer",
+        "rolle": "Größtes Talent Ägyptens – junger Angreifer aus der berühmten Barca-Akademie La Masia"
+      },
+      {
+        "name": "Mohamed El Shenawy",
+        "verein": "Al Ahly (Ägypten)",
+        "position": "Torwart",
+        "rolle": "Erfahrener Schlussmann und Rückhalt der Defensive"
+      }
+    ],
+    "fun_fact": "Die Pyramiden von Gizeh sind über 4.500 Jahre alt und noch immer das einzige noch existierende Weltwunder der Antike! Omar Marmoush machte sich bei Eintracht Frankfurt in der Bundesliga einen Namen, bevor er für fast 70 Millionen Euro zu Manchester City wechselte – und jetzt spielt er für Ägypten bei der WM! Und: 1934 war Ägypten das allererste afrikanische Team bei einer WM überhaupt."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "land": "Saudi-Arabien",
+  "offizieller_name": "Königreich Saudi-Arabien",
+  "spitzname": "Al-Suqur Al-Khadra (Die Grünen Falken)",
+  "flagge": "Grünes Feld mit der islamischen Glaubensformel 'La ilaha illa Allah, Muhammad rasul Allah' (Es gibt keinen Gott außer Allah, Muhammad ist sein Prophet) in weißer arabischer Schrift – und darunter ein weißes Schwert. Grün ist die Farbe des Islam.",
+
+  "steckbrief": {
+    "hauptstadt": "Riad",
+    "einwohner": "ca. 35 Millionen",
+    "sprache": "Arabisch",
+    "waehrung": "Saudi-Riyal (SAR)",
+    "lage": "Naher Osten – nimmt den größten Teil der Arabischen Halbinsel ein",
+    "nachbarn": ["Jordanien", "Irak", "Kuwait", "Bahrain", "Katar", "Vereinigte Arabische Emirate", "Oman", "Jemen"],
+    "bekannt_fuer": ["Mekka und Medina – die heiligsten Städte des Islams", "Riesige Ölvorkommen", "Wüste Rub al-Khali (größte Sandwüste der Welt)", "Kamelrennen und Falknerei", "Futuristische Megastädteprojekte (NEOM)", "Cristiano Ronaldo spielt in Saudi-Arabien!"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Saudi-Arabien ist das Land der heiligen Städte Mekka und Medina – dort pilgern jedes Jahr Millionen Muslime aus aller Welt hin. Das Land hat auch riesige Ölvorkommen und die größte Sandwüste der Welt!",
+    "lang": "Saudi-Arabien liegt auf der Arabischen Halbinsel und ist fast so groß wie Westeuropa – aber größtenteils Wüste! Die riesige Sandwüste Rub al-Khali im Süden ist die größte zusammenhängende Sandwüste der Erde. In Saudi-Arabien liegen Mekka und Medina, die heiligsten Städte des Islams – jedes Jahr pilgern Millionen Muslime aus der ganzen Welt dorthin. Unter Saudi-Arabiens Wüste schlummern gigantische Ölvorkommen, die das Land zu einem der reichsten der Welt gemacht haben. Mit dem Geld baut Saudi-Arabien heute futuristische Projekte wie NEOM – eine völlig neue Stadt in der Wüste, die auf erneuerbaren Energien laufen soll. Und Fußballfans wissen: In Saudi-Arabien spielen heute Stars wie Cristiano Ronaldo (Al-Nassr) und viele andere Weltklassespieler!"
+  },
+
+  "hauptstadt": {
+    "name": "Riad",
+    "arabisch": "الرياض (ar-Riyāḍ)",
+    "einwohner": "ca. 7,5 Millionen",
+    "lage": "Mitte der Arabischen Halbinsel – in der Najd-Hochebene",
+    "wahrzeichen": ["Kingdom Centre Tower (302 m – Wahrzeichen der Stadt mit Sky Bridge)", "Al-Masmak-Festung (historisches Fort)", "König-Fahd-Stadion (68.000 Zuschauer – Heimstadion der Nationalmannschaft)", "Diriyah (historische Altstadt, UNESCO-Welterbe)"],
+    "beschreibung": "Riad ist eine ultramoderne Wüstenmetropole, die in wenigen Jahrzehnten von einer kleinen Stadt zur Millionenmetropole gewachsen ist. Der Kingdom Centre Tower mit seiner einzigartigen Sky Bridge ist das Wahrzeichen. Rund um die Stadt liegt die endlose Wüste – und trotzdem haben riesige grüne Parkanlagen und Shoppingmalls die Skyline verändert."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Saudi-Arabien sorgte bei der WM 2022 für den größten Schock des Turniers: 2:1 gegen den späteren Weltmeister Argentinien! Das Tor von Salem Al-Dawsari zum 2:1 in der 53. Minute gehört zu den bekanntesten WM-Momenten aller Zeiten. Jetzt wollen die Grünen Falken beweisen, dass das kein Zufall war.",
+    "gruppe": "H",
+    "gruppenGegner": ["Uruguay", "Spanien", "Kap Verde"],
+    "spielorte": {
+      "Uruguay": "Estadio Akron, Guadalajara",
+      "Spanien": "Mercedes-Benz Stadium, Atlanta",
+      "Kap Verde": "NRG Stadium, Houston"
+    },
+    "spieltermine": {
+      "Uruguay": "16. Juni 2026",
+      "Spanien": "21. Juni 2026",
+      "Kap Verde": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Georgios Donis",
+      "nationalitaet": "Griechisch",
+      "geburtsort": "Deutschland (in Deutschland geboren!)",
+      "besonderheit": "Übernahm Saudi-Arabien erst Ende April 2026 – nur sieben Wochen vor WM-Beginn! Als früherer griechischer Nationalspieler kennt er den saudischen Fußball aus fast einem Jahrzehnt Klubarbeit in der Saudi Pro League. Vorgänger Hervé Renard musste nach Testspielniederlagen gehen."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien)",
+      "beschreibung": "Qualifizierte sich souverän über die asiatische Qualifikation. Salem Al-Dawsari war erneut der wichtigste Spieler mit entscheidenden Toren."
+    },
+    "kapitaen": "Salem Al-Dawsari",
+    "teilnahmen_gesamt": 7,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Achtelfinale (1994 beim WM-Debüt in den USA)",
+    "asienmeister_titel": 3,
+    "asienmeister_jahre": [1984, 1988, 1996],
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Vorrunde",
+      "highlight": "2:1-Sieg gegen den späteren Weltmeister Argentinien – einer der größten WM-Überraschungen aller Zeiten!"
+    },
+    "kader_besonderheit": "Fast der gesamte Kader besteht aus Spielern der heimischen Saudi Pro League – Saud Abdulhamid von RC Lens (Frankreich) ist der einzige Auslandsspieler. Die Saudi Pro League hat in den letzten Jahren massiv in internationale Stars investiert (Ronaldo, Benzema etc.) und hebt damit auch das Niveau der einheimischen Spieler.",
+    "stars": [
+      {
+        "name": "Salem Al-Dawsari",
+        "verein": "Al-Hilal (Saudi-Arabien)",
+        "position": "Linksaußen",
+        "alter": 34,
+        "länderspiele": 108,
+        "rolle": "Kapitän und Held – sein Siegtreffer gegen Argentinien 2022 ist für immer in die WM-Geschichte eingraviert. Mit 108 Länderspielen erfahrenster Spieler des Kaders. Aktueller asiatischer Fußballer des Jahres."
+      },
+      {
+        "name": "Saleh Al-Shehri",
+        "verein": "Al-Ittihad (Saudi-Arabien)",
+        "position": "Stürmer",
+        "rolle": "Schoss das 1:0 gegen Argentinien 2022 – zusammen mit Al-Dawsari das Duo der WM-Sensation"
+      },
+      {
+        "name": "Saud Abdulhamid",
+        "verein": "RC Lens (Frankreich)",
+        "position": "Rechtsverteidiger",
+        "alter": 26,
+        "rolle": "Einziger Auslandsspieler – spielte in der Ligue 1 für RC Lens und wurde Vizemeister"
+      },
+      {
+        "name": "Firas Al-Buraikan",
+        "verein": "Al-Ahli (Saudi-Arabien)",
+        "position": "Stürmer",
+        "alter": 26,
+        "rolle": "Torgefährlichster Stürmer der Qualifikation – schnell und abschlussstark"
+      },
+      {
+        "name": "Mohamed Kanno",
+        "verein": "Al-Hilal (Saudi-Arabien)",
+        "position": "Defensives Mittelfeld",
+        "alter": 31,
+        "rolle": "Abräumer im Mittelfeld – Herzstück der saudischen Defensive"
+      }
+    ],
+    "fun_fact": "Salem Al-Dawsari schoss 2022 das berühmteste Tor der WM-Geschichte gegen den Weltmeister Argentinien – und spielt immer noch! In Saudi-Arabien spielen heute viele Weltstars: Cristiano Ronaldo, Karim Benzema und Neymar haben alle in der Saudi Pro League gespielt. Das hilft auch den einheimischen Spielern, besser zu werden. Und Trainer Georgios Donis wurde in Deutschland geboren – er ist griechischer Nationaltrainer und übernahm Saudi-Arabien erst sieben Wochen vor der WM!"
+  }
+}

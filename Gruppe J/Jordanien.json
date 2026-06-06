@@ -1,0 +1,94 @@
+{
+  "land": "Jordanien",
+  "offizieller_name": "Haschemitisches Königreich Jordanien",
+  "spitzname": "Al-Nashama (Die Ritterlichen / Die Edelmütigen)",
+  "flagge": "Drei waagerechte Streifen: Schwarz (oben, für das Abbassiden-Kalifat), Weiß (Mitte, für den Frieden), Grün (unten, für die Fatimiden-Dynastie) – links ein rotes Dreieck mit einem weißen Stern mit sieben Zacken. Jede Zacke steht für einen Grundwert: Glaube, Volk, Heimat, Armee, Bildung, Fortschritt und Bescheidenheit.",
+
+  "steckbrief": {
+    "hauptstadt": "Amman",
+    "einwohner": "ca. 10 Millionen",
+    "sprache": "Arabisch",
+    "waehrung": "Jordanischer Dinar (JOD)",
+    "lage": "Naher Osten – zwischen Israel, Palästina, Syrien, Irak und Saudi-Arabien. Kurzer Meereszugang am Roten Meer (Golf von Akaba).",
+    "nachbarn": ["Israel / Palästinensische Gebiete (Westen)", "Syrien (Norden)", "Irak (Nordosten)", "Saudi-Arabien (Süden und Osten)"],
+    "bekannt_fuer": ["Petra – die Felsenstadt (UNESCO-Welterbe, Weltwunder)", "Wadi Rum – Marslandschaft in der Wüste", "Totes Meer – tiefstes Gewässer der Erde", "Lawrence von Arabien (Geschichte)", "Jordanien als stabiles Land in einer unruhigen Region", "Gastfreundschaft (Arabische Kultur)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Jordanien ist das Land der Felsenstadt Petra – einem der Sieben Weltwunder der Moderne! Und das Tote Meer liegt hier: So salzig, dass man darin von alleine schwimmt, ohne unterzugehen.",
+    "lang": "Jordanien liegt mitten im Nahen Osten und ist eines der faszinierendsten Länder der Region. Die Felsenstadt Petra – in rotem Fels gemeißelt von den Nabatäern vor über 2.000 Jahren – ist eines der spektakulärsten Bauwerke der Menschheitsgeschichte und eines der Neuen Sieben Weltwunder. Das Tote Meer, das Jordanien mit Israel teilt, ist der tiefste Punkt der Erde (430 Meter unter dem Meeresspiegel!) und so salzig, dass man darin nicht sinken kann – man schwimmt automatisch! In der Wüste Wadi Rum, einer der eindrucksvollsten Wüstenlandschaften der Welt, wurden Teile des Films 'Der Marsianer' und 'Lawrence von Arabien' gedreht. Jordanien gilt in einer unruhigen Nachbarschaft als stabiles, sicheres und gastfreundliches Land."
+  },
+
+  "hauptstadt": {
+    "name": "Amman",
+    "arabisch": "عمّان",
+    "einwohner": "ca. 4 Millionen",
+    "lage": "Nordjordanien, auf Hügeln gelegen",
+    "historische_tiefe": "Amman war schon in der Bronzezeit besiedelt – die Stadt heißt in der Bibel 'Rabbat Ammon'",
+    "wahrzeichen": ["Zitadelle von Amman (Ruinen aus röm., byzantinischer und islamischer Zeit)", "Römisches Theater (2. Jh. n. Chr., 6.000 Plätze)", "König-Abdullah-I.-Moschee (blaue Kuppel)", "Rainbow Street (lebhafteste Straße der Altstadt)"],
+    "beschreibung": "Amman ist eine der ältesten bewohnten Städte der Welt – seit 8.500 Jahren kontinuierlich besiedelt! Die Zitadelle auf dem höchsten Hügel bietet einen Blick über die ganze Stadt und zeigt Reste von Tempeln, Kirchen und Palästen aus 3.000 Jahren Geschichte. Das römische Theater aus dem 2. Jahrhundert ist noch heute so gut erhalten, dass dort Konzerte stattfinden."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Jordaniens erste WM-Teilnahme überhaupt! Nach zehn gescheiterten Versuchen über vier Jahrzehnte klappte es 2025 endlich. Kurz zuvor hatte Jordanien noch beim Asien-Cup 2024 das Finale erreicht – das beste Ergebnis der Verbandsgeschichte. Die Qualifikation war makellos: Nur 2 Niederlagen in 12 Spielen, darunter ein 7:0 gegen Pakistan.",
+    "gruppe": "J",
+    "gruppenGegner": ["Österreich", "Algerien", "Argentinien"],
+    "spielorte": {
+      "Österreich": "Levi's Stadium, San Francisco",
+      "Algerien": "Levi's Stadium, San Francisco",
+      "Argentinien": "AT&T Stadium, Dallas"
+    },
+    "spieltermine": {
+      "Österreich": "17. Juni 2026",
+      "Algerien": "23. Juni 2026",
+      "Argentinien": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Jamal Sellami",
+      "nationalitaet": "Marokkanisch",
+      "alter": 55,
+      "besonderheit": "Der Marokkaner stand 1998 selbst bei der WM in Frankreich auf dem Platz – für Marokko! Als aktiver Spieler bei Raja Casablanca und Beşiktaş Istanbul erfolgreich. Übernahm Jordanien 2024 und führte es sensationell zur ersten WM-Teilnahme."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien)",
+      "beschreibung": "Makellos durch drei Runden: 7:0 gegen Pakistan, dominanter Gruppensieg. In der entscheidenden dritten Runde mit 16 Punkten und nur 2 Niederlagen. Das WM-Ticket war einen Spieltag vor Schluss sicher. Bester Torschütze: Ali Olwan (9 Tore)."
+    },
+    "kapitaen": "Mousa Al-Tamari",
+    "teilnahmen_gesamt": 1,
+    "erste_wm_teilnahme": 2026,
+    "wm_titel": 0,
+    "historische_highlights": [
+      "2024 AFC Asian Cup: Einzug ins Finale (1:3 gegen Katar) – bestes Ergebnis der Verbandsgeschichte",
+      "Mousa Tamari: Erster Jordanier, der in einer der fünf großen europäischen Ligen spielt und trifft"
+    ],
+    "stars": [
+      {
+        "name": "Mousa Al-Tamari",
+        "verein": "Stade Rennais FC (Frankreich, Ligue 1)",
+        "position": "Rechtsaußen",
+        "alter": 28,
+        "rolle": "Kapitän und wichtigster Spieler – als erster Jordanier spielte und traf er in einer der fünf großen europäischen Ligen. Beim Asien-Cup 2024 der Mann, der Jordanien ins Finale führte. Schnell, dribbelstark, torgefährlich.",
+        "historische_bedeutung": "Pionier – öffnete die Tür zu den europäischen Topligen für jordanischen Fußball"
+      },
+      {
+        "name": "Ali Olwan",
+        "verein": "Al-Sailiya SC (Katar)",
+        "position": "Stürmer",
+        "alter": 26,
+        "qualifikationstore": 9,
+        "besonderheit": "Schoss 3 Tore alleine beim entscheidenden 3:0 gegen Oman, das das WM-Ticket sicherte. Auch im Arab Cup goldener Schuh. Musste Verletzung überwinden, um zur WM zu kommen.",
+        "rolle": "Torjäger der Qualifikation – ohne ihn wäre die WM-Teilnahme kaum möglich gewesen"
+      },
+      {
+        "name": "Ibrahim Sabra",
+        "verein": "Lokomotiva Zagreb (Kroatien)",
+        "position": "Stürmer / Flügel",
+        "rolle": "Einziger Spieler bei einem europäischen Klub neben Tamari"
+      }
+    ],
+    "kader_besonderheit": "Fast der gesamte Kader spielt in Ligen des Nahen Ostens (Jordanien, Katar, Saudi-Arabien, Ägypten). Mousa Al-Tamari (Rennes) und Ibrahim Sabra (Lokomotiva Zagreb) sind die einzigen Spieler bei europäischen Vereinen.",
+    "fun_fact": "Petra – die berühmte Felsenstadt Jordaniens – ist eines der Neuen Sieben Weltwunder der Welt, gewählt im Jahr 2007! Das Tote Meer in Jordanien ist der tiefste Punkt der Erde – 430 Meter unter dem Meeresspiegel. Und Mousa Al-Tamari ist der erste Jordanier in einer der fünf großen europäischen Ligen – er spielt für Stade Rennes in Frankreich und führt sein Land jetzt als Kapitän zur ersten WM der Geschichte!"
+  }
+}

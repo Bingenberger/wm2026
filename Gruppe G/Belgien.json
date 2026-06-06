@@ -1,0 +1,119 @@
+{
+  "land": "Belgien",
+  "offizieller_name": "Königreich Belgien",
+  "spitzname": "Die Roten Teufel",
+  "flagge": "Drei senkrechte Streifen: Schwarz (links), Gelb (Mitte), Rot (rechts) – die Farben entstammen dem Wappen des Herzogtums Brabant. Schwarz, Gelb und Rot sind die belgischen Nationalfarben.",
+
+  "steckbrief": {
+    "hauptstadt": "Brüssel",
+    "einwohner": "ca. 11,5 Millionen",
+    "sprachen": ["Niederländisch (Flämisch, Norden)", "Französisch (Wallonisch, Süden)", "Deutsch (kleiner Osten)"],
+    "waehrung": "Euro (€)",
+    "lage": "Westeuropa – zwischen den Niederlanden, Deutschland, Luxemburg und Frankreich, Küste an der Nordsee",
+    "nachbarn": ["Niederlande (Norden)", "Deutschland (Osten)", "Luxemburg (Südosten)", "Frankreich (Süden)"],
+    "bekannt_fuer": ["Schokolade (weltberühmt!)", "Waffeln (Belgische Waffeln)", "Pommes Frites (die Belgier sagen, sie haben sie erfunden!)", "Bier (über 1.000 Sorten)", "Brüssel – Hauptstadt der EU", "Comics (Tim und Struppi, die Schlümpfe)", "Atomium"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Belgien hat drei Amtssprachen, erfand angeblich die Pommes Frites und hat weltberühmte Schokolade – und eine der stärksten Fußballnationen Europas!",
+    "lang": "Belgien ist ein kleines, aber faszinierendes Land: Im Norden spricht man Niederländisch (Flämisch), im Süden Französisch und in einem kleinen Teil sogar Deutsch – drei Amtssprachen in einem Land! Brüssel ist nicht nur die belgische Hauptstadt, sondern auch der Sitz der Europäischen Union und der NATO. Belgien ist weltberühmt für seine Schokolade (Godiva, Neuhaus, Leonidas), seine unzähligen Biersorten und natürlich die belgischen Waffeln. Und die Pommes Frites? Belgier behaupten steif und fest, sie hätten sie erfunden! Aus Belgien kommen auch bekannte Comics: Tim und Struppi (Tintin) wurde von Hergé erfunden, und die Schlümpfe von Peyo – beide sind belgische Nationalschätze."
+  },
+
+  "hauptstadt": {
+    "name": "Brüssel",
+    "niederlaendisch": "Brussel",
+    "einwohner": "ca. 1,2 Millionen (Großraum)",
+    "besonderheit": "Sitz der EU-Kommission, des EU-Parlaments und der NATO – Brüssel ist de facto die Hauptstadt Europas!",
+    "wahrzeichen": ["Atomium (Stahlkugeln-Skulptur, Wahrzeichen der Expo 1958)", "Manneken Pis (berühmte kleine Bronzestatue)", "Grand Place (Marktplatz, UNESCO-Welterbe)", "Königlicher Palast", "EU-Viertel mit Berlaymont-Gebäude"],
+    "beschreibung": "Brüssel ist eine der internationalsten Städte der Welt – Heimat der EU und der NATO. Der Grand Place, Brüssels zentraler Marktplatz, ist einer der schönsten Plätze Europas und UNESCO-Welterbe. Das Atomium, erbaut für die Weltausstellung 1958, stellt ein Eisenmolekül vergrößert dar und ist das seltsamste und faszinierendste Wahrzeichen der Stadt. Und der Manneken Pis – ein kleines Bronzebrünnchen – ist eine der meistfotografierten Skulpturen der Welt!"
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Belgien gilt als einer der klaren Gruppensieger-Favoriten in Gruppe G. Die 'Goldene Generation' um De Bruyne, Lukaku und Courtois tritt bei ihrer möglicherweise letzten WM gemeinsam an. 2018 holten die Roten Teufel Bronze – der bisher größte Erfolg. Nach dem Vorrunden-Aus 2022 ist 2026 die Chance zur Wiedergutmachung.",
+    "gruppe": "G",
+    "gruppenGegner": ["Ägypten", "Iran", "Neuseeland"],
+    "spielorte": {
+      "Ägypten": "Lumen Field, Seattle",
+      "Iran": "SoFi Stadium, Los Angeles",
+      "Neuseeland": "BC Place, Vancouver"
+    },
+    "spieltermine": {
+      "Ägypten": "15. Juni 2026",
+      "Iran": "21. Juni 2026",
+      "Neuseeland": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Rudi Garcia",
+      "nationalitaet": "Französisch",
+      "besonderheit": "Übernahm Belgien im Januar 2025 als Nachfolger von Domenico Tedesco. Erster Auslandseinsatz als Nationaltrainer – zuvor trainierte er Vereine wie AS Rom, Marseille und Lyon."
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Belgien qualifizierte sich souverän als Gruppensieger für die WM 2026."
+    },
+    "kapitaen": "Youri Tielemans",
+    "teilnahmen_gesamt": 15,
+    "wm_titel": 0,
+    "bestes_ergebnis": "3. Platz (2018 in Russland) – nach Siegen gegen Japan und Brasilien",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Vorrunde",
+      "beschreibung": "Nach dem 3. Platz 2018 war das Vorrunden-Aus 2022 eine herbe Enttäuschung – das Ende der goldenen Generation schien nahe."
+    },
+    "bundesliga_spieler": [
+      "Arthur Theate – Innenverteidiger (Eintracht Frankfurt) – einziger aktueller Bundesliga-Profi im Kader"
+    ],
+    "ex_bundesliga": [
+      "Axel Witsel – Mittelfeld (FC Girona, früher Borussia Dortmund)"
+    ],
+    "stars": [
+      {
+        "name": "Kevin De Bruyne",
+        "verein": "SSC Neapel (Italien)",
+        "position": "Offensives Mittelfeld",
+        "alter": 34,
+        "rolle": "Kreativster Spieler des Teams – gilt als einer der besten Mittelfeldspieler der Welt. Früher bei Manchester City. Möglicherweise seine letzte WM."
+      },
+      {
+        "name": "Romelu Lukaku",
+        "verein": "SSC Neapel (Italien)",
+        "position": "Stürmer",
+        "alter": 33,
+        "rolle": "Belgiens Rekordtorschütze mit 89 Länderspieltoren – einer der physisch stärksten Stürmer der Welt. Ebenfalls bei Neapel."
+      },
+      {
+        "name": "Thibaut Courtois",
+        "verein": "Real Madrid (Spanien)",
+        "position": "Torwart",
+        "alter": 34,
+        "rolle": "Einer der weltbesten Torhüter – Champions-League-Sieger mit Real Madrid"
+      },
+      {
+        "name": "Jérémy Doku",
+        "verein": "Manchester City (England)",
+        "position": "Flügel",
+        "alter": 24,
+        "rolle": "Blitzschneller Flügelspieler – einer der aufregendsten Dribbler Europas"
+      },
+      {
+        "name": "Amadou Onana",
+        "verein": "Aston Villa (England)",
+        "position": "Defensives Mittelfeld",
+        "alter": 24,
+        "rolle": "Kraftvoller Box-to-Box-Spieler – Belgiens Zukunft im Mittelfeld"
+      },
+      {
+        "name": "Axel Witsel",
+        "verein": "FC Girona (Spanien)",
+        "position": "Mittelfeld",
+        "alter": 37,
+        "bundesliga_vergangenheit": "Borussia Dortmund",
+        "rolle": "Erfahrungsträger und Routinier – früher bei Borussia Dortmund, nun bei 37 Jahren seine letzte WM"
+      }
+    ],
+    "fun_fact": "Belgien hat drei Amtssprachen – und die Belgier streiten seit Jahrzehnten darüber, ob das Land eines Tages geteilt werden soll! Die Schlümpfe (La Schtroumpfs) und Tim und Struppi (Tintin) sind beide belgische Erfindungen. Und Axel Witsel spielte früher bei Borussia Dortmund in der Bundesliga – bei der WM 2026 ist er 37 Jahre alt und tritt bei seiner letzten Weltmeisterschaft an!"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "land": "England",
+  "spitzname": "The Three Lions",
+  "flagge": "Weißes Kreuz auf rotem Grund (Georgskreuz)",
+
+  "steckbrief": {
+    "hauptstadt": "London",
+    "einwohner": "ca. 57 Millionen",
+    "sprache": "Englisch",
+    "waehrung": "Britisches Pfund (£)",
+    "lage": "Insel im Nordwesten Europas, Teil des Vereinigten Königreichs",
+    "nachbarn": ["Schottland", "Wales", "Irland (Irische See)"],
+    "bekannt_fuer": ["Big Ben", "Fußball", "Afternoon Tea", "rote Doppeldeckerbusse", "Buckingham-Palast"]
+  },
+
+  "wissenswertes": {
+    "kurz": "England gilt als Mutterland des Fußballs – die Regeln des modernen Fußballs wurden hier vor über 160 Jahren aufgeschrieben!",
+    "lang": "England liegt auf einer großen Insel im Nordwesten Europas und gehört zum Vereinigten Königreich. Die Hauptstadt London ist eine der größten Städte der Welt – mit dem roten Doppeldeckerbus, dem riesigen Riesenrad „London Eye” und dem berühmten Uhrturm „Big Ben”. England gilt als Mutterland des Fußballs – die Regeln des modernen Fußballs wurden hier vor über 160 Jahren aufgeschrieben! Das englische Wetter ist oft bewölkt und regnerisch – typisch britisch! Beliebt ist auch der „Afternoon Tea” – Tee mit kleinen Häppchen und Kuchen."
+  },
+
+  "hauptstadt": {
+    "name": "London",
+    "einwohner": "ca. 9 Millionen",
+    "fluss": "Themse",
+    "wahrzeichen": ["Tower Bridge", "Buckingham-Palast", "London Eye", "Big Ben"],
+    "beschreibung": "London hat über 9 Millionen Einwohner und liegt am Fluss Themse. Berühmte Wahrzeichen sind die Tower Bridge, der Buckingham-Palast und das London Eye. In London fahren die ikonischen roten Doppeldeckerbusse und schwarzen Taxis."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "gruppe": "L",
+    "gruppenGegner": ["Kroatien", "Ghana", "Panama"],
+    "spielorte": {
+      "Kroatien": "Dallas",
+      "Ghana": "Boston",
+      "Panama": "Nordamerika"
+    },
+    "trainer": {
+      "name": "Thomas Tuchel",
+      "nationalitaet": "Deutsch",
+      "besonderheit": "Erster deutscher Trainer in der Geschichte der englischen Nationalmannschaft"
+    },
+    "qualifikation": {
+      "spiele": 8,
+      "siege": 8,
+      "niederlagen": 0,
+      "unentschieden": 0,
+      "tore": 22,
+      "gegentore": 0,
+      "beschreibung": "England qualifizierte sich mit einer makellosen Qualifikation – 8 Siege, 22 Tore, kein einziges Gegentor. Als erstes europäisches Team sicherten sich die Three Lions das WM-Ticket."
+    },
+    "teilnahmen_gesamt": 17,
+    "wm_titel": 1,
+    "wm_titel_jahre": [1966],
+    "letztes_turnier": {
+      "jahr": 2022,
+      "ergebnis": "Viertelfinale",
+      "ausgeschieden_gegen": "Frankreich",
+      "ergebnis_detail": "1:2"
+    },
+    "stars": [
+      { "name": "Harry Kane", "verein": "FC Bayern München", "position": "Stürmer", "rolle": "Kapitän" },
+      { "name": "Jude Bellingham", "position": "Mittelfeld", "rolle": "Schlüsselspieler" },
+      { "name": "Bukayo Saka", "verein": "Arsenal", "position": "Außenstürmer", "rolle": "Schlüsselspieler" },
+      { "name": "Declan Rice", "verein": "Arsenal", "position": "Defensives Mittelfeld", "rolle": "Anker im Mittelfeld" },
+      { "name": "Marc Guehi", "position": "Innenverteidiger", "rolle": "Abwehrspieler" }
+    ],
+    "fun_fact": "England wartet seit 60 Jahren auf einen WM-Titel – zuletzt gewannen sie 1966 im eigenen Land."
+  }
+}

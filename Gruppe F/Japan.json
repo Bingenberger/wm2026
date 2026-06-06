@@ -1,0 +1,126 @@
+{
+  "land": "Japan",
+  "offizieller_name": "Japan (日本 / Nihon)",
+  "spitzname": "Samurai Blue / Blue Samurai",
+  "flagge": "Weißer Hintergrund mit einem roten Kreis in der Mitte – die aufgehende Sonne. Japan wird deshalb auch 'Land der aufgehenden Sonne' genannt.",
+
+  "steckbrief": {
+    "hauptstadt": "Tokio",
+    "einwohner": "ca. 125 Millionen",
+    "sprache": "Japanisch",
+    "waehrung": "Japanischer Yen (¥)",
+    "lage": "Ostasien – Inselstaat im Pazifik, östlich von China und Korea",
+    "nachbarn": ["China, Korea und Russland (über das Meer)"],
+    "bekannt_fuer": ["Manga, Anime und Nintendo", "Sushi und Ramen", "Kirschblüten (Sakura)", "Fuji-san (höchster Berg Japans)", "Technologie und Roboter", "Samurai und Ninja"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Japan ist das Land der aufgehenden Sonne – ein Inselstaat voller Gegensätze: uralte Tempel neben futuristischen Hochhäusern, Samurai-Tradition neben Manga und Anime!",
+    "lang": "Japan besteht aus vier großen und tausenden kleinen Inseln im Pazifik. Das Land ist bekannt für seinen einzigartigen Mix aus Tradition und Moderne: In Tokio, einer der größten Städte der Welt, stehen uralte Shinto-Tempel neben futuristischen Hochhäusern. Der Fuji-san, Japans höchster Berg, ist ein Symbol des Landes und wird von Millionen Touristen besucht. Jedes Jahr im Frühling blühen die Kirschbäume (Sakura) – ein Fest für die Augen! Japan ist bekannt für Sushi, Ramen und Tempura, aber auch für Manga-Comics und Anime-Serien, die weltweit Millionen Fans begeistern. Und bei der WM 2022 sorgten die Blue Samurai für die größte Überraschung: Sie schlugen Deutschland und Spanien!"
+  },
+
+  "hauptstadt": {
+    "name": "Tokio",
+    "japanisch": "東京 (Tōkyō)",
+    "einwohner": "ca. 14 Millionen (Großraum ca. 37 Millionen – größte Metropolregion der Welt)",
+    "wahrzeichen": ["Tokio Skytree (634 m – zweithöchste Struktur der Welt)", "Senso-ji-Tempel (ältester Tempel Tokios)", "Shibuya-Kreuzung (berühmteste Fußgängerkreuzung der Welt)", "Tokio Disneyland", "Meiji-Schrein"],
+    "beschreibung": "Tokio ist die bevölkerungsreichste Metropolregion der Welt! Die Shibuya-Kreuzung, wo bei Grün alle gleichzeitig die Straße überqueren, ist ein weltberühmtes Bild. Der Senso-ji-Tempel ist über 1.300 Jahre alt und liegt mitten in der Millionenstadt. Tokio vereint Vergangenheit und Zukunft wie keine andere Stadt – von alten Schreinen zu Roboter-Restaurants."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Japan ist zum achten Mal in Folge bei einer WM dabei – eine beeindruckende Serie seit 1998! Bei der WM 2022 in Katar schlugen die Blue Samurai Deutschland und Spanien – zwei der stärksten Mannschaften der Welt. Das Ziel 2026: endlich das Viertelfinale erreichen, denn viermal Achtelfinale ohne Weiterkommen ist ein Fluch, den Japan brechen will.",
+    "gruppe": "F",
+    "gruppenGegner": ["Niederlande", "Tunesien", "Schweden"],
+    "spielorte": {
+      "Niederlande": "Dallas-Stadion, Dallas",
+      "Tunesien": "Monterrey-Stadion, Monterrey",
+      "Schweden": "Dallas-Stadion, Dallas"
+    },
+    "spieltermine": {
+      "Niederlande": "14. Juni 2026",
+      "Tunesien": "21. Juni 2026",
+      "Schweden": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Hajime Moriyasu",
+      "nationalitaet": "Japanisch",
+      "besonderheit": "Seit Juli 2018 im Amt – der erfolgreichste Nationaltrainer Japans. Führte die Blue Samurai bei der WM 2022 zur Überraschung des Turniers (Siege gegen Deutschland und Spanien) und war der erste japanische Coach, der nach einer WM im Amt blieb."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien)",
+      "beschreibung": "Japan qualifizierte sich souverän als Gruppensieger der asiatischen Qualifikation. In der zweiten Runde blieb Japan makellos – mit beeindruckenden Siegen, darunter ein 7:0 gegen China."
+    },
+    "kapitaen": "Wataru Endo",
+    "teilnahmen_gesamt": 8,
+    "teilnahmen_in_folge": 8,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Achtelfinale (2002, 2010, 2018, 2022) – viermal nacheinander, viermal ausgeschieden",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "Kroatien (Elfmeterschießen)",
+      "highlight": "Gruppe als Erster abgeschlossen – nach Siegen gegen Deutschland (2:1) und Spanien (2:1) trotz Rückstand!"
+    },
+    "bundesliga_spieler": [
+      "Hiroki Itō – Verteidiger (FC Bayern München)",
+      "Ritsu Dōan – Mittelfeld/Angriff (Eintracht Frankfurt)",
+      "Kaishu Sano – Mittelfeld (1. FSV Mainz 05)",
+      "Yuito Suzuki – Mittelfeld/Angriff (SC Freiburg)",
+      "Yukinari Sugawara – Verteidiger (SV Werder Bremen)",
+      "Kento Shiogai – Stürmer (VfL Wolfsburg)"
+    ],
+    "verletzt_fehlend": [
+      "Kaoru Mitoma (Brighton & Hove Albion) – Oberschenkelverletzung",
+      "Takumi Minamino – verletzt"
+    ],
+    "stars": [
+      {
+        "name": "Takefusa Kubo",
+        "verein": "Real Sociedad (Spanien)",
+        "position": "Offensives Mittelfeld / Flügel",
+        "alter": 25,
+        "rolle": "Technisch brillanter Spielmacher – nach den Verletzungsausfällen Japans wichtigster Offensivspieler"
+      },
+      {
+        "name": "Wataru Endo",
+        "verein": "FC Liverpool (England)",
+        "position": "Defensives Mittelfeld",
+        "alter": 33,
+        "rolle": "Kapitän – Stammspieler bei Liverpool, Anführer der Blue Samurai"
+      },
+      {
+        "name": "Hiroki Itō",
+        "verein": "FC Bayern München",
+        "position": "Innenverteidiger / Linksverteidiger",
+        "alter": 27,
+        "rolle": "Schlüsselspieler in der Abwehr – Bundesliga-Star beim FC Bayern"
+      },
+      {
+        "name": "Ritsu Dōan",
+        "verein": "Eintracht Frankfurt",
+        "position": "Flügel / Mittelfeld",
+        "alter": 27,
+        "rolle": "Bundesliga-erfahren, torgefährlicher Außenstürmer"
+      },
+      {
+        "name": "Daichi Kamada",
+        "verein": "Crystal Palace (England)",
+        "position": "Offensives Mittelfeld",
+        "alter": 29,
+        "rolle": "Technischer Spielmacher – früher bei Eintracht Frankfurt"
+      },
+      {
+        "name": "Yuto Nagatomo",
+        "verein": "FC Tokio",
+        "position": "Linksverteidiger",
+        "alter": 39,
+        "besonderheit": "Japans WM-Rekordspieler – bei seiner fünften WM und damit der erste asiatische Spieler bei fünf verschiedenen Weltmeisterschaften!",
+        "rolle": "Erfahrungsträger und lebende Legende"
+      }
+    ],
+    "fun_fact": "Bei der WM 2022 schlugen Japan sowohl Deutschland als auch Spanien – zwei der stärksten Mannschaften der Welt – jeweils nach einem Rückstand. Das sorgte weltweit für Furore! Und: Gleich sechs Spieler im Kader spielen in der deutschen Bundesliga – darunter Hiroki Itō beim FC Bayern München. Japans Verteidiger Yuto Nagatomo nimmt mit 39 Jahren an seiner fünften WM teil – ein Rekord für Asien!"
+  }
+}

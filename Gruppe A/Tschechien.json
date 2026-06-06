@@ -1,0 +1,106 @@
+{
+  "land": "Tschechien",
+  "offizieller_name": "Tschechische Republik",
+  "spitzname": "Národní tým (Nationalteam)",
+  "flagge": "Zwei waagerechte Streifen in Weiß (oben) und Rot (unten), mit einem blauen Dreieck an der linken Seite – dieselben Farben wie die ehemalige Tschechoslowakei",
+
+  "steckbrief": {
+    "hauptstadt": "Prag",
+    "einwohner": "ca. 11 Millionen",
+    "sprache": "Tschechisch",
+    "waehrung": "Tschechische Krone (Kč)",
+    "lage": "Mitteleuropa, ohne Meereszugang",
+    "nachbarn": ["Deutschland", "Polen", "Slowakei", "Österreich"],
+    "bekannt_fuer": ["Prag und die Karlsbrücke", "Böhmisches Bier (Pilsner)", "Marionetten und Kristallglas", "Franz Kafka", "Bohnenkaffee und Knödel", "Schloss Český Krumlov"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Tschechien liegt mitten in Europa und ist bekannt für die märchenhafte Hauptstadt Prag – eine der schönsten Städte der Welt!",
+    "lang": "Tschechien liegt genau in der Mitte Europas und hat keinen Zugang zum Meer – rundherum gibt es nur Nachbarländer. Die Hauptstadt Prag gilt als eine der schönsten Städte der Welt, mit ihrer alten Karlsbrücke, dem riesigen Prager Schloss und dem mittelalterlichen Altstädter Ring. Tschechien ist auch bekannt für sein Bier: Das Pilsner Bier wurde hier erfunden! Bis 1993 war Tschechien zusammen mit der Slowakei ein gemeinsames Land: die Tschechoslowakei. Dann trennten sich beide Länder friedlich – man nennt das die „Samtene Scheidung”. Im Fußball blickt das Land auf eine stolze Geschichte zurück: Die Tschechoslowakei wurde zweimal Vizeweltmeister!"
+  },
+
+  "hauptstadt": {
+    "name": "Prag",
+    "tschechisch": "Praha",
+    "einwohner": "ca. 1,4 Millionen",
+    "fluss": "Moldau (Vltava)",
+    "wahrzeichen": ["Karlsbrücke", "Prager Schloss (Hradčany)", "Altstädter Ring mit astronomischer Uhr", "Veitsdom", "Jüdisches Viertel Josefov"],
+    "beschreibung": "Prag liegt an der Moldau und ist eine der am besten erhaltenen mittelalterlichen Städte Europas. Das riesige Prager Schloss thront auf einem Hügel und ist eine der größten Burganlagen der Welt. Auf der Karlsbrücke stehen 30 Heiligenstatuen – sie ist über 600 Jahre alt! Die astronomische Uhr am Altstädter Ring zeigt zur vollen Stunde eine kleine Vorstellung mit beweglichen Figuren."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Erste WM-Teilnahme seit 20 Jahren – und nur die zweite als eigenständige Tschechische Republik (nach 2006). Die Qualifikation gelang über die dramatischen europäischen Play-offs mit zwei gewonnenen Elfmeterschießen.",
+    "gruppe": "A",
+    "gruppenGegner": ["Südkorea", "Südafrika", "Mexiko"],
+    "spielorte": {
+      "Südkorea": "k. A.",
+      "Südafrika": "Atlanta-Stadion, Atlanta (USA)",
+      "Mexiko": "Aztekenstadion, Mexiko-Stadt"
+    },
+    "spieltermine": {
+      "Südkorea": "12. Juni 2026",
+      "Südafrika": "18. Juni 2026",
+      "Mexiko": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Miroslav Koubek",
+      "nationalitaet": "Tschechisch",
+      "besonderheit": "Übernahm die Mannschaft erst im Dezember 2025 – seine allerersten Spiele als Nationaltrainer waren direkt die entscheidenden WM-Play-offs gegen Irland und Dänemark. Mit 74 Jahren der älteste Trainer der tschechischen WM-Geschichte."
+    },
+    "qualifikation": {
+      "weg": "UEFA-Play-offs",
+      "beschreibung": "Tschechien scheiterte in der regulären Qualifikation und musste in die Play-offs. Dort besiegte das Team zunächst Irland, dann Dänemark – beide Male im Elfmeterschießen. Ein echter Nervenkrimi!"
+    },
+    "teilnahmen_gesamt": 10,
+    "hinweis_teilnahmen": "Inklusive der Geschichte als Tschechoslowakei; als eigenständige Tschechische Republik war es vor 2026 nur eine Teilnahme (2006).",
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vize-Weltmeister 1934 und 1962 (als Tschechoslowakei)",
+    "letztes_turnier": {
+      "jahr": 2006,
+      "austragungsort": "Deutschland",
+      "ergebnis": "Vorrunde ausgeschieden",
+      "beschreibung": "2006 in Deutschland schied Tschechien ohne einen eigenen Treffer nach drei Niederlagen in der Gruppenphase aus."
+    },
+    "bundesliga_spieler": [
+      "Patrik Schick (Bayer 04 Leverkusen)",
+      "Vladimír Coufal (TSG 1899 Hoffenheim)",
+      "Robin Hranáč (TSG 1899 Hoffenheim)",
+      "Adam Hložek (TSG 1899 Hoffenheim)"
+    ],
+    "stars": [
+      {
+        "name": "Patrik Schick",
+        "verein": "Bayer 04 Leverkusen",
+        "position": "Stürmer",
+        "rolle": "Klarer Schlüsselspieler und Torjäger – schoss Tschechien mit seinen Elfmetertoren durch die Play-offs"
+      },
+      {
+        "name": "Vladimír Coufal",
+        "verein": "TSG 1899 Hoffenheim",
+        "position": "Rechtsverteidiger",
+        "rolle": "Erfahrener Außenverteidiger"
+      },
+      {
+        "name": "Adam Hložek",
+        "verein": "TSG 1899 Hoffenheim",
+        "position": "Angreifer",
+        "rolle": "Junges Offensivtalent"
+      },
+      {
+        "name": "Robin Hranáč",
+        "verein": "TSG 1899 Hoffenheim",
+        "position": "Innenverteidiger",
+        "rolle": "Abwehrchef"
+      },
+      {
+        "name": "Michal Sadílek",
+        "verein": "k. A.",
+        "position": "Mittelfeld",
+        "rolle": "Schoss den entscheidenden Elfmeter im Play-off-Finale gegen Dänemark"
+      }
+    ],
+    "fun_fact": "Tschechien qualifizierte sich für die WM mit zwei Elfmeterschießen hintereinander – erst gegen Irland, dann gegen Dänemark. Das ist so, als würde man zweimal hintereinander beim Münzwurf gewinnen! Und: Gleich vier Spieler im Kader spielen in der deutschen Bundesliga – drei davon sogar beim selben Verein: TSG Hoffenheim."
+  }
+}

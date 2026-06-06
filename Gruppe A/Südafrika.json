@@ -1,0 +1,94 @@
+{
+  "land": "Südafrika",
+  "spitzname": "Bafana Bafana",
+  "flagge": "Sechs Farben: Schwarz, Grün, Gelb, Rot, Weiß und Blau – mit einem grünen Y-förmigen Band als Symbol für die Einheit der Nation",
+
+  "steckbrief": {
+    "hauptstadt": "Pretoria (Regierungssitz), Kapstadt (Parlament), Bloemfontein (Justiz)",
+    "einwohner": "ca. 62 Millionen",
+    "sprachen": ["Zulu", "Xhosa", "Afrikaans", "Englisch", "und 7 weitere – insgesamt 11 Amtssprachen!"],
+    "waehrung": "Südafrikanischer Rand (R)",
+    "lage": "Ganz im Süden Afrikas, umgeben von drei Meeren",
+    "nachbarn": ["Namibia", "Botswana", "Simbabwe", "Mosambik", "Eswatini", "Lesotho (komplett umschlossen von Südafrika)"],
+    "bekannt_fuer": ["Löwen, Elefanten, Nashörner", "Nelson Mandela", "Diamanten und Gold", "Kap der Guten Hoffnung", "Safari", "Regenbogennation"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Südafrika ist die „Regenbogennation” – denn hier leben Menschen aus vielen Kulturen und Völkern zusammen, und es gibt sage und schreibe 11 Amtssprachen!",
+    "lang": "Südafrika liegt ganz im Süden Afrikas und ist eines der artenreichsten Länder der Welt – hier leben Löwen, Elefanten, Nashörner, Leoparden und Büffel wild in riesigen Nationalparks. Das Land ist bekannt als die „Regenbogennation”, weil hier viele verschiedene Völker und Kulturen zusammenleben. Es gibt sogar 11 offizielle Sprachen! Der bekannteste Südafrikaner ist Nelson Mandela, der für Frieden und Gerechtigkeit kämpfte. Südafrika hat auch Diamanten und Gold im Boden – das Land gehört zu den wichtigsten Rohstoffproduzenten der Welt. Und 2010 richtete Südafrika die Fußball-WM aus – als erstes afrikanisches Land überhaupt!"
+  },
+
+  "hauptstadt": {
+    "name": "Pretoria",
+    "hinweis": "Südafrika hat drei Hauptstädte: Pretoria (Regierung), Kapstadt (Parlament) und Bloemfontein (Gerichte)",
+    "einwohner": "ca. 750.000 (Pretoria), Kapstadt ca. 4,6 Millionen",
+    "wahrzeichen": ["Tafelberg (Kapstadt)", "Union Buildings (Pretoria)", "Robben Island (Kapstadt)", "Kruger Nationalpark", "Kap der Guten Hoffnung"],
+    "beschreibung": "Südafrika hat gleich drei Hauptstädte! Am bekanntesten ist Kapstadt mit dem berühmten Tafelberg – einem riesigen, flachen Felsen direkt am Meer. Auf der Insel Robben Island vor Kapstadt saß Nelson Mandela 27 Jahre lang im Gefängnis, bevor er Präsident wurde. Pretoria, der Regierungssitz, wird auch „Jakarandasstadt” genannt – im Frühling blühen dort Hunderttausende lila Bäume!"
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Erste WM-Teilnahme seit 2010 – damals war Südafrika selbst Gastgeber. 16 Jahre Pause!",
+    "gruppe": "A",
+    "gruppenGegner": ["Mexiko", "Tschechien", "Südkorea"],
+    "spielorte": {
+      "Mexiko": "Mexiko-Stadt, Aztekenstadion – WM-Eröffnungsspiel!",
+      "Tschechien": "Atlanta-Stadion, Atlanta",
+      "Südkorea": "Monterrey-Stadion, Monterrey"
+    },
+    "spieltermine": {
+      "Mexiko": "11. Juni 2026 (WM-Eröffnungsspiel)",
+      "Tschechien": "18. Juni 2026",
+      "Südkorea": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Hugo Broos",
+      "nationalitaet": "Belgisch",
+      "besonderheit": "74 Jahre alt, seit Mai 2021 im Amt. Verjüngte den Kader konsequent und führte Südafrika zurück zur WM. Tritt nach dem Turnier zurück."
+    },
+    "qualifikation": {
+      "gruppe": "C (Afrika)",
+      "gegner": ["Nigeria", "Benin", "u.a."],
+      "beschreibung": "Südafrika gewann die afrikanische Qualifikationsgruppe C mit fünf Siegen, drei Remis und zwei Niederlagen – und sicherte sich am letzten Spieltag mit einem 3:0 gegen Ruanda dank eines Parallelresultats den Grupplensieg."
+    },
+    "kapitaen": "Ronwen Williams",
+    "teilnahmen_gesamt": 4,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (bei allen bisherigen Teilnahmen)",
+    "besondere_historie": "2010 richtete Südafrika als erstes afrikanisches Land überhaupt eine Fußball-WM aus.",
+    "letztes_turnier": {
+      "jahr": 2010,
+      "ergebnis": "Vorrunde (ausgeschieden als Gastgeber – erstes Gastgeberland der WM-Geschichte, das in der Vorrunde ausschied)",
+      "beschreibung": "Bei der Heim-WM 2010 schied Südafrika trotz eines Sieges gegen Frankreich wegen schlechterer Tordifferenz in der Vorrunde aus."
+    },
+    "kader_besonderheit": "16 der 26 WM-Spieler kommen von nur zwei Vereinen: Mamelodi Sundowns und Orlando Pirates – Trainer Broos setzt bewusst auf Spieler, die sich aus dem Vereinsfußball kennen.",
+    "stars": [
+      {
+        "name": "Ronwen Williams",
+        "verein": "Mamelodi Sundowns",
+        "position": "Torwart",
+        "rolle": "Kapitän, einer der besten Torhüter Afrikas"
+      },
+      {
+        "name": "Lyle Foster",
+        "verein": "FC Burnley (England)",
+        "position": "Stürmer",
+        "rolle": "Bekanntester Spieler in Europa, einziger Spieler im Kader aus einer Top-5-Liga"
+      },
+      {
+        "name": "Teboho Mokoena",
+        "verein": "Mamelodi Sundowns",
+        "position": "Mittelfeld",
+        "rolle": "Schlüsselspieler im Mittelfeld"
+      },
+      {
+        "name": "Ime Okon",
+        "verein": "Hannover 96 (Deutschland, 2. Bundesliga)",
+        "position": "Innenverteidiger",
+        "rolle": "Einziger Bundesliga-Vertreter im Kader – gab erst im März sein Länderspieldebüt"
+      }
+    ],
+    "fun_fact": "Der Spitzname „Bafana Bafana” bedeutet auf Nguni so viel wie „die Jungs, die Jungs” – Fans riefen ihn 1992 zum ersten Mal beim Spiel gegen Kamerun! Und: Südafrika trifft im WM-Eröffnungsspiel auf Mexiko – genau wie bei der WM 2010, als beide Länder ebenfalls das Eröffnungsspiel bestritten."
+  }
+}

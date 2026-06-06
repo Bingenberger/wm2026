@@ -1,0 +1,114 @@
+{
+  "land": "Brasilien",
+  "offizieller_name": "Föderative Republik Brasilien",
+  "spitzname": "Seleção (Die Auswahl) / Canarinho (Das Kanarienvögelchen)",
+  "flagge": "Grüner Hintergrund mit gelbem Diamanten in der Mitte – darin eine blaue Kugel mit weißen Sternen und dem Schriftzug „Ordem e Progresso” (Ordnung und Fortschritt)",
+
+  "steckbrief": {
+    "hauptstadt": "Brasília",
+    "einwohner": "ca. 215 Millionen",
+    "sprache": "Portugiesisch",
+    "waehrung": "Brasilianischer Real (R$)",
+    "lage": "Südamerika – flächenmäßig das fünftgrößte Land der Welt",
+    "nachbarn": ["Grenzt an fast alle südamerikanischen Länder – außer Chile und Ecuador"],
+    "bekannt_fuer": ["Fußball", "Karneval in Rio de Janeiro", "Amazonas-Regenwald", "Zuckerhut und Christusstatue", "Samba und Bossa Nova", "Kaffee und Açaí"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Brasilien ist das Land des Fußballs – fünfmal Weltmeister und das einzige Land, das an jeder einzelnen WM seit 1930 teilgenommen hat!",
+    "lang": "Brasilien ist das größte Land Südamerikas und eines der artenreichsten Länder der Welt. Der Amazonas-Regenwald – die „Lunge der Erde” – liegt zum Großteil in Brasilien und ist das größte tropische Regenwaldgebiet überhaupt. Die Hauptstadt Brasília wurde erst 1960 vollständig neu gebaut – mitten im Landesinneren! Viel bekannter als Hauptstadt ist aber Rio de Janeiro mit dem Zuckerhut, der riesigen Christusstatue und dem weltberühmten Karneval. Brasilien ist die Heimat von Samba und Bossa Nova und trinkt mehr Kaffee als fast jedes andere Land. Und natürlich: Kein Land der Welt liebt den Fußball so sehr wie Brasilien!"
+  },
+
+  "hauptstadt": {
+    "name": "Brasília",
+    "einwohner": "ca. 3,1 Millionen",
+    "besonderheit": "Planhauptstadt – erst 1960 gebaut, von Null auf Hauptstadt in nur drei Jahren Bauzeit",
+    "wahrzeichen": ["Nationalkathedrale", "Nationalkongress", "Präsidentenpalast (Palácio da Alvorada)", "Fernsehturm"],
+    "bekanntere_staedte": {
+      "Rio de Janeiro": "Christusstatue (Cristo Redentor), Zuckerhut, Karneval, Copacabana-Strand",
+      "São Paulo": "Größte Stadt Südamerikas, Wirtschaftszentrum, über 12 Millionen Einwohner"
+    },
+    "beschreibung": "Brasília ist eine Planhauptstadt – sie wurde in Rekordzeit komplett neu gebaut und 1960 eingeweiht. Die futuristische Architektur mit dem Nationalkongress (zwei Schüsseln auf einem flachen Gebäude) gehört zum UNESCO-Welterbe. Berühmter ist jedoch Rio de Janeiro mit dem weltberühmten Karneval und der riesigen Christusstatue, die auf dem Berg Corcovado über die Stadt wacht."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Brasilien ist das einzige Land der Welt, das an jeder einzelnen WM seit 1930 teilgenommen hat – 24 Teilnahmen in Folge! Zudem ist Carlo Ancelotti der erste ausländische Cheftrainer, der Brasilien zu einer WM führt.",
+    "gruppe": "C",
+    "gruppenGegner": ["Marokko", "Haiti", "Schottland"],
+    "spielorte": {
+      "Marokko": "New York/New Jersey-Stadion",
+      "Haiti": "Philadelphia-Stadion",
+      "Schottland": "Miami-Stadion"
+    },
+    "spieltermine": {
+      "Marokko": "14. Juni 2026",
+      "Haiti": "20. Juni 2026",
+      "Schottland": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Carlo Ancelotti",
+      "nationalitaet": "Italienisch",
+      "besonderheit": "Erster ausländischer Cheftrainer in der Geschichte Brasiliens bei einer WM. Einer der erfolgreichsten Vereinstrainer aller Zeiten: Champions-League-Sieger mit dem AC Mailand und Real Madrid, Meister in fünf verschiedenen Ländern."
+    },
+    "qualifikation": {
+      "weg": "CONMEBOL (Südamerika)",
+      "platz": 5,
+      "beschreibung": "Die Qualifikation verlief holprig – Brasilien beendete die südamerikanische Qualifikation auf Platz fünf mit sechs Niederlagen in 18 Spielen. Trotzdem war die Qualifikation nie ernsthaft in Gefahr."
+    },
+    "kapitaen": "Marquinhos",
+    "teilnahmen_gesamt": 24,
+    "teilnahmen_in_folge": 24,
+    "wm_titel": 5,
+    "wm_titel_jahre": [1958, 1962, 1970, 1994, 2002],
+    "wm_titel_hinweis": "Mehr WM-Titel als jede andere Nation der Welt!",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Viertelfinale",
+      "ausgeschieden_gegen": "Kroatien",
+      "ergebnis_detail": "1:1 n.V., 2:4 im Elfmeterschießen"
+    },
+    "stars": [
+      {
+        "name": "Vinicius Júnior",
+        "verein": "Real Madrid",
+        "position": "Linksaußen",
+        "rolle": "Weltstar und Topfavorit auf den Goldenen Ball – der gefährlichste Angreifer Brasiliens"
+      },
+      {
+        "name": "Neymar",
+        "verein": "FC Santos",
+        "position": "Offensives Mittelfeld / Flügel",
+        "rolle": "Legende und Rückkehrer – seit 2023 kein Länderspiel, aber von Ancelotti als Erfahrungsträger nominiert. Brasiliens Rekordtorschütze mit 79 Toren in 128 Spielen."
+      },
+      {
+        "name": "Raphinha",
+        "verein": "FC Barcelona",
+        "position": "Rechtsaußen",
+        "rolle": "Gefährlicher Flügelspieler in Topform"
+      },
+      {
+        "name": "Endrick",
+        "verein": "Olympique Lyon (Leihgabe von Real Madrid)",
+        "position": "Stürmer",
+        "rolle": "19-jähriges Wunderkind – gilt als das größte brasilianische Talent seit Neymar"
+      },
+      {
+        "name": "Alisson",
+        "verein": "FC Liverpool",
+        "position": "Torwart",
+        "rolle": "Einer der besten Torhüter der Welt"
+      },
+      {
+        "name": "Marquinhos",
+        "verein": "Paris Saint-Germain",
+        "position": "Innenverteidiger",
+        "rolle": "Kapitän und Abwehrchef"
+      }
+    ],
+    "verletzt_fehlend": ["Rodrygo (Real Madrid)", "Estêvão (FC Chelsea)"],
+    "fun_fact": "Brasilien hat 5 WM-Titel – mehr als jedes andere Land! Das gelb-grüne Trikot der Seleção ist das bekannteste Fußballtrikot der Welt. Und: Neymar kehrt nach fast drei Jahren Verletzungspause zurück – ganz Brasilien hat darauf gewartet! Die Brasilier nennen ihre Mannschaft liebevoll „Canarinho” – das Kanarienvögelchen – wegen der gelben Trikotfarbe."
+  }
+}

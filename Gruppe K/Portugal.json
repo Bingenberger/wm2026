@@ -1,0 +1,123 @@
+{
+  "land": "Portugal",
+  "offizieller_name": "Portugiesische Republik",
+  "spitzname": "A Seleção das Quinas (Die Auswahl der Wappenschilder) / Os Navegadores (Die Seefahrer)",
+  "flagge": "Zwei senkrechte Hälften: Grün (links, schmaler) und Rot (rechts, breiter) – in der Mitte, auf der Grenze, das Staatswappen mit der Armillarsphäre (Navigationsinstrument der Seefahrer) und dem historischen Schild. Grün steht für die Hoffnung, Rot für das Blut der Gefallenen.",
+
+  "steckbrief": {
+    "hauptstadt": "Lissabon",
+    "einwohner": "ca. 10,5 Millionen",
+    "sprache": "Portugiesisch",
+    "waehrung": "Euro (€)",
+    "lage": "Südwesteuropa – westlichstes Land des europäischen Festlands, grenzt nur an Spanien und den Atlantik",
+    "nachbarn": ["Spanien (Osten und Norden)"],
+    "bekannt_fuer": ["Cristiano Ronaldo – Rekord-Torjäger der Welt", "Entdeckungszeitalter (Vasco da Gama, Magellan)", "Pasteis de Nata (Blätterteig-Törtchen)", "Fado (melancholische Musik, UNESCO-Welterbe)", "Lissabon und Porto", "Kork – Portugal produziert über 50% des weltweiten Korks"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Portugal ist das westlichste Land Europas – und schickte vor 500 Jahren mutige Seefahrer in die ganze Welt! Heute ist Cristiano Ronaldo das Gesicht des Landes.",
+    "lang": "Portugal liegt ganz am westlichen Rand Europas, am Atlantik. Vor rund 500 Jahren war Portugal eine der größten Seemächte der Welt: Portugiesische Seefahrer wie Vasco da Gama (der erste Europäer, der den Seeweg nach Indien fand) und Ferdinand Magellan (erste Weltumsegelung!) erkundeten die Welt. Das führte dazu, dass Portugiesisch heute auf sechs Kontinenten gesprochen wird – in Brasilien, Angola, Mosambik und vielen anderen Ländern! Portugal ist auch der weltgrößte Produzent von Kork – dem Naturmaterial aus der Rinde des Korkeichenbaums, das zum Verschließen von Weinflaschen verwendet wird. Und natürlich: Cristiano Ronaldo, der beste oder meistdiskutierte Fußballer der Welt, ist Portugiese!"
+  },
+
+  "hauptstadt": {
+    "name": "Lissabon",
+    "portugiesisch": "Lisboa",
+    "einwohner": "ca. 550.000 (Großraum ca. 3 Millionen)",
+    "lage": "Mündung des Tejo in den Atlantik – westlichste Hauptstadt der EU",
+    "wahrzeichen": ["Turm von Belém (UNESCO-Welterbe – Festungsturm aus dem 16. Jh.)", "Kloster der Jerónimos (UNESCO-Welterbe)", "Alfama (ältestes Stadtviertel, voller Fado-Bars)", "Burg São Jorge (mittelalterliche Burg über der Stadt)", "Vasco-da-Gama-Brücke (17 km – eine der längsten Europas)"],
+    "beschreibung": "Lissabon ist eine der romantischsten Hauptstädte Europas – hügelig, bunt und voller Geschichte. Die gelben Straßenbahnen (Tram 28!) schlängeln sich durch enge Gassen. Im Alfama-Viertel klingt nachts der Fado – eine melancholische Musik, die UNESCO-Welterbe ist. Die Entdeckungsmonumente am Tejo erinnern an die goldene Zeit der portugiesischen Seefahrt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Cristiano Ronaldo nimmt bei der WM 2026 zum sechsten Mal teil – Weltrekord! Mit 41 Jahren ist er der älteste Spieler in Portugals Geschichte, der bei einer WM antritt. Portugal ist Nations-League-Sieger 2025 und eines der heißesten Teams des Turniers – mit einem Kaderwert von über 800 Millionen Euro.",
+    "gruppe": "K",
+    "gruppenGegner": ["DR Kongo", "Usbekistan", "Kolumbien"],
+    "spielorte": {
+      "DR Kongo": "NRG Stadium, Houston",
+      "Usbekistan": "NRG Stadium, Houston",
+      "Kolumbien": "Hard Rock Stadium, Miami"
+    },
+    "spieltermine": {
+      "DR Kongo": "17. Juni 2026",
+      "Usbekistan": "23. Juni 2026",
+      "Kolumbien": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Roberto Martínez",
+      "nationalitaet": "Spanisch",
+      "besonderheit": "Übernahm Portugal im Januar 2023 nach dem WM-Aus 2022. Gewann mit Portugal die UEFA Nations League 2025 – der erste Titel nach der EM 2016. Früher Trainer von Belgien (2016–2022), wo er die Goldene Generation betreute. Hat Portugal von einem Ronaldo-abhängigen Team zu einem tiefen Kollektiv mit Weltklasse auf jeder Position umgebaut."
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Gruppe F als Erster abgeschlossen. Höhepunkt: 9:1 gegen Armenien am letzten Spieltag – ein Torfeuerwerk. Ronaldo war bester Torschütze mit 5 Treffern."
+    },
+    "kapitaen": "Cristiano Ronaldo",
+    "teilnahmen_gesamt": 9,
+    "wm_titel": 0,
+    "bestes_ergebnis": "3. Platz (WM 1966 in England) und 4. Platz (WM 2006 in Deutschland)",
+    "em_titel": 1,
+    "em_titel_jahre": [2016],
+    "nations_league_titel": 2,
+    "nations_league_jahre": [2019, 2025],
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Viertelfinale",
+      "ausgeschieden_gegen": "Marokko (0:1)",
+      "beschreibung": "Portugal schied im Viertelfinale gegen Marokko aus – eine bittere Enttäuschung für das favoritierte Team."
+    },
+    "stars": [
+      {
+        "name": "Cristiano Ronaldo",
+        "verein": "Al-Nassr (Saudi-Arabien)",
+        "position": "Stürmer",
+        "alter": 41,
+        "länderspiele": 226,
+        "länderspieltore": 143,
+        "wm_einsaetze": 22,
+        "besonderheit": "Rekordtorjäger der Nationalmannschaft (143 Tore!) und Weltrekordhalter bei WM-Einsätzen (6 Endrunden). Bei seiner wahrscheinlich letzten WM. Hat nie gewonnen – der WM-Titel fehlt in seiner Sammlung.",
+        "rolle": "Kapitän und Ikone – das Gesicht des portugiesischen Fußballs und einer der bekanntesten Sportler der Welt"
+      },
+      {
+        "name": "Bruno Fernandes",
+        "verein": "Manchester United",
+        "position": "Offensives Mittelfeld",
+        "alter": 31,
+        "länderspieltore": 28,
+        "rolle": "Torgefährlichster Mittelfeldspieler – bestimmt das Tempo, trifft regelmäßig und assistiert. Wichtigster Spieler nach Ronaldo."
+      },
+      {
+        "name": "Bernardo Silva",
+        "verein": "Manchester City",
+        "position": "Mittelfeld / Rechtsaußen",
+        "alter": 31,
+        "rolle": "Technisch brillanter Allrounder bei Manchester City – eines der besten Mittelfeldtalente seiner Generation"
+      },
+      {
+        "name": "Rafael Leão",
+        "verein": "AC Mailand",
+        "position": "Linksaußen",
+        "alter": 27,
+        "rolle": "Explosivster Flügelstürmer – bei AC Mailand Starspieler, druchbrechtstark und torgefährlich"
+      },
+      {
+        "name": "João Neves",
+        "verein": "Paris Saint-Germain",
+        "position": "Defensives Mittelfeld",
+        "alter": 21,
+        "rolle": "Größtes Mittelfeld-Talent – bei PSG Stammspieler mit erst 21 Jahren, gilt als bester junger Mittelfeldspieler Europas"
+      },
+      {
+        "name": "Gonçalo Ramos",
+        "verein": "Paris Saint-Germain",
+        "position": "Stürmer",
+        "alter": 24,
+        "besonderheit": "Erzielte bei der WM 2022 als Einwechselspieler einen Hattrick gegen die Schweiz – als erster Einwechsler der WM-Geschichte!",
+        "rolle": "Ronaldos Sturmpartner – bei PSG einer der torgefährlichsten Stürmer Europas"
+      }
+    ],
+    "fun_fact": "Cristiano Ronaldo nimmt bei der WM 2026 zum sechsten Mal teil – kein Spieler der Geschichte hat öfter an einer WM teilgenommen! Er ist 41 Jahre alt und hat 143 Länderspieltore erzielt. Und Gonçalo Ramos wurde bei der WM 2022 eingewechselt und erzielte dann einen Hattrick – als erster Einwechselspieler der WM-Geschichte! Portugal hat die meisten Nobelpreisträger und den weltgrößten Kork-Exporteur – und eines der besten Fußballteams der Welt."
+  }
+}

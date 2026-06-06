@@ -1,0 +1,121 @@
+{
+  "land": "Marokko",
+  "offizieller_name": "Königreich Marokko",
+  "spitzname": "Atlas-Löwen",
+  "flagge": "Roter Hintergrund mit einem grünen fünfzackigen Stern in der Mitte – der Stern steht für das Siegel Salomons und ist ein Symbol des Islam",
+
+  "steckbrief": {
+    "hauptstadt": "Rabat",
+    "einwohner": "ca. 38 Millionen",
+    "sprachen": ["Arabisch", "Tamazight (Berbersprache)", "Französisch (weit verbreitet)"],
+    "waehrung": "Marokkanischer Dirham (MAD)",
+    "lage": "Nordwestafrika, am Atlantik und am Mittelmeer – nur 14 km von Europa entfernt (Straße von Gibraltar)",
+    "nachbarn": ["Algerien", "Mauretanien", "Spanien (Exklaven Ceuta und Melilla)"],
+    "bekannt_fuer": ["Marrakesch und die Djemaa el-Fna", "Sahara-Wüste und Kamelreiten", "Arganöl und Minztee", "Tagine und Couscous", "Medinas (Altstädte) und Souks", "Atlantik- und Mittelmeerküste", "WM 2022 – bestes afrikanisches WM-Ergebnis aller Zeiten"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Marokko liegt in Nordafrika und ist nur 14 Kilometer von Europa entfernt – das schmalste Meer der Welt trennt es von Spanien. Und beim Fußball 2022 hat Marokko die ganze Welt überrascht!",
+    "lang": "Marokko liegt im Nordwesten Afrikas und grenzt an die Sahara-Wüste im Süden sowie an den Atlantik und das Mittelmeer im Westen und Norden. An der schmalsten Stelle – der Straße von Gibraltar – ist es gerade mal 14 Kilometer bis nach Europa! Die Hauptstadt Rabat liegt am Atlantik, aber die bekannteste Stadt ist Marrakesch mit dem lebhaften Platz Djemaa el-Fna, wo Schlangenbeschwörer, Musiker und Händler aufeinandertreffen. Typisches marokkanisches Essen ist Tagine – ein Schmorgericht aus Fleisch oder Gemüse – und Couscous. Und Minztee ist in Marokko fast heilig! Bei der WM 2022 sorgte Marokko für die Überraschung des Turniers und wurde als erstes afrikanisches Team überhaupt Halbfinalist."
+  },
+
+  "hauptstadt": {
+    "name": "Rabat",
+    "einwohner": "ca. 600.000",
+    "fluss": "Bou Regreg",
+    "wahrzeichen": ["Hassan-Turm (unvollendetes Minarett aus dem 12. Jahrhundert)", "Mausoleum Mohammed V.", "Kasbah der Udayas", "Chellah (römische Ruinen)"],
+    "bekannte_staedte": {
+      "Marrakesch": "Djemaa el-Fna, Souks, Palastanlagen – die bekannteste Touristenstadt Marokkos",
+      "Casablanca": "Größte Stadt und Wirtschaftszentrum, bekannt durch den Kinofilm 'Casablanca' (1942)",
+      "Fès": "Älteste Königsstadt, UNESCO-Welterbe-Medina"
+    },
+    "beschreibung": "Rabat ist die Hauptstadt, aber Marrakesch ist die Seele Marokkos: Der Platz Djemaa el-Fna verwandelt sich abends in eine riesige Bühne mit Gauklern, Musikern und Essensständen. In engen Souks kann man stundenlang flanieren und Gewürze, Teppiche und Keramik bestaunen. Das Land hat gleich vier Königsstädte: Rabat, Fès, Marrakesch und Meknès."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Marokko ist amtierender Afrika-Cup-Sieger (2025, am Grünen Tisch zuerkannt) und will an den historischen Halbfinaleinzug von 2022 anknüpfen. Außerdem richtet Marokko 2030 gemeinsam mit Spanien und Portugal die Weltmeisterschaft selbst aus!",
+    "gruppe": "C",
+    "gruppenGegner": ["Brasilien", "Schottland", "Haiti"],
+    "spielorte": {
+      "Brasilien": "New York/New Jersey-Stadion",
+      "Schottland": "Boston-Stadion",
+      "Haiti": "Atlanta-Stadion"
+    },
+    "spieltermine": {
+      "Brasilien": "14. Juni 2026",
+      "Schottland": "20. Juni 2026",
+      "Haiti": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Mohamed Ouahbi",
+      "nationalitaet": "Marokkanisch-Belgisch",
+      "besonderheit": "Erst seit März 2026 im Amt – nur drei Monate vor dem WM-Start! Übernahm als Nachwuchsexperte die Nationalmannschaft und führte zuvor Marokko zum Titel bei der U-20-Weltmeisterschaft 2025. Ouahbis erste WM als Cheftrainer."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "beschreibung": "Marokko qualifizierte sich souverän als erste afrikanische Mannschaft für die WM 2026 – mit deutlichem Vorsprung in der Gruppe."
+    },
+    "kapitaen": "Achraf Hakimi",
+    "teilnahmen_gesamt": 7,
+    "teilnahmen_in_folge": 3,
+    "wm_titel": 0,
+    "bestes_ergebnis": "4. Platz (WM 2022 in Katar) – bestes Ergebnis einer afrikanischen Mannschaft in der WM-Geschichte",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "4. Platz (Halbfinale)",
+      "ausgeschieden_gegen_halbfinale": "Frankreich (0:2)",
+      "beschreibung": "Historisches Turnier: Marokko besiegte Belgien, Spanien und Portugal und schied erst im Halbfinale gegen Frankreich aus. Erstes afrikanisches Team jemals im WM-Halbfinale!"
+    },
+    "historische_leistung_2022": {
+      "besiegte_mannschaften": ["Belgien (Gruppenphase)", "Spanien (Achtelfinale, Elfmeterschießen)", "Portugal (Viertelfinale)"],
+      "bedeutung": "Erstes afrikanisches Team in der Geschichte, das das WM-Halbfinale erreichte"
+    },
+    "bundesliga_spieler": [
+      "Bilal El Khannouss – Mittelfeld (VfB Stuttgart)",
+      "Ayoube Amaimouni-Echghouyab – Stürmer (Eintracht Frankfurt)"
+    ],
+    "stars": [
+      {
+        "name": "Achraf Hakimi",
+        "verein": "Paris Saint-Germain",
+        "position": "Rechtsverteidiger",
+        "rolle": "Kapitän und Weltstar – einer der besten Außenverteidiger der Welt, früherer Dortmund-Spieler"
+      },
+      {
+        "name": "Brahim Díaz",
+        "verein": "Real Madrid",
+        "position": "Offensives Mittelfeld",
+        "rolle": "Kreativer Spielmacher – Schlüsselspieler im Angriff"
+      },
+      {
+        "name": "Noussair Mazraoui",
+        "verein": "Manchester United",
+        "position": "Rechtsverteidiger / Außenbahn",
+        "rolle": "Erfahrener Abwehrspieler, früherer Bayern-München-Profi"
+      },
+      {
+        "name": "Bilal El Khannouss",
+        "verein": "VfB Stuttgart",
+        "position": "Mittelfeld",
+        "rolle": "Bundesliga-Profi und aufstrebendes Talent – verbindet Mittelfeld und Angriff"
+      },
+      {
+        "name": "Sofyan Amrabat",
+        "verein": "Real Betis",
+        "position": "Defensives Mittelfeld",
+        "rolle": "Kampfstarker Mittelfeldspieler, war 2022 einer der besten Spieler des Turniers"
+      },
+      {
+        "name": "Yassine Bounou",
+        "verein": "Al-Hilal",
+        "position": "Torwart",
+        "rolle": "Torwart-Held von 2022 – hielt entscheidende Elfmeter gegen Spanien"
+      }
+    ],
+    "fehlend_verletzt": ["Youssef En-Nesyri (Marokkos WM-Rekordtorschütze mit 3 Toren 2022, fehlt im Kader)"],
+    "fun_fact": "Bei der WM 2022 schoss Marokko Spanien und Portugal raus – zwei der stärksten Teams Europas! Torwart Yassine Bounou war dabei der Held: Im Elfmeterschießen gegen Spanien ließ er alle drei Schüsse nicht durch. Und 2030 richtet Marokko sogar selbst eine WM aus – gemeinsam mit Spanien und Portugal!"
+  }
+}

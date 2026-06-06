@@ -1,0 +1,73 @@
+{
+  "land": "Deutschland",
+  "spitzname": "Die Mannschaft / Die Nationalelf",
+  "flagge": "Drei waagerechte Streifen in Schwarz, Rot und Gold",
+
+  "steckbrief": {
+    "hauptstadt": "Berlin",
+    "einwohner": "ca. 84 Millionen",
+    "sprache": "Deutsch",
+    "waehrung": "Euro (€)",
+    "lage": "Mitteleuropa",
+    "nachbarn": ["Frankreich", "Polen", "Tschechien", "Österreich", "Schweiz", "Niederlande", "Belgien", "Luxemburg", "Dänemark"],
+    "bekannt_fuer": ["Fußball", "Bratwurst", "Brezel", "Oktoberfest", "Schloss Neuschwanstein", "Autobahn", "das Brandenburger Tor"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Deutschland ist eines der erfolgreichsten Fußballländer der Welt – viermal Weltmeister!",
+    "lang": "Deutschland liegt mitten in Europa und grenzt an neun verschiedene Länder. Die Hauptstadt Berlin ist eine der spannendsten Städte Europas – mit dem Brandenburger Tor, dem Berliner Fernsehturm und vielen Museen. Deutschland ist bekannt für seine leckeren Speisen wie Bratwurst und Brezel, für das Oktoberfest in München und für wunderschöne Schlösser wie Neuschwanstein in Bayern. Auf der Autobahn darf man stellenweise sogar ohne Tempolimit fahren – das gibt es fast nirgendwo sonst auf der Welt! Und natürlich liebt Deutschland den Fußball: Fast jedes Dorf hat seinen eigenen Fußballverein."
+  },
+
+  "hauptstadt": {
+    "name": "Berlin",
+    "einwohner": "ca. 3,7 Millionen",
+    "fluss": "Spree",
+    "wahrzeichen": ["Brandenburger Tor", "Berliner Fernsehturm", "Reichstagsgebäude", "East Side Gallery", "Berliner Dom"],
+    "beschreibung": "Berlin hat rund 3,7 Millionen Einwohner und liegt im Nordosten Deutschlands an der Spree. Das berühmteste Wahrzeichen ist das Brandenburger Tor. Früher war die Stadt durch eine Mauer geteilt – heute erinnert die East Side Gallery noch daran. Berlin ist bunt, lebendig und voller Geschichte."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "gruppe": "E",
+    "gruppenGegner": ["Curaçao", "Elfenbeinküste", "Ecuador"],
+    "spielorte": {
+      "Curaçao": "Houston",
+      "Elfenbeinküste": "Toronto",
+      "Ecuador": "New York/New Jersey"
+    },
+    "spieltermine": {
+      "Curaçao": "14. Juni 2026",
+      "Elfenbeinküste": "20. Juni 2026",
+      "Ecuador": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Julian Nagelsmann",
+      "nationalitaet": "Deutsch",
+      "besonderheit": "Mit 38 Jahren der jüngste Bundestrainer der DFB-Geschichte"
+    },
+    "qualifikation": {
+      "gruppe": "A",
+      "gegner": ["Slowakei", "Nordirland", "Luxemburg"],
+      "beschreibung": "Deutschland qualifizierte sich durch einen starken Endspurt – nach einem holprigen Start mit einer Auswärtsniederlage gegen die Slowakei wurden alle weiteren Spiele gewonnen. Am letzten Spieltag machte ein 6:0 gegen die Slowakei das WM-Ticket perfekt."
+    },
+    "kapitaen": "Joshua Kimmich",
+    "teilnahmen_gesamt": 21,
+    "wm_titel": 4,
+    "wm_titel_jahre": [1954, 1974, 1990, 2014],
+    "letztes_turnier": {
+      "jahr": 2022,
+      "ergebnis": "Vorrunde ausgeschieden",
+      "beschreibung": "Bei der WM 2022 in Katar schied Deutschland bereits in der Vorrunde aus – wie schon 2018."
+    },
+    "stars": [
+      { "name": "Joshua Kimmich", "verein": "FC Bayern München", "position": "Abwehr/Mittelfeld", "rolle": "Kapitän" },
+      { "name": "Florian Wirtz", "verein": "FC Liverpool", "position": "Offensives Mittelfeld", "rolle": "Schlüsselspieler" },
+      { "name": "Jamal Musiala", "verein": "FC Bayern München", "position": "Offensives Mittelfeld", "rolle": "Schlüsselspieler" },
+      { "name": "Kai Havertz", "verein": "FC Arsenal", "position": "Sturm/Mittelfeld", "rolle": "Torjäger" },
+      { "name": "Manuel Neuer", "verein": "FC Bayern München", "position": "Torwart", "rolle": "Erfahrenster Spieler im Kader, einziger verbliebener Weltmeister von 2014" },
+      { "name": "Antonio Rüdiger", "verein": "Real Madrid", "position": "Innenverteidiger", "rolle": "Abwehrchef" }
+    ],
+    "fun_fact": "Deutschland ist viermaliger Weltmeister – zuletzt gewann die DFB-Elf 2014 in Brasilien mit einem 1:0 gegen Argentinien im Finale. Jetzt wollen Wirtz und Musiala den fünften Stern holen!"
+  }
+}

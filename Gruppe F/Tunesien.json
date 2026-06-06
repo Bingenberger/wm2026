@@ -1,0 +1,111 @@
+{
+  "land": "Tunesien",
+  "offizieller_name": "Tunesische Republik",
+  "spitzname": "Adler von Karthago",
+  "flagge": "Roter Hintergrund mit einem weißen Kreis in der Mitte – darin ein roter Halbmond und ein roter fünfzackiger Stern. Halbmond und Stern sind Symbole des Islam.",
+
+  "steckbrief": {
+    "hauptstadt": "Tunis",
+    "einwohner": "ca. 12 Millionen",
+    "sprachen": ["Arabisch (Amtssprache)", "Tunesisch-Arabisch (Dialekt)", "Französisch (weit verbreitet)"],
+    "waehrung": "Tunesischer Dinar (TND)",
+    "lage": "Nordafrika, am Mittelmeer – zwischen Algerien und Libyen, nur ca. 150 km von Italien (Sizilien) entfernt",
+    "nachbarn": ["Algerien (Westen)", "Libyen (Osten)"],
+    "bekannt_fuer": ["Ruinen von Karthago (einst größte Stadt Afrikas)", "Weißgekalkte Küstenstädte (Sidi Bou Saïd)", "Sahara-Wüste im Süden", "Olivenöl (weltweit größter Exporteur)", "Harissa (scharfe Chilipaste)", "Filmdrehort für Star Wars (Tatooine!)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Tunesien liegt in Nordafrika direkt am Mittelmeer – und Teile des Landes wurden als Drehort für den Wüstenplaneten Tatooine aus dem Film Star Wars benutzt!",
+    "lang": "Tunesien liegt im nördlichsten Teil Afrikas und ist kaum größer als das Bundesland Bayern. Im Norden liegt das wunderschöne Mittelmeer mit weißen Sandstränden und blauen Buchten. Im Süden beginnt die Sahara – die größte Wüste der Welt! Die Hauptstadt Tunis liegt nahe den Ruinen von Karthago, einer der mächtigsten Städte der Antike. Tunesien ist der weltweit größte Exporteur von Olivenöl – viele Oliven in deutschen Supermärkten kommen von hier! Star-Wars-Fans aufgepasst: Die Außenaufnahmen des Wüstenplaneten Tatooine aus Episode IV wurden in Tunesien gedreht – die Kulissen stehen noch heute! Und Rani Khedira, der Bruder des deutschen Weltmeisters Sami Khedira, spielt für Tunesien bei der WM 2026!"
+  },
+
+  "hauptstadt": {
+    "name": "Tunis",
+    "einwohner": "ca. 2,4 Millionen (Großraum)",
+    "lage": "Nordküste Tunesiens, am gleichnamigen Golf",
+    "wahrzeichen": ["Medina von Tunis (UNESCO-Welterbe – mittelalterliche Altstadt)", "Souks (Basare)", "Bab El Bhar (Meerestor)", "Ruinen von Karthago (Vorort Carthage)"],
+    "beschreibung": "Tunis ist eine der ältesten Städte Nordafrikas. Die Medina – die historische Altstadt – ist ein Labyrinth aus engen Gassen, bunten Basaren (Souks) und alten Moscheen. Wenige Kilometer entfernt liegen die Ruinen von Karthago, einst die mächtigste Stadt des westlichen Mittelmeerraums. Nahe Tunis liegt auch Sidi Bou Saïd – ein bezauberndes weißblaues Dorf auf einem Felssporn über dem Meer."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Siebenmal bei der WM – und noch nie über die Vorrunde hinausgekommen! Das soll sich 2026 endlich ändern. Die Qualifikation war beeindruckend: 10 Spiele, 0 Gegentore – die beste Defensive des gesamten afrikanischen Qualifikationswettbewerbs!",
+    "gruppe": "F",
+    "gruppenGegner": ["Schweden", "Japan", "Niederlande"],
+    "spielorte": {
+      "Schweden": "Estadio BBVA, Monterrey",
+      "Japan": "Estadio BBVA, Monterrey",
+      "Niederlande": "Arrowhead Stadium, Kansas City"
+    },
+    "spieltermine": {
+      "Schweden": "15. Juni 2026",
+      "Japan": "21. Juni 2026",
+      "Niederlande": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Sabri Lamouchi",
+      "nationalitaet": "Französisch (mit tunesischen Wurzeln)",
+      "besonderheit": "Seit Januar 2026 Nationaltrainer. Früher selbst Nationalspieler Frankreichs, trainierte als Coach u.a. die Elfenbeinküste bei der WM 2014. Sein Co-Trainer ist der Deutsche Michael Hefele."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "beschreibung": "Makellose Qualifikation: 9 Siege, 1 Unentschieden, 0 Gegentore, 22 Tore – stärkste Defensive der gesamten afrikanischen WM-Qualifikation. Das entscheidende Tor fiel in der 94. Minute gegen Äquatorialguinea."
+    },
+    "kapitaen": "Ellyes Skhiri",
+    "teilnahmen_gesamt": 7,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (alle sechs bisherigen Teilnahmen)",
+    "historische_erfolge": [
+      "1978: Erster afrikanischer WM-Sieg der Geschichte – 3:1 gegen Mexiko",
+      "1978: 0:0 gegen Weltmeister Deutschland (BRD)",
+      "2022: 1:0 gegen Frankreich – trotzdem Vorrunden-Aus"
+    ],
+    "bundesliga_spieler": [
+      "Ellyes Skhiri – Mittelfeld/Kapitän (Eintracht Frankfurt)",
+      "Rani Khedira – Defensives Mittelfeld (1. FC Union Berlin) – Bruder von Weltmeister Sami Khedira!",
+      "Ismaël Gharbi – Mittelfeld (FC Augsburg)",
+      "Elias Saad – Angriff (Hannover 96, Leihgabe vom FC Augsburg)"
+    ],
+    "stars": [
+      {
+        "name": "Ellyes Skhiri",
+        "verein": "Eintracht Frankfurt",
+        "position": "Zentrales Mittelfeld",
+        "alter": 31,
+        "rolle": "Kapitän und Anführer – erfahrener Bundesligaprofi und Herzstück des tunesischen Mittelfelds"
+      },
+      {
+        "name": "Rani Khedira",
+        "verein": "1. FC Union Berlin",
+        "position": "Defensives Mittelfeld",
+        "alter": 32,
+        "geburtsort": "Stuttgart, Deutschland",
+        "besonderheit": "Jüngerer Bruder von Weltmeister Sami Khedira! Spielte 13 Mal für deutsche Junioren-Teams, wechselte erst im März 2026 zu Tunesien.",
+        "rolle": "Defensiver Abräumer, Vizekapitän bei Union Berlin"
+      },
+      {
+        "name": "Hannibal Mejbri",
+        "verein": "FC Burnley (England)",
+        "position": "Offensives Mittelfeld",
+        "alter": 23,
+        "rolle": "Kreativster Spieler des Teams – früher bei Manchester United ausgebildet"
+      },
+      {
+        "name": "Ismaël Gharbi",
+        "verein": "FC Augsburg",
+        "position": "Mittelfeld",
+        "alter": 22,
+        "rolle": "Junges Talent aus der Bundesliga"
+      },
+      {
+        "name": "Khalil Ayari",
+        "verein": "Paris Saint-Germain",
+        "position": "Angriff",
+        "alter": 21,
+        "rolle": "Jüngster Offensivspieler – spielt bei PSG in Paris"
+      }
+    ],
+    "fun_fact": "Rani Khedira ist der jüngere Bruder von Sami Khedira – dem deutschen Weltmeister von 2014! Und 1978 erzielte Tunesien den allerersten WM-Sieg eines afrikanischen Teams überhaupt (3:1 gegen Mexiko) – das war ein historischer Moment für den ganzen Kontinent. Außerdem: Der Wüstenplanet Tatooine aus Star Wars wurde in Tunesien gedreht – die Kulissen stehen noch heute in der Sahara!"
+  }
+}

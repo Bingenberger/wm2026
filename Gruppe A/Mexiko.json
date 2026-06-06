@@ -1,0 +1,70 @@
+{
+  "land": "Mexiko",
+  "spitzname": "El Tri",
+  "flagge": "Drei senkrechte Streifen in Grün, Weiß und Rot – in der Mitte das Nationalwappen mit einem Adler",
+
+  "steckbrief": {
+    "hauptstadt": "Mexiko-Stadt",
+    "einwohner": "ca. 130 Millionen",
+    "sprache": "Spanisch",
+    "waehrung": "Mexikanischer Peso ($)",
+    "lage": "Nordamerika, zwischen den USA im Norden und Guatemala/Belize im Süden",
+    "nachbarn": ["USA", "Guatemala", "Belize"],
+    "bekannt_fuer": ["Tacos und Burritos", "Mariachi-Musik", "Azteken und Mayas", "bunte Feste", "Kakao und Schokolade", "den Chili-Pfeffer"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Mexiko ist eines der ältesten Fußballländer Nordamerikas – und 2026 zum dritten Mal Gastgeber einer Weltmeisterschaft!",
+    "lang": "Mexiko liegt in Nordamerika und ist eines der größten Länder der Welt. Die Hauptstadt Mexiko-Stadt ist eine der bevölkerungsreichsten Städte überhaupt – über 20 Millionen Menschen leben dort! Mexiko hat eine faszinierende Geschichte: Die Azteken und Mayas bauten hier vor Tausenden von Jahren riesige Pyramiden, die man noch heute besuchen kann. Das Land ist außerdem bekannt für leckeres Essen wie Tacos, Burritos und Guacamole. Und wusstest du? Schokolade und Chili kommen ursprünglich aus Mexiko! Bei der WM 2026 ist Mexiko Gastgeberland und darf alle seine Gruppenspiele vor heimischem Publikum austragen – das ist ein riesiges Fest!"
+  },
+
+  "hauptstadt": {
+    "name": "Mexiko-Stadt",
+    "einwohner": "ca. 22 Millionen (Großraum)",
+    "fluss": null,
+    "wahrzeichen": ["Aztekenstadion (Estadio Azteca)", "Nationalpalast", "Zócalo (Hauptplatz)", "Teotihuacán-Pyramiden (in der Nähe)", "Chapultepec-Park"],
+    "beschreibung": "Mexiko-Stadt ist eine der größten Städte der Welt und liegt auf über 2.200 Metern Höhe. Das berühmte Aztekenstadion fasst über 87.000 Zuschauer und ist eines der größten Fußballstadien der Welt. Hier findet auch das Eröffnungsspiel der WM 2026 statt! In der Innenstadt liegt der riesige Zócalo-Platz, einer der größten Stadtplätze überhaupt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit_gastgeber": "Mexiko ist Mitgastgeber und richtet damit als erstes Land überhaupt zum dritten Mal eine WM aus (nach 1970 und 1986).",
+    "gruppe": "A",
+    "gruppenGegner": ["Südafrika", "Südkorea", "Tschechien"],
+    "spielorte": {
+      "Südafrika": "Mexiko-Stadt (Aztekenstadion) – Eröffnungsspiel",
+      "Südkorea": "Mexiko-Stadt (Aztekenstadion)",
+      "Tschechien": "Mexiko-Stadt (Aztekenstadion)"
+    },
+    "spieltermine": {
+      "Südafrika": "11. Juni 2026 (Eröffnungsspiel)",
+      "Südkorea": "k. A.",
+      "Tschechien": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Javier Aguirre",
+      "nationalitaet": "Mexikanisch",
+      "besonderheit": "Bereits zum dritten Mal Nationaltrainer Mexikos – stand 1986 selbst als Spieler auf dem Platz, als Mexiko zuletzt eine Heim-WM austrug"
+    },
+    "qualifikation": {
+      "beschreibung": "Mexiko qualifizierte sich über die CONCACAF-Qualifikation als Gastgeberland automatisch für die WM 2026."
+    },
+    "teilnahmen_gesamt": 17,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Viertelfinale (1970 und 1986, jeweils als Gastgeber)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "ergebnis": "Vorrunde ausgeschieden",
+      "beschreibung": "Bei der WM 2022 in Katar schied Mexiko bereits in der Gruppenphase aus."
+    },
+    "stars": [
+      { "name": "Santiago Giménez", "verein": "AC Mailand", "position": "Stürmer", "rolle": "Hoffnungsträger und Torjäger" },
+      { "name": "Raúl Jiménez", "verein": "FC Fulham", "position": "Stürmer", "rolle": "Erfahrener Angreifer, Nummer 9" },
+      { "name": "Guillermo Ochoa", "verein": "AEL Limassol", "position": "Torwart", "rolle": "Legende – zum 6. Mal bei einer WM dabei!" },
+      { "name": "Edson Álvarez", "verein": "unbekannt", "position": "Defensives Mittelfeld", "rolle": "Anker im Mittelfeld" },
+      { "name": "Alexis Vega", "verein": "Deportivo Toluca", "position": "Offensives Mittelfeld", "rolle": "Trägt die legendäre Nummer 10" }
+    ],
+    "fun_fact": "Torwart Guillermo Ochoa nimmt mit 40 Jahren zum sechsten Mal an einer WM teil – das hat bei Mexiko noch niemand vor ihm geschafft! Und das Eröffnungsspiel der gesamten WM 2026 gehört Mexiko – vor über 87.000 Fans im Aztekenstadion!"
+  }
+}

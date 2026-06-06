@@ -1,0 +1,107 @@
+{
+  "land": "Schottland",
+  "offizieller_name": "Schottland (Teil des Vereinigten Königreichs)",
+  "spitzname": "Bravehearts / Tartan Army",
+  "flagge": "Blaues Feld mit weißem Andreaskreuz (diagonales Kreuz) – das Kreuz des Heiligen Andreas, dem Schutzpatron Schottlands. Ist auch Teil der britischen Union-Jack-Flagge.",
+
+  "steckbrief": {
+    "hauptstadt": "Edinburgh",
+    "einwohner": "ca. 5,5 Millionen",
+    "sprachen": ["Englisch", "Schottisch-Gälisch", "Scots (Schottisch)"],
+    "waehrung": "Britisches Pfund (£)",
+    "lage": "Nordteil der Insel Großbritannien, Teil des Vereinigten Königreichs",
+    "nachbarn": ["England (Süden)", "Nordirland (über das Meer)", "Norwegen und Island (über die Nordsee)"],
+    "bekannt_fuer": ["Schlösser und Highlands", "Whisky (Scotch)", "Dudelsack und Kilt", "Loch Ness und das Monster", "Golf (wurde in Schottland erfunden!)", "Robert Burns und Sir Walter Scott"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Schottland ist die nördliche Hälfte der britischen Insel und bekannt für neblige Highlands, dramatische Schlösser – und natürlich den Whisky! Und Golf wurde hier erfunden!",
+    "lang": "Schottland ist ein Land mit wilder Natur: Im Norden erstrecken sich die Highlands mit zerklüfteten Bergen, tiefen Seen (Lochs) und kleinen Inseln. Der bekannteste See ist Loch Ness – dort soll angeblich das Seeungeheuer „Nessie” leben! Die Hauptstadt Edinburgh ist berühmt für ihr imposantes Schloss, das hoch auf einem Felsen thront, und das jährliche Fringe Festival, eines der größten Kunstfestivals der Welt. Schottland gilt als Heimat des Golfs – das Spiel soll hier im 15. Jahrhundert erfunden worden sein. Und natürlich: Scotch Whisky aus Schottland ist weltweit berühmt. Typisch schottisch ist auch der Dudelsack (Bagpipe) und der Kilt – der karierte Rock, den Männer zu Festlichkeiten tragen."
+  },
+
+  "hauptstadt": {
+    "name": "Edinburgh",
+    "schottisch_gaelisch": "Dùn Èideann",
+    "einwohner": "ca. 530.000",
+    "fluss": "Firth of Forth",
+    "wahrzeichen": ["Edinburgh Castle", "Royal Mile", "Holyrood Palace", "Arthur's Seat (erloschener Vulkan)", "National Museum of Scotland"],
+    "beschreibung": "Edinburgh liegt an der Ostküste Schottlands und ist eine der schönsten Hauptstädte Europas. Das imposante Edinburgh Castle thront auf einem erloschenen Vulkan mitten in der Stadt. Die Royal Mile verbindet das Schloss mit dem Königspalast Holyrood. Jeden August wird Edinburgh beim Fringe Festival zur Bühne für Zehntausende Künstler aus aller Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Erste WM-Teilnahme seit 28 Jahren! Die letzte WM war 1998 in Frankreich. In all ihren bisherigen 8 WM-Teilnahmen ist Schottland nie über die Vorrunde hinausgekommen – das soll sich 2026 ändern.",
+    "gruppe": "C",
+    "gruppenGegner": ["Haiti", "Marokko", "Brasilien"],
+    "spielorte": {
+      "Haiti": "Boston-Stadion, Boston",
+      "Marokko": "Boston-Stadion, Boston",
+      "Brasilien": "Miami-Stadion, Miami"
+    },
+    "spieltermine": {
+      "Haiti": "14. Juni 2026",
+      "Marokko": "20. Juni 2026",
+      "Brasilien": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Steve Clarke",
+      "nationalitaet": "Schottisch",
+      "besonderheit": "Seit Mai 2019 im Amt. Führte Schottland nach 23 Jahren Turnierabstinenz zu drei Endrunden in Folge: EM 2020, EM 2024 und jetzt WM 2026. Kein schottischer Trainer vor ihm schaffte eine solche Serie. Nach der WM wird er voraussichtlich zurücktreten."
+    },
+    "qualifikation": {
+      "beschreibung": "Dramatische Qualifikation: Am letzten Spieltag musste Schottland gegen Dänemark unbedingt gewinnen. Im Hampden Park in Glasgow wurde es 4:2 – Kieran Tierney und Kenny McLean trafen in der Nachspielzeit. Schottland war zum ersten Mal seit 1982 Gruppensieger in der WM-Qualifikation."
+    },
+    "kapitaen": "Andy Robertson",
+    "teilnahmen_gesamt": 9,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (bei allen 8 bisherigen Teilnahmen)",
+    "historische_besonderheit": "Schottland und England bestritten 1872 das allererste Länderspiel der Geschichte – das Ergebnis war 0:0. Schottland gilt damit als Mitbegründer des modernen Fußballs.",
+    "letztes_turnier": {
+      "jahr": 1998,
+      "austragungsort": "Frankreich",
+      "ergebnis": "Vorrunde",
+      "beschreibung": "Schottlands bislang letzte WM-Teilnahme endete 1998 in Frankreich in der Gruppenphase."
+    },
+    "stars": [
+      {
+        "name": "Scott McTominay",
+        "verein": "SSC Neapel",
+        "position": "Mittelfeld",
+        "rolle": "Schlüsselspieler und wertvollster Profi des Kaders – glänzt in der Serie A bei Napoli"
+      },
+      {
+        "name": "Andy Robertson",
+        "verein": "FC Liverpool",
+        "position": "Linksverteidiger",
+        "rolle": "Kapitän – einer der besten Linksverteidiger der Welt, langjähriger Liverpool-Stammspieler"
+      },
+      {
+        "name": "John McGinn",
+        "verein": "Aston Villa",
+        "position": "Mittelfeld",
+        "rolle": "Erfahrener Führungsspieler aus der Premier League"
+      },
+      {
+        "name": "Billy Gilmour",
+        "verein": "SSC Neapel",
+        "position": "Mittelfeld",
+        "rolle": "Technisch starker Mittelfeldspieler, Teamkollege von McTominay bei Napoli"
+      },
+      {
+        "name": "Kieran Tierney",
+        "verein": "Celtic Glasgow",
+        "position": "Linksverteidiger / Innenverteidiger",
+        "rolle": "Erfahrener Abwehrspieler, traf in der WM-Qualifikation in der Nachspielzeit zum entscheidenden Tor gegen Dänemark"
+      },
+      {
+        "name": "Craig Gordon",
+        "verein": "Heart of Midlothian",
+        "alter": 43,
+        "position": "Torwart",
+        "rolle": "Torwart-Legende – mit 43 Jahren einer der ältesten WM-Spieler aller Zeiten"
+      }
+    ],
+    "fun_fact": "Schottland hat mit England 1872 das erste Länderspiel der Fußballgeschichte gespielt – also ist Schottland quasi ein Gründerland des Fußballs! Und Torwart Craig Gordon ist mit 43 Jahren einer der ältesten WM-Teilnehmer aller Zeiten. Außerdem: Der berühmteste Fan-Club Schottlands heißt „Tartan Army” – Zehntausende Fans reisen in traditionellen Kilts zu jedem Spiel."
+  }
+}

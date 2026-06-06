@@ -1,0 +1,98 @@
+{
+  "land": "Neuseeland",
+  "offizieller_name": "Neuseeland (Aotearoa)",
+  "maori_name": "Aotearoa – bedeutet 'Land der langen weißen Wolke' in der Sprache der Māori",
+  "spitzname": "All Whites / Kiwis",
+  "flagge": "Dunkelblaues Feld mit dem Union Jack (britische Flagge) oben links und vier roten Sternen mit weißem Rand rechts – das Kreuz des Südens, das Sternbild, das man auf der Südhalbkugel am Nachthimmel sieht.",
+
+  "steckbrief": {
+    "hauptstadt": "Wellington",
+    "einwohner": "ca. 5 Millionen",
+    "sprachen": ["Englisch", "Māori (Te Reo Māori)", "Neuseeländische Gebärdensprache"],
+    "waehrung": "Neuseeländischer Dollar (NZD)",
+    "lage": "Ozeanien – Inselstaat im Südpazifik, ca. 2.000 km östlich von Australien",
+    "nachbarn": ["Australien (ca. 2.000 km westlich über das Meer)"],
+    "bekannt_fuer": ["Herr der Ringe – dort gedreht!", "Kiwi-Vögel (Wappentier)", "Māori-Kultur mit Haka-Tanz", "Schafe (mehr Schafe als Menschen!)", "Rugby (All Blacks – eines der besten Teams der Welt)", "Vulkane, Gletscher und Fjorde"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Neuseeland ist das Land am Ende der Welt – weit weg von allem! Dort wurden die Herr-der-Ringe-Filme gedreht, und es gibt mehr Schafe als Menschen!",
+    "lang": "Neuseeland liegt ganz weit weg im Südpazifik – fast am anderen Ende der Welt von Deutschland aus! Das Land besteht aus zwei Hauptinseln und hunderten kleinerer Inseln. Die Nordinsel hat aktive Vulkane und heiße Geysire, die Südinsel beeindruckt mit schneebedeckten Alpen und Fjorden, die wie aus einem Fantasy-Film aussehen – kein Wunder, dass Peter Jackson die Herr-der-Ringe-Trilogie dort drehte! Die Ureinwohner Neuseelands sind die Māori – ihre Kultur mit dem Haka-Tanz, Tätowierungen (Tā moko) und Holzschnitzereien ist weltweit bekannt. Und Kiwis? Das sind nicht nur die leckeren Früchte, sondern auch flugunfähige Vögel – Neuseelands Nationaltier! Das Rugbyteam 'All Blacks' gilt als das erfolgreichste Nationalteam aller Sportarten weltweit."
+  },
+
+  "hauptstadt": {
+    "name": "Wellington",
+    "einwohner": "ca. 430.000",
+    "lage": "Südspitze der Nordinsel – windige, malerische Hafenstadt",
+    "besonderheit": "Wellington ist die südlichste Hauptstadt eines souveränen Staates weltweit (nach Canberra, Australien). Bekannt als eine der windigsten Städte der Welt!",
+    "wahrzeichen": ["Te Papa Tongarewa (Nationalmuseum)", "Hafenfront und Cable Car", "Beehive (Parlamentsgebäude in Bienenkorb-Form)", "Weta Workshop (Filmstudio der Herr-der-Ringe-Effekte)"],
+    "beschreibung": "Wellington ist eine charmante, kompakte Hauptstadt mit einem wunderschönen Naturhafen. Das Parlamentsgebäude 'Beehive' ist wegen seiner ungewöhnlichen Bienenkorb-Form weltbekannt. Im Weta Workshop kann man die Oscar-prämierten Spezialeffekte und Kostüme der Herr-der-Ringe-Trilogie bestaunen. Auckland ist zwar die größte Stadt (über 1,5 Millionen Einwohner), aber Wellington ist die Hauptstadt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Neuseeland nimmt erst zum dritten Mal überhaupt an einer WM teil! Und 2026 sicherte sich Neuseeland erstmals in der Geschichte der ozeanischen Konföderation (OFC) einen direkten WM-Startplatz – ohne Umweg über interkontinentale Play-offs. Das neue 48-Teams-Format machte es möglich. Das kuriose Highlight der WM-Geschichte: 2010 in Südafrika spielte Neuseeland dreimal unentschieden – und war das einzige ungeschlagene Team des gesamten Turniers!",
+    "gruppe": "G",
+    "gruppenGegner": ["Iran", "Ägypten", "Belgien"],
+    "spielorte": {
+      "Iran": "SoFi Stadium, Los Angeles",
+      "Ägypten": "BC Place, Vancouver",
+      "Belgien": "BC Place, Vancouver"
+    },
+    "spieltermine": {
+      "Iran": "16. Juni 2026",
+      "Ägypten": "22. Juni 2026",
+      "Belgien": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Darren Bazeley",
+      "nationalitaet": "Englisch (in Neuseeland verwurzelt)",
+      "besonderheit": "Gebürtiger Engländer – früher Profi beim FC Watford, wechselte 2005 als Spieler nach Neuseeland und blieb dort. Betreute 15 Jahre lang neuseeländische Jugendnationalteams, bevor er 2023 das A-Team übernahm. Führte die U-20 dreimal in die WM-K.o.-Runde."
+    },
+    "qualifikation": {
+      "weg": "OFC (Ozeanien) – direkter Startplatz dank 48-Teams-Format",
+      "beschreibung": "Dominante Qualifikation: 5 Siege aus 5 Spielen, 29:1 Tore! Darunter 8:1 gegen Vanuatu, 8:0 gegen Samoa und 7:0 gegen Fidschi. Erstmals in OFC-Geschichte ein direkter WM-Platz ohne interkontinentale Play-offs."
+    },
+    "kapitaen": "Chris Wood",
+    "teilnahmen_gesamt": 3,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (1982 und 2010) – 2010 das einzige ungeschlagene Team des Turniers mit drei Unentschieden!",
+    "historische_besonderheit": "WM 2010 in Südafrika: Neuseeland spielte gegen Italien (1:1), Paraguay (0:0) und die Slowakei (1:1) – drei Remis, null Niederlagen. Als einziges Team verließ Neuseeland das Turnier ungeschlagen. Trotzdem schied man als Gruppendritter aus.",
+    "stars": [
+      {
+        "name": "Chris Wood",
+        "verein": "Nottingham Forest (England, Premier League)",
+        "position": "Stürmer",
+        "alter": 33,
+        "rolle": "Kapitän und Rekordtorschütze (45 Länderspieltore) – in der Saison 2024/25 mit 20 Toren fünftbester Torschütze der Premier League. Nahm bereits 2010 an der WM teil – bei seiner zweiten WM-Teilnahme."
+      },
+      {
+        "name": "Liberato Cacace",
+        "verein": "Empoli (Italien)",
+        "position": "Linksverteidiger",
+        "rolle": "Vielseitiger Außenverteidiger – der beste Europaspieler im neuseeländischen Kader"
+      },
+      {
+        "name": "Tyler Bindon",
+        "verein": "Leicester City (England)",
+        "position": "Innenverteidiger",
+        "rolle": "Aufsteigendes Innenverteidiger-Talent – spielt in der Premier League bei Leicester City"
+      },
+      {
+        "name": "Sarpreet Singh",
+        "verein": "Vereinigung verschiedener Clubs",
+        "position": "Offensives Mittelfeld",
+        "rolle": "Kreativer Mittelfeldspieler, früher beim FC Bayern München II"
+      },
+      {
+        "name": "Tommy Smith",
+        "verein": "Braintree Town (England)",
+        "position": "Verteidiger",
+        "alter": 36,
+        "rolle": "Veteranen-Verteidiger – war 2010 dabei und nimmt jetzt an seiner zweiten WM teil, gemeinsam mit Chris Wood"
+      }
+    ],
+    "fun_fact": "Neuseeland spielte 2010 dreimal Unentschieden und war das einzige ungeschlagene Team der WM – trotzdem schied es aus! Die Qualifikation für die WM 2026 gewannen die All Whites ihre fünf Spiele mit einem Torverhältnis von 29:1. Und: Sarpreet Singh spielte früher beim FC Bayern München – in Neuseeland geboren, in München ausgebildet! In Neuseeland gibt es übrigens mehr Schafe als Menschen – das Land hat nur 5 Millionen Einwohner, aber fast 6 Millionen Schafe."
+  }
+}

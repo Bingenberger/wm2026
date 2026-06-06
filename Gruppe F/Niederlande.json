@@ -1,0 +1,121 @@
+{
+  "land": "Niederlande",
+  "offizieller_name": "Königreich der Niederlande",
+  "spitzname": "Oranje / Die Elftal (Die Elf)",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Weiß (Mitte), Blau (unten) – die Nationalfarben sind Orange, Weiß und Blau. Das Trikot der Nationalmannschaft ist aber berühmt-orange!",
+
+  "steckbrief": {
+    "hauptstadt": "Amsterdam (de facto) / Den Haag (Regierungssitz)",
+    "einwohner": "ca. 18 Millionen",
+    "sprache": "Niederländisch",
+    "waehrung": "Euro (€)",
+    "lage": "Westeuropa, Nordseeküste – großteils unter dem Meeresspiegel!",
+    "nachbarn": ["Deutschland", "Belgien"],
+    "bekannt_fuer": ["Tulpen und Windmühlen", "Fahrräder (mehr als Einwohner!)", "Rembrandt und Van Gogh", "Käse (Gouda, Edam)", "Stroopwafeln", "Toleranz und Liberalität", "Johan Cruyff und totaler Fußball"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Die Niederlande sind das Land der Tulpen, Windmühlen und Fahrräder – und eine der größten Fußballnationen der Welt, obwohl sie nie Weltmeister wurden!",
+    "lang": "Die Niederlande liegen an der Nordsee und sind ein flaches Land – große Teile liegen sogar unter dem Meeresspiegel! Um das Wasser fernzuhalten, bauten die Niederländer über Jahrhunderte ein riesiges System aus Deichen und Kanälen. Windmühlen halfen früher, das Wasser aus dem Land zu pumpen. Heute sind sie weltberühmt als Touristenattraktion. Amsterdam ist bekannt für seine Grachten (Kanäle), auf denen Boote fahren und an deren Ufern schmale, bunte Häuser stehen. Die Niederlande sind das Fahrradland Nummer eins – es gibt mehr Fahrräder als Einwohner! Berühmte Niederländer sind der Maler Rembrandt, Vincent van Gogh und natürlich der Fußballikone Johan Cruyff – der Erfinder des 'Totalen Fußballs'."
+  },
+
+  "hauptstadt": {
+    "name": "Amsterdam (de facto) / Den Haag (Regierungssitz)",
+    "hinweis": "Amsterdam ist die Hauptstadt laut Verfassung, aber Regierung und Parlament sitzen in Den Haag – eine typisch niederländische Besonderheit!",
+    "einwohner_amsterdam": "ca. 900.000",
+    "wahrzeichen": ["Rijksmuseum (Rembrandts 'Nachtwache')", "Anne-Frank-Haus", "Grachten (Kanalringe – UNESCO-Welterbe)", "Van-Gogh-Museum", "Vondelpark"],
+    "beschreibung": "Amsterdam liegt auf Pfählen – buchstäblich! Die Altstadt wurde auf Tausenden von Holzpfählen gebaut, da der Untergrund zu weich ist. Das Grachtenring-System wurde zum UNESCO-Welterbe erklärt. Das Anne-Frank-Haus erinnert an das jüdische Mädchen, das sich im Zweiten Weltkrieg im Hinterhaus versteckte und ein Tagebuch schrieb, das heute weltberühmt ist."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Die Niederlande sind dreimaliger WM-Finalist – haben aber nie gewonnen! 1974 verloren sie gegen Deutschland, 1978 gegen Argentinien, 2010 gegen Spanien. Seit 1974 kamen sie bei jeder WM-Teilnahme in die K.o.-Phase – auch dieses Mal soll es mindestens so weit gehen.",
+    "gruppe": "F",
+    "gruppenGegner": ["Japan", "Schweden", "Tunesien"],
+    "spielorte": {
+      "Japan": "AT&T Stadium, Dallas",
+      "Schweden": "NRG Stadium, Houston",
+      "Tunesien": "Arrowhead Stadium, Kansas City"
+    },
+    "spieltermine": {
+      "Japan": "14. Juni 2026",
+      "Schweden": "20. Juni 2026",
+      "Tunesien": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Ronald Koeman",
+      "nationalitaet": "Niederländisch",
+      "besonderheit": "Bereits seine zweite Amtszeit als Bondscoach. Als Spieler war er einer der besten Innenverteidiger der Welt und Europameister 1988. Als Trainer bei FC Barcelona, PSV, Ajax und Benfica sehr erfolgreich."
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Souveräne Qualifikation: Sechs Siege und zwei Unentschieden in der Gruppe ohne eine Niederlage. Die Niederlande sicherten sich das WM-Ticket frühzeitig."
+    },
+    "kapitaen": "Virgil van Dijk",
+    "teilnahmen_gesamt": 12,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vize-Weltmeister (Finalist 1974, 1978, 2010) – die erfolgreichste Nation, die nie Weltmeister wurde!",
+    "em_titel": 1,
+    "em_titel_jahre": [1988],
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Viertelfinale",
+      "ausgeschieden_gegen": "Argentinien (Elfmeterschießen)",
+      "beschreibung": "Die Niederlande schieden im Viertelfinale im Elfmeterschießen gegen den späteren Weltmeister Argentinien aus."
+    },
+    "verletzt_fehlend": [
+      "Xavi Simons – Kreuzbandriss 47 Tage vor Turnierstart",
+      "Matthijs de Ligt (Manchester United) – verletzt"
+    ],
+    "bundesliga_spieler": [
+      "Mark Flekken – Torwart (Bayer 04 Leverkusen) – einziger aktueller Bundesliga-Profi im Kader"
+    ],
+    "stars": [
+      {
+        "name": "Virgil van Dijk",
+        "verein": "FC Liverpool",
+        "position": "Innenverteidiger",
+        "rolle": "Kapitän – einer der weltbesten Verteidiger, dominante Präsenz in der Abwehr"
+      },
+      {
+        "name": "Frenkie de Jong",
+        "verein": "FC Barcelona",
+        "position": "Mittelfeld",
+        "rolle": "Technisch überragender Spielmacher – Herzstück des niederländischen Mittelfelds"
+      },
+      {
+        "name": "Cody Gakpo",
+        "verein": "FC Liverpool",
+        "position": "Linksaußen / Stürmer",
+        "rolle": "Offensivleitfigur – schnell, torgefährlich, vielseitig einsetzbar"
+      },
+      {
+        "name": "Tijjani Reijnders",
+        "verein": "Manchester City",
+        "position": "Zentrales Mittelfeld",
+        "rolle": "Moderner Box-to-Box-Spieler mit Tor- und Passsicherheit"
+      },
+      {
+        "name": "Ryan Gravenberch",
+        "verein": "FC Liverpool",
+        "position": "Mittelfeld",
+        "rolle": "Dynamischer Mittelfeldspieler – früher beim FC Bayern München"
+      },
+      {
+        "name": "Memphis Depay",
+        "verein": "Corinthians (Brasilien)",
+        "position": "Stürmer",
+        "rolle": "Niederlands Rekordtorschütze – spielte zuletzt in Brasilien, aber bei Oranje immer wichtig"
+      }
+    ],
+    "historische_legenden": [
+      {
+        "name": "Johan Cruyff",
+        "rolle": "Größter Fußballer in der Geschichte der Niederlande – erfand den 'Totalen Fußball', dreimal Weltfußballer des Jahres"
+      }
+    ],
+    "fun_fact": "Die Niederlande verloren drei WM-Finale – 1974 gegen Deutschland! Das orange Trikot der Niederlande ist eines der bekanntesten der Welt, obwohl Orange gar keine Farbe der Nationalflagge ist. Orange ist die Farbe des Königshauses (Haus Oranien-Nassau). Und: Mark Flekken von Bayer Leverkusen ist der einzige aktive Bundesliga-Profi im niederländischen Kader!"
+  }
+}

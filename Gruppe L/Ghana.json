@@ -1,0 +1,133 @@
+{
+  "land": "Ghana",
+  "offizieller_name": "Republik Ghana",
+  "spitzname": "Black Stars (Die Schwarzen Sterne)",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Gold/Gelb (Mitte), Grün (unten) – in der Mitte des goldenen Streifens ein schwarzer fünfzackiger Stern. Rot steht für das Blut der Märtyrer, Gold für die reichen Bodenschätze, Grün für die Wälder und Natur. Der schwarze Stern ist das Symbol der afrikanischen Freiheit.",
+
+  "steckbrief": {
+    "hauptstadt": "Accra",
+    "einwohner": "ca. 34 Millionen",
+    "sprache": "Englisch (Amtssprache) – sowie viele lokale Sprachen wie Twi, Ewe, Dagbani",
+    "waehrung": "Ghanaischer Cedi (GHS)",
+    "lage": "Westafrika – am Golf von Guinea, grenzt an Togo, Burkina Faso und die Elfenbeinküste",
+    "nachbarn": ["Togo (Osten)", "Burkina Faso (Norden)", "Elfenbeinküste (Westen)"],
+    "bekannt_fuer": ["Erstes afrikanisches Land südlich der Sahara, das die Unabhängigkeit erlangte (1957)", "Goldvorkommen (der Name 'Ghana' bedeutet Kriegerking)", "Kakao (weltweit zweitgrößter Produzent)", "Kente-Stoff (bunter Webstoff, weltweit bekannt)", "Staudamm Akosombo (einer der größten der Welt)", "Entspannte, freundliche Kultur – Ghana gilt als stabilstes Land Westafrikas"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Ghana war 1957 das erste afrikanische Land südlich der Sahara, das seine Unabhängigkeit erlangte – ein historischer Moment für ganz Afrika! Und beim Fußball 2010 fehlte Ghana nur ein Elfmeter vom WM-Halbfinale.",
+    "lang": "Ghana liegt in Westafrika am Atlantik und ist eines der bekanntesten und stabilsten Länder des Kontinents. 1957 erlangte Ghana als erstes Land südlich der Sahara die Unabhängigkeit von Großbritannien – ein historischer Meilenstein, der ganz Afrika inspirierte. Der Name Ghana bedeutet 'Kriegerking' und erinnert an ein mittelalterliches Königreich in der Region. Ghana ist bekannt für seinen Kakao – fast jede zweite Tafel Schokolade könnte Kakao aus Ghana enthalten! Der bunte Kente-Stoff, der von ghanaischen Webern hergestellt wird, ist ein Symbol der ghanaischen Kultur. Und der Akosombo-Staudamm am Volta-Fluss schuf den größten künstlichen See der Welt!"
+  },
+
+  "hauptstadt": {
+    "name": "Accra",
+    "einwohner": "ca. 2,5 Millionen",
+    "lage": "Südküste Ghanas, direkt am Atlantik/Golf von Guinea",
+    "wahrzeichen": ["Independence Arch und Black Star Gate (Symbol der Unabhängigkeit)", "Kwame Nkrumah Memorial Park (Grabstätte des ersten Präsidenten)", "Makola Market (lebhaftester Markt)", "Labadi Beach (beliebtester Strand)"],
+    "beschreibung": "Accra ist eine bunte, lebendige Hauptstadt direkt am Meer. Die Innenstadt ist ein Kontrastprogramm aus historischen Kolonialgebäuden und modernen Hochhäusern. Der Black Star Square mit dem Independence Arch erinnert an den historischen Moment der Unabhängigkeit 1957. Die Märkte von Accra sind berühmt für Kente-Stoffe, Holzschnitzereien und frische Meeresfrüchte."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "2010 fehlte Ghana nur ein Elfmeter vom WM-Halbfinale – Asamoah Gyan schoss an die Latte. Davor hatte Luis Suárez auf der Torlinie den Ball mit der Hand geblockt – eine der berühmtesten WM-Szenen aller Zeiten. 2026 soll die Revanche kommen!",
+    "gruppe": "L",
+    "gruppenGegner": ["Panama", "England", "Kroatien"],
+    "spielorte": {
+      "Panama": "BMO Field, Toronto",
+      "England": "Gillette Stadium, Boston",
+      "Kroatien": "Lincoln Financial Field, Philadelphia"
+    },
+    "spieltermine": {
+      "Panama": "17. Juni 2026",
+      "England": "23. Juni 2026",
+      "Kroatien": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Carlos Queiroz",
+      "nationalitaet": "Portugiesisch",
+      "alter": 73,
+      "besonderheit": "Erfahrenster Trainer bei dieser WM – nimmt an seiner fünften WM in Folge als Cheftrainer teil! Trainierte Portugal (2010), dann dreimal den Iran (2014, 2018, 2022), jetzt Ghana. Nur Bora Milutinović schaffte das zuvor (1986–2002). Früher auch Assistent von Sir Alex Ferguson bei Manchester United."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "beschreibung": "Souveräner Gruppensieger: 8 Siege, 1 Remis, 1 Niederlage. Ghana sicherte sich das WM-Ticket in Afrika klar als Nummer 1 ihrer Gruppe."
+    },
+    "kapitaen": "Jordan Ayew",
+    "teilnahmen_gesamt": 5,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Viertelfinale (WM 2010 in Südafrika)",
+    "afrikacup_titel": 4,
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Vorrunde",
+      "beschreibung": "Bitter: Ghana schied trotz eines spektakulären 3:2-Sieges gegen Südkorea in der Gruppenphase aus."
+    },
+    "verletzt_fehlend": [
+      "Mohammed Kudus – Tottenham Hotspur – verletzt, fehlt der WM"
+    ],
+    "bundesliga_bezug": [
+      "Jonas Adjetey – Verteidiger (VfL Wolfsburg) – einziger aktueller Bundesliga-Profi im Kader"
+    ],
+    "stars": [
+      {
+        "name": "Antoine Semenyo",
+        "verein": "Manchester City (England)",
+        "position": "Rechtsaußen / Stürmer",
+        "alter": 26,
+        "besonderheit": "Wechselte im Januar 2026 für 72 Millionen Euro von Bournemouth zu Manchester City – größter Transferwert im ghanaischen Kader",
+        "rolle": "Wichtigster Angreifer – 11 Tore in 27 Spielen für Man City nach seinem Wechsel"
+      },
+      {
+        "name": "Iñaki Williams",
+        "verein": "Athletic Club Bilbao (Spanien)",
+        "position": "Linksaußen / Stürmer",
+        "alter": 31,
+        "besonderheit": "Wurde in Spanien geboren, entschied sich 2022 für Ghana statt Spanien. Bruder Nico Williams spielt für Spanien – beide spielen bei der WM 2026!",
+        "rolle": "Emotionaler Anführer und erfahrenster Angreifer"
+      },
+      {
+        "name": "Thomas Partey",
+        "verein": "Villarreal (Spanien)",
+        "position": "Defensives Mittelfeld",
+        "alter": 32,
+        "rolle": "Erfahrenster Mittelfeldspieler – früher bei Arsenal in der Premier League aktiv"
+      },
+      {
+        "name": "Jordan Ayew",
+        "verein": "Leicester City (England)",
+        "position": "Stürmer / Offensives Mittelfeld",
+        "alter": 34,
+        "länderspiele": 88,
+        "länderspieltore": 30,
+        "rolle": "Kapitän und Rekordspieler – Sohn des legendären Abedi Pelé, Ghanas Fußballikone"
+      },
+      {
+        "name": "Abdul Fatawu Issahaku",
+        "verein": "Leicester City (England)",
+        "position": "Flügel",
+        "alter": 21,
+        "rolle": "Junges Offensivtalent – bei Leicester City in der Premier League"
+      },
+      {
+        "name": "Kamaldeen Sulemana",
+        "verein": "Atalanta (Italien)",
+        "position": "Linksaußen",
+        "alter": 23,
+        "rolle": "Explosiver Dribbler – Champions-League-Erfahrung mit Atalanta"
+      }
+    ],
+    "legenden": [
+      {
+        "name": "Abedi Pelé",
+        "rolle": "Dreifacher Afrikas Fußballer des Jahres – Ghanas größte Fußball-Legende. Vater der Spieler Jordan und Dede Ayew. Spielte für Olympique Marseille (Champions-League-Sieger 1993)"
+      },
+      {
+        "name": "Asamoah Gyan",
+        "rolle": "Rekordtorschütze Ghanas bei WMs – sein Elfmeter an die Latte 2010 gegen Uruguay ist eines der tragischsten WM-Momente aller Zeiten"
+      }
+    ],
+    "fun_fact": "Iñaki Williams und sein Bruder Nico Williams spielen beide bei dieser WM – Iñaki für Ghana, Nico für Spanien! Und 2010 blockierte Luis Suárez mit der Hand ein sicheres Tor auf der Linie – Suárez wurde gesperrt, Ghana verschoss den Elfmeter. Der Moment machte Suárez weltberühmt (nicht im guten Sinne!). Jonas Adjetey von VfL Wolfsburg ist der einzige aktuelle Bundesliga-Profi im ghanaischen Kader."
+  }
+}

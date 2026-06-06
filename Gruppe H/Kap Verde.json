@@ -1,0 +1,110 @@
+{
+  "land": "Kap Verde",
+  "offizieller_name": "Republik Kap Verde",
+  "portugiesisch": "República de Cabo Verde",
+  "spitzname": "Os Tubarões Azuis (Die Blauen Haie)",
+  "flagge": "Dunkelblauer Hintergrund mit einem weißen und roten waagerechten Streifen im unteren Drittel – und einem Halbkreis aus zehn gelben Sternen auf der linken Seite. Die zehn Sterne stehen für die zehn Hauptinseln des Archipels.",
+
+  "steckbrief": {
+    "hauptstadt": "Praia",
+    "einwohner": "ca. 500.000",
+    "sprachen": ["Portugiesisch (Amtssprache)", "Kreolisch (Kabuverdianu – im Alltag die meistgesprochene Sprache)"],
+    "waehrung": "Kap-Verdischer Escudo (CVE)",
+    "lage": "Atlantischer Ozean – Inselstaat ca. 570 km vor der westafrikanischen Küste (Senegal/Mauretanien)",
+    "nachbarn": ["Kein Landnachbar – Inselstaat mitten im Atlantik"],
+    "bekannt_fuer": ["Zehn wunderschöne Inseln mit Traumstränden", "Morna-Musik (Cesária Évora – 'die nackte Füße-Sängerin')", "Sandbänke und Surfspots", "Lebendige Mischkultur aus Afrika, Europa und Amerika", "Einwandererland: mehr Kap-Verdianer leben im Ausland als auf den Inseln selbst", "Immer Sommer – Durchschnittstemperatur 25°C"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Kap Verde ist ein kleiner Inselstaat mitten im Atlantik – mit nur 500.000 Einwohnern trotzdem bei der WM! Mehr Kap-Verdianer leben übrigens im Ausland als auf den Inseln selbst.",
+    "lang": "Kap Verde besteht aus zehn Inseln und mehreren kleinen Inselchen, die wie Perlen auf einer Schnur mitten im Atlantik liegen – rund 570 Kilometer vor der westafrikanischen Küste. Das Land hat rund 500.000 Einwohner, aber schätzungsweise über 700.000 Kap-Verdianer leben in der Diaspora, vor allem in Portugal, den USA und den Niederlanden! Das erklärt auch den Kader: Fast alle WM-Spieler wurden im Ausland geboren oder spielen dort. Die Musikerin Cesária Évora machte Kap Verde weltberühmt – mit ihrer Stimme und barfuß auf der Bühne sang sie die typische Morna-Musik, melancholische Lieder von Sehnsucht und Heimweh. Das Klima ist das ganze Jahr herrlich – Durchschnittstemperatur 25 Grad, blaues Meer und weiße Sandstrände."
+  },
+
+  "hauptstadt": {
+    "name": "Praia",
+    "einwohner": "ca. 160.000",
+    "lage": "Südspitze der Insel Santiago – der größten Insel des Archipels",
+    "wahrzeichen": ["Plateau-Viertel (historisches Zentrum)", "Hafenfront", "Markt Sucupira"],
+    "beschreibung": "Praia ist eine lebendige Stadt auf der Insel Santiago. Das historische Zentrum liegt auf einem flachen Hügel (Plateau) über der Küste. Nicht weit entfernt liegt Cidade Velha – die älteste europäische Kolonialstadt südlich der Sahara, gegründet 1462, heute UNESCO-Welterbe."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Kap Verdes erste WM-Teilnahme überhaupt! Mit ca. 500.000 Einwohnern eines der kleinsten Länder des Turniers. Und das Los war brutal: Als erster WM-Neuling der Geschichte trifft Kap Verde in seinen ersten beiden Spielen auf gleich zwei Ex-Weltmeister – Spanien und Uruguay!",
+    "gruppe": "H",
+    "gruppenGegner": ["Spanien", "Uruguay", "Saudi-Arabien"],
+    "spielorte": {
+      "Spanien": "Mercedes-Benz Stadium, Atlanta",
+      "Uruguay": "Hard Rock Stadium, Miami",
+      "Saudi-Arabien": "NRG Stadium, Houston"
+    },
+    "spieltermine": {
+      "Spanien": "15. Juni 2026",
+      "Uruguay": "21. Juni 2026",
+      "Saudi-Arabien": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Pedro Brito",
+      "spitzname": "Bubista",
+      "nationalitaet": "Kap-Verdianisch",
+      "herkunft_spitzname": "Abgeleitet von seiner Heimatinsel Boa Vista",
+      "besonderheit": "Seit 2020 Nationaltrainer – selbst früherer Nationalspieler Kap Verdes. Für die erfolgreiche WM-Qualifikation wurde er 2025 als Afrikas Trainer des Jahres ausgezeichnet. Gilt als bodenständig und bei den Spielern sehr beliebt."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "gruppe": "D",
+      "beschreibung": "7 Siege, 2 Unentschieden, 1 Niederlage – nur 8 Gegentore in 10 Spielen, siebenmal ohne Gegentor. Die Defensive war das Prunkstück. Bester Torschütze: Dailon Livramento mit 4 Toren (alle WM-Premiere für ihn)."
+    },
+    "kapitaen": "Ryan Mendes",
+    "teilnahmen_gesamt": 1,
+    "erste_wm_teilnahme": 2026,
+    "kader_besonderheit": "Fast alle Spieler wurden im Ausland geboren – in Portugal, den Niederlanden, Frankreich oder der Schweiz. Kap Verde ist ein Auswandererland: Mehr Kap-Verdianer leben in der Diaspora als auf den Inseln. Das spiegelt der Kader wider.",
+    "stars": [
+      {
+        "name": "Ryan Mendes",
+        "verein": "Iğdır FK (Türkei)",
+        "position": "Stürmer",
+        "alter": 36,
+        "rolle": "Kapitän, Rekordtorschütze (22 Tore) und Rekordnationalspieler (96 Länderspiele) – das Gesicht des kapverdischen Fußballs. Für ihn ist die WM 2026 mit Sicherheit das größte Erlebnis seiner Karriere."
+      },
+      {
+        "name": "Logan Costa",
+        "verein": "FC Villarreal (Spanien)",
+        "position": "Innenverteidiger",
+        "alter": 25,
+        "besonderheit": "Erlitt vor der Saison einen Kreuzbandriss und feierte erst am letzten Spieltag sein Comeback – trotzdem im WM-Kader, weil er der wichtigste Abwehrspieler ist.",
+        "rolle": "Abwehrchef und wertvollster Spieler des Teams"
+      },
+      {
+        "name": "Sidny Lopes Cabral",
+        "verein": "SL Benfica (Portugal)",
+        "position": "Verteidiger",
+        "alter": 23,
+        "rolle": "Jüngstes Abwehrtalent – bei einem der bekanntesten Klubs Europas unter Vertrag"
+      },
+      {
+        "name": "Dailon Livramento",
+        "verein": "Casa Pia AC (Portugal)",
+        "position": "Stürmer",
+        "alter": 25,
+        "rolle": "Bester WM-Qualifikationsschütze mit 4 Toren – alle beim Debüt für die Nationalmannschaft"
+      },
+      {
+        "name": "Jamiro Monteiro",
+        "verein": "PEC Zwolle (Niederlande)",
+        "position": "Mittelfeld",
+        "alter": 32,
+        "rolle": "Spielmacher – einer von zwei Spielern, die alle 10 Qualifikationsspiele absolvierten"
+      },
+      {
+        "name": "Jovane Cabral",
+        "verein": "Estrela Amadora (Portugal)",
+        "position": "Flügel / Stürmer",
+        "alter": 27,
+        "rolle": "Schneller, dribbelstarker Außenstürmer"
+      }
+    ],
+    "fun_fact": "Kap Verde hat nur 500.000 Einwohner – das ist weniger als die Stadt Köln! Trotzdem spielen die Blauen Haie bei der WM gegen den Europameister Spanien und gegen Uruguay. Als erster WM-Neuling überhaupt trifft Kap Verde in seinen ersten beiden Spielen auf zwei Ex-Weltmeister. Trainer Bubista bekam seinen Spitznamen von seiner kleinen Heimatinsel Boa Vista – und wurde 2025 als Afrikas Trainer des Jahres ausgezeichnet!"
+  }
+}

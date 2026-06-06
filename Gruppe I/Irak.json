@@ -1,0 +1,112 @@
+{
+  "land": "Irak",
+  "offizieller_name": "Republik Irak",
+  "spitzname": "Usud al-Rafidain (Die Löwen Mesopotamiens)",
+  "flagge": "Drei waagerechte Streifen: Rot (oben), Weiß (Mitte), Schwarz (unten) – in der Mitte des weißen Streifens steht der grüne Schriftzug 'Allahu Akbar' (Gott ist groß) in arabischer Kufischrift.",
+
+  "steckbrief": {
+    "hauptstadt": "Bagdad",
+    "einwohner": "ca. 42 Millionen",
+    "sprachen": ["Arabisch (Amtssprache)", "Kurdisch (Amtssprache in der Region Kurdistan)"],
+    "waehrung": "Irakischer Dinar (IQD)",
+    "lage": "Naher Osten – zwischen dem Tigris und dem Euphrat, zwei der bekanntesten Flüsse der Geschichte",
+    "nachbarn": ["Türkei (Norden)", "Iran (Osten)", "Kuwait (Süden)", "Saudi-Arabien (Süden)", "Jordanien (Westen)", "Syrien (Westen)"],
+    "bekannt_fuer": ["Mesopotamien – Wiege der menschlichen Zivilisation", "Tigris und Euphrat – Flüsse aus der Bibel und dem Gilgamesch-Epos", "Babylon – einst eine der größten Städte der Welt", "Hängende Gärten (eines der sieben Weltwunder der Antike)", "Erdöl (eines der größten Vorkommen der Welt)", "Datteln (weltgrößter Dattel-Exporteur)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Der Irak liegt in Mesopotamien – dem Land zwischen Tigris und Euphrat, wo vor über 5.000 Jahren eine der ersten Hochkulturen der Menschheit entstand. Hier wurde das Schreiben erfunden!",
+    "lang": "Der Irak liegt zwischen den Flüssen Tigris und Euphrat – das Land heißt deshalb Mesopotamien, was auf Griechisch 'Land zwischen den Flüssen' bedeutet. Vor über 5.000 Jahren entstanden hier die ersten Städte der Welt, die ersten Gesetze und die erste Schrift (Keilschrift)! Das antike Babylon, einst eine der größten Städte der Welt, lag im heutigen Irak. Die sagenumwobenen Hängenden Gärten von Babylon gelten als eines der sieben Weltwunder der Antike. Der Gilgamesch-Epos, das älteste literarische Werk der Menschheit, wurde ebenfalls hier in Mesopotamien verfasst – vor über 4.000 Jahren! Heute ist der Irak ein Erdölland mit riesigen Vorkommen. Datteln – die süßen Früchte der Dattelpalme – exportiert der Irak in alle Welt."
+  },
+
+  "hauptstadt": {
+    "name": "Bagdad",
+    "arabisch": "بغداد",
+    "einwohner": "ca. 8 Millionen",
+    "lage": "Zentrum des Iraks, am Tigris",
+    "historische_bedeutung": "Im 8. bis 13. Jahrhundert war Bagdad die größte Stadt der Welt und das Zentrum des islamischen Goldenen Zeitalters – Mathematik, Astronomie und Medizin wurden hier weiterentwickelt.",
+    "wahrzeichen": ["Al-Mustansiriya-Universität (eine der ältesten Universitäten der Welt)", "Nationalmuseum (weltbedeutende Sammlung mesopotamischer Kunstschätze)", "Tahrir-Platz", "Al-Shaheed-Monument"],
+    "beschreibung": "Bagdad liegt am Tigris und ist eine der ältesten Hauptstädte der Welt. Im mittelalterlichen 'Goldenen Zeitalter des Islam' war Bagdad das intellektuelle Zentrum der Welt – hier wurden Bücher gesammelt, Wissenschaften betrieben und Entdeckungen gemacht, die bis heute nachwirken. Das Nationalmuseum beherbergt unschätzbare Schätze aus der 7.000-jährigen Geschichte Mesopotamiens."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Der Irak kehrt nach 40 Jahren zur WM zurück! Die erste und bisher einzige Teilnahme war 1986 in Mexiko – dort verloren die Löwen alle drei Gruppenspiele. Die WM-Qualifikation 2026 war eine epische Odyssee: 21 Spiele auf drei Kontinenten, mit dem entscheidenden Elfmeter in der 17. Minute der Nachspielzeit im Play-off-Finale gegen Bolivien!",
+    "gruppe": "I",
+    "gruppenGegner": ["Norwegen", "Frankreich", "Senegal"],
+    "spielorte": {
+      "Norwegen": "Gillette Stadium, Boston",
+      "Frankreich": "Lincoln Financial Field, Philadelphia",
+      "Senegal": "BMO Field, Toronto"
+    },
+    "spieltermine": {
+      "Norwegen": "17. Juni 2026",
+      "Frankreich": "22. Juni 2026",
+      "Senegal": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Graham Arnold",
+      "nationalitaet": "Australisch",
+      "besonderheit": "Der Australier führte zuvor Australien zur WM 2022 – und jetzt den Irak zur WM 2026. Damit ist er einer der sehr wenigen Trainer, die zwei verschiedene Länder derselben Konföderation (AFC) zur WM geführt haben. Früher selbst australischer Nationalspieler."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien) + interkontinentale Play-offs",
+      "beschreibung": "In der zweiten AFC-Runde makellos: 6 Siege aus 6 Spielen. In der dritten Runde als Gruppendritter in die interkontinentalen Play-offs. Dort der entscheidende Elfmeter durch Amir Al-Ammari in der 17. Minute der Nachspielzeit im Halbfinale gegen die UAE – und dann ein 2:1-Sieg gegen Bolivien im Play-off-Finale. Ein dramatischer Weg zur WM."
+    },
+    "kapitaen": "Jalal Hassan",
+    "teilnahmen_gesamt": 2,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (1986) – alle drei Spiele verloren",
+    "asienmeister_titel": 1,
+    "asienmeister_jahre": [2007],
+    "stars": [
+      {
+        "name": "Zidane Iqbal",
+        "verein": "FC Utrecht (Niederlande)",
+        "position": "Mittelfeld",
+        "alter": 23,
+        "besonderheit": "In der Jugend bei Manchester United ausgebildet! Sein Name ist eine Hommage an die Legende Zinédine Zidane.",
+        "rolle": "Technisch stärkster Spieler des Kaders – bringt Kreativität und Ruhe ins Mittelfeld"
+      },
+      {
+        "name": "Aymen Hussein",
+        "verein": "Al-Karma SC (Irak)",
+        "position": "Stürmer",
+        "alter": 30,
+        "rolle": "Bester Torschütze der Qualifikation (9 Tore) – klassischer Strafraumstürmer, unverzichtbar"
+      },
+      {
+        "name": "Ali Al-Hamadi",
+        "verein": "Ipswich Town (England)",
+        "position": "Stürmer",
+        "alter": 24,
+        "rolle": "Athletischer Stürmer mit Erfahrung in der englischen Premier League – erzielte das WM-Ticket gegen Bolivien"
+      },
+      {
+        "name": "Jalal Hassan",
+        "verein": "Al-Zawraa (Irak)",
+        "position": "Torwart",
+        "länderspiele": 100,
+        "rolle": "Kapitän mit 100 Länderspielen – der Erfahrenste im Kader"
+      },
+      {
+        "name": "Ali Jasim",
+        "verein": "Al-Najma (Bahrain)",
+        "position": "Offensives Mittelfeld / Flügel",
+        "alter": 22,
+        "rolle": "Einziger Spieler, der alle 21 Qualifikationsspiele absolvierte – aufregendster junger Spieler des Teams"
+      },
+      {
+        "name": "Marko Farji",
+        "verein": "Venezia FC (Italien, Serie A)",
+        "position": "Stürmer / Flügel",
+        "alter": 22,
+        "rolle": "Jüngstes Talent – spielt in der italienischen Serie A bei Venezia"
+      }
+    ],
+    "kader_besonderheit": "Viele Spieler im Kader haben europäische Wurzeln oder wurden in Europa geboren – Aimar Sher (in Schweden geboren, durchlief schwedische U-Teams), Youssef Amyn (in Essen geboren!), Marko Farji (bei Venezia), Zidane Iqbal (Manchester-United-Akademie). Der Irak ist ein klassisches Diaspora-Team.",
+    "deutschland_bezug": "Youssef Amyn wurde in Essen geboren und wuchs in Deutschland auf – trotzdem entschied er sich für den Irak. Ein echter Lokalbezug für eure Schüler!",
+    "fun_fact": "Zidane Iqbal heißt wirklich so – benannt nach der Fußballikone Zinédine Zidane! Er wurde in der Manchester-United-Akademie ausgebildet und spielt jetzt für den Irak bei seiner ersten WM. Und Youssef Amyn wurde in Essen in Deutschland geboren – er ist also fast ein Nachbar! Der Irak ist die Heimat von Mesopotamien, wo vor 5.000 Jahren das Schreiben erfunden wurde – hier begann die Geschichte der Menschheit!"
+  }
+}

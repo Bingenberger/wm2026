@@ -1,0 +1,120 @@
+{
+  "land": "Kolumbien",
+  "offizieller_name": "Republik Kolumbien",
+  "spitzname": "Los Cafeteros (Die Kaffeeanbauer) / La Tricolor",
+  "flagge": "Drei waagerechte Streifen: Gelb (oben, doppelt so breit), Blau (Mitte), Rot (unten). Gelb steht für den Reichtum des Landes (Gold, Kaffee), Blau für die Meere und den Himmel, Rot für das Blut der Helden.",
+
+  "steckbrief": {
+    "hauptstadt": "Bogotá",
+    "einwohner": "ca. 52 Millionen",
+    "sprache": "Spanisch",
+    "waehrung": "Kolumbianischer Peso (COP)",
+    "lage": "Südamerika – nordwestliche Ecke, grenzt an Venezuela, Brasilien, Peru, Ecuador und Panama. Einziges Land Südamerikas mit Küsten am Pazifik UND am Atlantik/Karibik.",
+    "nachbarn": ["Venezuela", "Brasilien", "Peru", "Ecuador", "Panama"],
+    "bekannt_fuer": ["Kaffee (weltberühmt, 'Juan Valdez')", "Blumen (größter Blumenexporteur der Welt nach den Niederlanden)", "Gabriel García Márquez (Literaturnobelpreisträger)", "Shakira (Sängerin aus Barranquilla)", "Bunte Städte wie Cartagena", "Emeralds – Kolumbien produziert 90% der Weltproduktion"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Kolumbien ist das Land des weltberühmten Kaffees – und von Shakira! Und bei der WM 2014 tanzte James Rodríguez das ganze Land in einen Rausch mit dem schönsten Tor des Turniers.",
+    "lang": "Kolumbien liegt in der Nordwestecke Südamerikas und hat eine einzigartige geografische Lage: Es ist das einzige Land Südamerikas mit Küsten sowohl am Pazifik als auch am Atlantik/Karibik. Das Land ist weltberühmt für seinen Kaffee – 'Juan Valdez', der Kaffeebauer mit dem Maultier, ist eines der bekanntesten Markensymbole der Welt. Kolumbien ist auch der weltgrößte Exporteur von Smaragden – 90% der Weltproduktion kommen von hier! Der Schriftsteller Gabriel García Márquez, der 1982 den Nobelpreis für Literatur gewann, war Kolumbianer. Und Shakira – eine der bekanntesten Popstars der Welt – wurde in Barranquilla, Kolumbien, geboren. Bei der WM 2014 verzauberte Kolumbien die Welt: James Rodríguez schoss das schönste Tor des Turniers und wurde Torschützenkönig."
+  },
+
+  "hauptstadt": {
+    "name": "Bogotá",
+    "einwohner": "ca. 8 Millionen",
+    "hoehe": "ca. 2.640 Meter über dem Meeresspiegel – eine der höchstgelegenen Hauptstädte der Welt",
+    "lage": "Hochebene in den Anden, mitten im Land",
+    "wahrzeichen": ["Gold-Museum (Museo del Oro – größte Goldsammlung der Welt)", "La Candelaria (historisches Zentrum)", "Monserrate-Berg (Wallfahrtsort, per Seilbahn erreichbar)", "Botero-Museum (Kunst des berühmtesten kolumbianischen Malers)"],
+    "beschreibung": "Bogotá ist eine riesige, lebendige Millionenstadt auf fast 2.650 Metern Höhe in den Anden. Das Gold-Museum beherbergt über 55.000 Goldstücke der indigenen Vorkolumbianischen Kulturen – die größte Goldsammlung der Welt! Die kolumbianische Kunst ist weltbekannt durch Fernando Botero, der für seine rundlichen, üppigen Figuren berühmt ist."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Kolumbien kehrt nach der verpassten WM 2022 zurück! Die Cafeteros erreichten 2024 das Finale der Copa América (verloren erst im Finale gegen Argentinien) und waren unter Trainer Lorenzo 28 Spiele lang ungeschlagen. Auf dem Weg zur WM 2026 schlug Kolumbien sowohl Weltmeister Argentinien als auch Rekordweltmeister Brasilien!",
+    "gruppe": "K",
+    "gruppenGegner": ["Usbekistan", "DR Kongo", "Portugal"],
+    "spielorte": {
+      "Usbekistan": "Estadio Azteca, Mexiko-Stadt",
+      "DR Kongo": "Estadio Akron, Guadalajara",
+      "Portugal": "Hard Rock Stadium, Miami"
+    },
+    "spieltermine": {
+      "Usbekistan": "18. Juni 2026",
+      "DR Kongo": "24. Juni 2026",
+      "Portugal": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Néstor Lorenzo",
+      "nationalitaet": "Argentinisch",
+      "alter": 60,
+      "besonderheit": "Übernahm Kolumbien im Juni 2022 nach dem verpassten WM-Ticket. War jahrelang Assistent der Trainerlegende José Pekerman und kennt den kolumbianischen Fußball wie kein anderer. Führte das Team 28 Spiele lang ungeschlagen und ins Copa-América-Finale 2024."
+    },
+    "qualifikation": {
+      "weg": "CONMEBOL (Südamerika)",
+      "platz": 3,
+      "beschreibung": "Dritter Platz hinter Argentinien und Ecuador. Kolumbien schlug dabei Weltmeister Argentinien (2:1) und Brasilien (2:1) – zwei Siege gegen die stärksten Teams des Kontinents."
+    },
+    "kapitaen": "James Rodríguez",
+    "teilnahmen_gesamt": 7,
+    "wm_titel": 0,
+    "copa_america_titel": 1,
+    "bestes_ergebnis": "Viertelfinale (WM 2014 in Brasilien)",
+    "letztes_turnier": {
+      "jahr": 2018,
+      "austragungsort": "Russland",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "England (Elfmeterschießen)"
+    },
+    "bundesliga_bezug": [
+      "Luis Díaz – Stürmer (FC Bayern München) – aktueller Bundesliga-Profi und größter Star",
+      "Gustavo Puerta – Mittelfeld (Racing de Santander, früher Bayer 04 Leverkusen) – Ex-Bundesliga",
+      "Jhon Córdoba – Stürmer (FK Krasnodar, früher 1. FSV Mainz 05 und 1. FC Köln) – Ex-Bundesliga"
+    ],
+    "stars": [
+      {
+        "name": "Luis Díaz",
+        "verein": "FC Bayern München",
+        "position": "Linksaußen / Stürmer",
+        "alter": 29,
+        "rolle": "Wichtigster Spieler und Aushängeschild – wechselte 2025 von Liverpool zu Bayern München. In der WM-Qualifikation bester Torschütze Kolumbiens. Explosiv, trickreich, unberechenbar."
+      },
+      {
+        "name": "James Rodríguez",
+        "verein": "Minnesota United FC (USA, MLS)",
+        "position": "Offensives Mittelfeld",
+        "alter": 34,
+        "bundesliga_vergangenheit": "FC Bayern München (2017–2019)",
+        "rolle": "Kapitän und Legende – WM-Torschützenkönig 2014 mit 6 Toren, sein Volleytor gegen Uruguay gilt als das schönste Tor der WM-Geschichte. Spielte von 2017–2019 beim FC Bayern München. Dies ist wahrscheinlich seine letzte WM."
+      },
+      {
+        "name": "Richard Ríos",
+        "verein": "SL Benfica (Portugal)",
+        "position": "Mittelfeld",
+        "alter": 26,
+        "rolle": "Aufsteigende neue Kraft – bei Benfica Lissabon zum Top-Mittelfeldspieler gereift, gilt als wichtigste Zukunftshoffnung"
+      },
+      {
+        "name": "Davinson Sánchez",
+        "verein": "Galatasaray Istanbul",
+        "position": "Innenverteidiger",
+        "rolle": "Erfahrener Abwehrchef – früher bei Tottenham Hotspur, solide und kampfstark"
+      },
+      {
+        "name": "Cucho Hernández",
+        "verein": "Real Betis (Spanien)",
+        "position": "Stürmer",
+        "alter": 27,
+        "rolle": "Athletischer Stürmer – bekannt für akrobatische Tore und Tempoläufe"
+      },
+      {
+        "name": "Jefferson Lerma",
+        "verein": "Crystal Palace (England)",
+        "position": "Defensives Mittelfeld",
+        "alter": 31,
+        "rolle": "Kampfstarker Abräumer im Mittelfeld – langjährige Premier-League-Erfahrung"
+      }
+    ],
+    "fun_fact": "Luis Díaz spielt beim FC Bayern München – und führt Kolumbien zur WM! James Rodríguez spielte früher auch beim FC Bayern (2017–2019) und ist jetzt Kapitän der Nationalmannschaft. Shakira, eine der bekanntesten Sängerinnen der Welt ('Waka Waka' – der offizielle WM-Song 2010!), stammt aus Kolumbien. Und beim Copa-América-Finale 2024 verlor Kolumbien erst ganz knapp gegen Argentinien mit Lionel Messi – die Revanche wartet!"
+  }
+}

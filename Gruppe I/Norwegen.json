@@ -1,0 +1,119 @@
+{
+  "land": "Norwegen",
+  "offizieller_name": "Königreich Norwegen",
+  "spitzname": "Løvene (Die Löwen) / Vikingene (Die Wikinger)",
+  "flagge": "Rotes Feld mit einem blauen Kreuz, das von weißen Streifen eingerahmt ist – das nordische Kreuz, dessen senkrechter Balken leicht links der Mitte liegt. Rot und Blau sind die Nationalfarben.",
+
+  "steckbrief": {
+    "hauptstadt": "Oslo",
+    "einwohner": "ca. 5,5 Millionen",
+    "sprache": "Norwegisch (in zwei offiziellen Schriftformen: Bokmål und Nynorsk)",
+    "waehrung": "Norwegische Krone (NOK)",
+    "lage": "Nordeuropa – Skandinavische Halbinsel, grenzt an Schweden, Finnland und Russland. Langer Atlantikküste im Westen.",
+    "nachbarn": ["Schweden (Osten)", "Finnland (Nordosten)", "Russland (Nordosten)"],
+    "bekannt_fuer": ["Fjorde – tiefe, spektakuläre Meeresarme zwischen Bergen", "Nordlichter (Aurora Borealis)", "Wikinger", "Lachs und Stockfisch", "Wintersport (Biathlon, Skilanglauf)", "Erling Haaland – bester Stürmer der Welt!"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Norwegen ist das Land der Fjorde, Wikinger und Nordlichter – und von Erling Haaland, dem besten Stürmer der Welt! Nach 28 Jahren Pause kehrt Norwegen endlich zur WM zurück.",
+    "lang": "Norwegen liegt ganz oben in Nordeuropa, zwischen dem Atlantik und Skandinavien. Das Land ist berühmt für seine spektakulären Fjorde – das sind tiefe, von Gletschern ausgehöhlte Meeresarme, die sich bis weit ins Gebirge erstrecken. Der Geirangerfjord und der Nærøyfjord gehören zum UNESCO-Welterbe. Im Norden, hinter dem Polarkreis, kann man im Winter die faszinierenden Nordlichter (Aurora Borealis) sehen – bunte Lichtvorhänge am Himmel. Die Wikinger, die vor über 1.000 Jahren von Norwegen aus in alle Welt segelten, sind bis heute ein Symbol des Landes. Norwegen ist auch ein Ski-Paradies: Kein Land gewinnt bei Olympischen Winterspielen mehr Medaillen! Und in der Gegenwart ist Erling Haaland das Aushängeschild des Landes – einer der besten Fußballer der Welt."
+  },
+
+  "hauptstadt": {
+    "name": "Oslo",
+    "einwohner": "ca. 700.000",
+    "lage": "Südostküste Norwegens, am Oslofjord",
+    "wahrzeichen": ["Vigeland-Skulpturenpark (212 Bronzeskulpturen im Freien)", "Akershus-Festung (mittelalterliches Schloss am Hafen)", "Munch-Museum (Edvard Munchs 'Der Schrei')", "Oslofjord-Küste", "Holmenkollen (Skischanze)"],
+    "beschreibung": "Oslo ist eine moderne, grüne Hauptstadt am Oslofjord. Der Vigeland-Skulpturenpark, mit über 200 Bronzeskulpturen des Künstlers Gustav Vigeland, ist einer der ungewöhnlichsten Parks der Welt – und kostenlos! Im Munch-Museum kann man das Original von 'Der Schrei' bewundern – eines der bekanntesten Gemälde der Welt. Die Holmenkollen-Skischanze über der Stadt ist das Mekka des Skisprungs."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Norwegen kehrt nach 28 Jahren Pause zur WM zurück – die letzte Teilnahme war 1998! Die WM-Qualifikation war makellos: 8 Siege in 8 Spielen. Erling Haaland erzielte in der Qualifikation 16 Tore in nur 8 Spielen – ein Rekord. Und den WM-Kader verkündete kein Geringerer als König Harald V. persönlich in einem Video!",
+    "gruppe": "I",
+    "gruppenGegner": ["Irak", "Senegal", "Frankreich"],
+    "spielorte": {
+      "Irak": "Gillette Stadium, Boston",
+      "Senegal": "MetLife Stadium, New York/New Jersey",
+      "Frankreich": "Gillette Stadium, Boston"
+    },
+    "spieltermine": {
+      "Irak": "17. Juni 2026",
+      "Senegal": "23. Juni 2026",
+      "Frankreich": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Ståle Solbakken",
+      "nationalitaet": "Norwegisch",
+      "alter": 58,
+      "besonderheit": "Früher selbst Nationalspieler – stand 1998 bei der letzten WM-Teilnahme Norwegens selbst auf dem Platz! Als Trainer betreute er u.a. den 1. FC Köln in der Bundesliga. Übernahm die Nationalmannschaft 2020 und führte sie ungeschlagen durch die WM-Qualifikation."
+    },
+    "qualifikation": {
+      "weg": "UEFA",
+      "beschreibung": "Makellos: 8 Siege in 8 Spielen! Highlights: 5:0 gegen Israel, 4:1 gegen Italien, 4:1 gegen Estland. Haaland erzielte 16 Tore in der Qualifikation – mehr als jeder andere Europäer."
+    },
+    "kapitaen": "Martin Ødegaard",
+    "teilnahmen_gesamt": 4,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Achtelfinale (WM 1998 – verloren gegen Italien 0:1)",
+    "historischer_erfolg": "1998: 2:1 gegen Brasilien in der Gruppenphase – eines der größten Überraschungsergebnisse der WM-Geschichte",
+    "letztes_turnier": {
+      "jahr": 1998,
+      "austragungsort": "Frankreich",
+      "ergebnis": "Achtelfinale",
+      "highlight": "2:1-Sieg gegen Brasilien in der Gruppenphase – unvergessliche Sensation"
+    },
+    "bundesliga_spieler": [
+      "Julian Ryerson – Rechtsverteidiger (Borussia Dortmund)",
+      "Antonio Nusa – Flügel (RB Leipzig)",
+      "Sander Tangvik – Torwart (Hamburger SV)"
+    ],
+    "stars": [
+      {
+        "name": "Erling Haaland",
+        "verein": "Manchester City (England)",
+        "position": "Stürmer",
+        "alter": 25,
+        "qualifikationstore": 16,
+        "rolle": "Bester Stürmer der Welt – bricht bei Manchester City Rekord für Rekord. Erzielte in der WM-Qualifikation 16 Tore in 8 Spielen. Diese WM ist sein erstes großes Turnier mit der Nationalmannschaft!"
+      },
+      {
+        "name": "Martin Ødegaard",
+        "verein": "FC Arsenal (England)",
+        "position": "Offensives Mittelfeld",
+        "alter": 27,
+        "rolle": "Kapitän und Spielmacher – Premier-League-Sieger mit Arsenal, einer der besten Mittelfeldspieler Europas"
+      },
+      {
+        "name": "Alexander Sørloth",
+        "verein": "Atlético Madrid (Spanien)",
+        "position": "Stürmer",
+        "alter": 29,
+        "rolle": "Zweite Sturmspitze – torgefährlicher Backup für Haaland bei Atlético Madrid"
+      },
+      {
+        "name": "Julian Ryerson",
+        "verein": "Borussia Dortmund",
+        "position": "Rechtsverteidiger",
+        "alter": 28,
+        "rolle": "Offensivstarker Rechtsverteidiger bei Borussia Dortmund – erzielte in der Saison zweistellige Vorlagenzahlen"
+      },
+      {
+        "name": "Antonio Nusa",
+        "verein": "RB Leipzig",
+        "position": "Flügel",
+        "alter": 21,
+        "rolle": "Explosiver Außenstürmer bei RB Leipzig – größtes Aufregungstalent im Kader"
+      },
+      {
+        "name": "Sander Tangvik",
+        "verein": "Hamburger SV",
+        "position": "Torwart",
+        "alter": 23,
+        "rolle": "Aufsteigendes Torwarttalent beim HSV – jüngster Spieler im Kader"
+      }
+    ],
+    "fun_fact": "Den WM-Kader Norwegens verkündete kein Geringerer als König Harald V. – der 89-jährige Monarch in einem emotionalen Video. Er sagte: 'Dieses Team ist das Team aller Norweger!' Erling Haaland erzielte in der Qualifikation 16 Tore in nur 8 Spielen – das ist fast doppelt so viele wie Harry Kane oder Kylian Mbappé! Und: Julian Ryerson (BVB), Antonio Nusa (RB Leipzig) und Sander Tangvik (HSV) spielen alle in der deutschen Bundesliga oder 2. Bundesliga."
+  }
+}

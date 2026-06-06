@@ -1,0 +1,119 @@
+{
+  "land": "Senegal",
+  "offizieller_name": "Republik Senegal",
+  "spitzname": "Lions de la Teranga (Löwen der Gastfreundschaft)",
+  "flagge": "Drei senkrechte Streifen: Grün (links), Gelb (Mitte), Rot (rechts) – in der Mitte des gelben Streifens ein grüner fünfzackiger Stern. Grün steht für den Islam und die Natur, Gelb für Wohlstand, Rot für das Blut der Gefallenen.",
+
+  "steckbrief": {
+    "hauptstadt": "Dakar",
+    "einwohner": "ca. 18 Millionen",
+    "sprachen": ["Französisch (Amtssprache)", "Wolof (Nationalsprache, von den meisten gesprochen)", "und viele weitere lokale Sprachen"],
+    "waehrung": "CFA-Franc (XOF)",
+    "lage": "Westafrika – am westlichsten Punkt Afrikas, direkt am Atlantik",
+    "nachbarn": ["Mauretanien (Norden)", "Mali (Osten)", "Guinea (Süden)", "Guinea-Bissau (Süden)", "Gambia (umschlossen von Senegal!)"],
+    "bekannt_fuer": ["Dakar-Rallye (berühmtestes Offroad-Rennen der Welt)", "Teranga – Wolof-Wort für Gastfreundschaft", "Gorée-Insel (UNESCO-Welterbe – Symbol des Sklavenhandels)", "Musik (Mbalax – senegalesische Rhythmen)", "Baobab-Bäume (die 'Bäume des Lebens')", "Sadio Mané – einer der besten Fußballer Afrikas aller Zeiten"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Senegal ist das westlichste Land Afrikas und bekannt für seine Gastfreundschaft – 'Teranga' bedeutet auf Wolof genau das! Und Sadio Mané gehört zu den besten Fußballern, die Afrika je hervorgebracht hat.",
+    "lang": "Senegal liegt ganz im Westen Afrikas, am Atlantischen Ozean – Dakar ist der westlichste Punkt des afrikanischen Kontinents! Das Land ist bekannt für sein Wort 'Teranga', das auf Wolof Gastfreundschaft bedeutet – kein Wunder, dass auch der Spitzname der Nationalmannschaft dieses Wort trägt. Besonders bekannt ist Senegal auch für die Gorée-Insel: Von dieser kleinen Insel vor Dakar wurden Jahrhunderte lang versklavte Menschen nach Amerika verschifft. Heute ist sie UNESCO-Welterbe und ein wichtiger Erinnerungsort. Die Baobab-Bäume, riesige dicke Bäume, die Jahrtausende alt werden können, sind das Symbol Senegals. Und die Dakar-Rallye – das härteste Geländerennen der Welt – trägt den Namen der Hauptstadt, obwohl es heute gar nicht mehr in Senegal stattfindet."
+  },
+
+  "hauptstadt": {
+    "name": "Dakar",
+    "einwohner": "ca. 3,7 Millionen",
+    "lage": "Halbinsel Cap-Vert – westlichster Punkt des afrikanischen Kontinents",
+    "wahrzeichen": ["Monument de la Renaissance Africaine (49 m hohe Bronzestatue – größte Statue Afrikas)", "Gorée-Insel (UNESCO-Welterbe, per Fähre erreichbar)", "Nationalmuseum", "Stade Léopold Sédar Senghor (80.000 Plätze)"],
+    "beschreibung": "Dakar ist eine lebendige, bunte Metropole am Meer. Die Gorée-Insel, nur wenige Minuten per Fähre entfernt, war ein zentraler Umschlagplatz des transatlantischen Sklavenhandels – heute ein Mahnmal und Weltkulturerbe. Das Monument de la Renaissance Africaine auf einem Hügel ist mit 49 Metern die größte Statue Afrikas und symbolisiert Senegals Aufbruch in eine neue Ära."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Senegals WM-Debüt 2002 war eine der größten Sensationen der Fußballgeschichte: Im Auftaktspiel schlugen die Löwen der Teranga den amtierenden Weltmeister Frankreich 1:0! Und 2026 treffen beide Teams zum Auftakt wieder aufeinander – diesmal ist Frankreich der aktuelle Europameister. Trainer Pape Thiaw stand 2002 selbst auf dem Rasen!",
+    "gruppe": "I",
+    "gruppenGegner": ["Frankreich", "Norwegen", "Irak"],
+    "spielorte": {
+      "Frankreich": "MetLife Stadium, New York/New Jersey",
+      "Norwegen": "MetLife Stadium, New York/New Jersey",
+      "Irak": "BMO Field, Toronto"
+    },
+    "spieltermine": {
+      "Frankreich": "16. Juni 2026",
+      "Norwegen": "23. Juni 2026",
+      "Irak": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Pape Thiaw",
+      "nationalitaet": "Senegalesisch",
+      "besonderheit": "Stand 2002 selbst auf dem Platz, als Senegal Weltmeister Frankreich schlug! Übernahm die Nationalmannschaft im Dezember 2024. Will als Coach die nächste Sensation schaffen – 24 Jahre nach dem historischen Sieg."
+    },
+    "qualifikation": {
+      "weg": "CAF (Afrika)",
+      "beschreibung": "Ungeschlagene Qualifikation: 7 Siege, 3 Unentschieden, 0 Niederlagen. Senegal sicherte sich das WM-Ticket am letzten Spieltag souverän und erzielte dabei 22 Tore bei nur 3 Gegentoren."
+    },
+    "kapitaen": "Kalidou Koulibaly",
+    "teilnahmen_gesamt": 4,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Viertelfinale (WM 2002 in Japan/Korea) – bestes WM-Ergebnis Senegals und eines der besten afrikanischer Teams",
+    "afrikacup_titel": 1,
+    "afrikacup_titel_jahre": [2022],
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "England (0:3)",
+      "besonderheit": "Sadio Mané verpasste die WM verletzungsbedingt – 2026 ist seine große Bühne!"
+    },
+    "bundesliga_spieler": [
+      "Nicolas Jackson – Stürmer (FC Bayern München) – frisch verpflichtet für die Saison 2026/27",
+      "Bara Sapoko Ndiaye – Mittelfeld (FC Bayern München, 18 Jahre!)"
+    ],
+    "stars": [
+      {
+        "name": "Sadio Mané",
+        "verein": "Al-Nassr (Saudi-Arabien)",
+        "position": "Linksaußen / Stürmer",
+        "alter": 34,
+        "länderspieltore": 53,
+        "rolle": "Rekordtorschütze Senegals mit 53 Treffern – einer der besten afrikanischen Spieler aller Zeiten. Verpasste die WM 2022 verletzt. Diese WM ist sein Abschied von der Nationalmannschaft. Früher bei Liverpool und Bayern München."
+      },
+      {
+        "name": "Nicolas Jackson",
+        "verein": "FC Bayern München",
+        "position": "Stürmer",
+        "alter": 24,
+        "rolle": "Nächste Sturmlegende – frisch vom FC Chelsea zum FC Bayern München gewechselt, torgefährlicher Mittelstürmer"
+      },
+      {
+        "name": "Kalidou Koulibaly",
+        "verein": "Al-Hilal (Saudi-Arabien)",
+        "position": "Innenverteidiger",
+        "alter": 34,
+        "rolle": "Kapitän – früher einer der besten Verteidiger der Welt bei SSC Neapel und FC Chelsea"
+      },
+      {
+        "name": "Iliman Ndiaye",
+        "verein": "Everton (England)",
+        "position": "Offensives Mittelfeld / Flügel",
+        "alter": 26,
+        "rolle": "Kreativer Mittelfeldspieler – in Sheffield United entdeckt, jetzt Premier-League-Stammkraft"
+      },
+      {
+        "name": "Pape Matar Sarr",
+        "verein": "Tottenham Hotspur (England)",
+        "position": "Mittelfeld",
+        "alter": 23,
+        "rolle": "Dynamischer Mittelfeldspieler bei Tottenham – Senegals Zukunft im Mittelfeld"
+      },
+      {
+        "name": "Bara Sapoko Ndiaye",
+        "verein": "FC Bayern München",
+        "position": "Mittelfeld",
+        "alter": 18,
+        "rolle": "Jüngstes Talent im Kader – 18-jähriges Toptalent beim FC Bayern München"
+      }
+    ],
+    "fun_fact": "2002 schlug Senegal bei seinem WM-Debüt den amtierenden Weltmeister Frankreich 1:0 – einer der größten Überraschungen der WM-Geschichte! Und 2026 treffen beide Teams zum Auftakt wieder aufeinander. Sadio Mané spielte früher beim FC Bayern München und beim FC Liverpool – und hört nach der WM 2026 mit der Nationalmannschaft auf. Nicolas Jackson und das 18-jährige Talent Bara Sapoko Ndiaye spielen beide beim FC Bayern – Senegal hat gleich zwei Bayern-Profis im Kader!"
+  }
+}

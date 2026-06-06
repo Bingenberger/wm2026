@@ -1,0 +1,944 @@
+/* ============================================================
+   WM 2026 Länder-Lexikon – Stylesheet
+   Mobile-first, touch-freundlich, kindgerecht
+   ============================================================ */
+
+/* --- CSS-Variablen --- */
+:root {
+  --gruen:       #1b6b2f;
+  --gruen-dark:  #124820;
+  --gruen-light: #2e8a47;
+  --gruen-pale:  #e8f5ec;
+  --gold:        #f0c030;
+  --gold-dark:   #d4a820;
+  --weiss:       #ffffff;
+  --bg:          #f2f7f3;
+  --bg-card:     #ffffff;
+  --text:        #1a1a1a;
+  --text-mid:    #444;
+  --text-light:  #777;
+  --schatten:    0 2px 12px rgba(0,0,0,0.12);
+  --schatten-lg: 0 8px 32px rgba(0,0,0,0.18);
+  --radius:      14px;
+  --radius-lg:   20px;
+  --radius-pill: 999px;
+  --transition:  0.2s ease;
+  --font:        'Nunito', 'Trebuchet MS', Arial, sans-serif;
+}
+
+/* --- Reset & Basis --- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  font-size: 16px;
+  line-height: 1.5;
+  overscroll-behavior: contain;
+  overflow-x: hidden; /* verhindert horizontales Seitenscrolling */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: var(--font);
+  font-size: 1rem;
+  background: none;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* --- HEADER --- */
+#site-header {
+  background: linear-gradient(135deg, var(--gruen-dark) 0%, var(--gruen) 100%);
+  color: var(--weiss);
+  padding: 20px 16px 18px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+
+.ball-icon {
+  font-size: 2.4rem;
+  line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+}
+
+.header-title h1 {
+  font-size: 1.8rem;
+  font-weight: 900;
+  letter-spacing: 1px;
+  line-height: 1.1;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.header-sub {
+  font-size: 0.85rem;
+  font-weight: 600;
+  opacity: 0.85;
+  letter-spacing: 0.5px;
+}
+
+.header-desc {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-top: 4px;
+}
+
+/* --- GRUPPEN-NAVIGATION --- */
+#group-nav {
+  background: var(--gruen-dark);
+  position: sticky;
+  top: var(--header-height, 0px);
+  z-index: 99;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.nav-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding: 8px 12px;
+}
+
+.nav-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.nav-inner {
+  display: flex;
+  gap: 4px;
+  width: max-content;      /* passt sich dem Inhalt an          */
+  min-width: 100%;         /* füllt aber mindestens die Leiste  */
+  justify-content: center; /* zentriert, wenn alles reinpasst   */
+}
+
+.nav-btn {
+  flex-shrink: 0;
+  padding: 8px 16px;
+  border-radius: var(--radius-pill);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.75);
+  transition: background var(--transition), color var(--transition);
+  white-space: nowrap;
+  min-height: 38px;
+  min-width: 44px;
+}
+
+.nav-btn:hover,
+.nav-btn:focus-visible {
+  background: rgba(255,255,255,0.15);
+  color: var(--weiss);
+  outline: none;
+}
+
+.nav-btn.active {
+  background: var(--gold);
+  color: var(--gruen-dark);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* --- HAUPTINHALT --- */
+#main-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 12px 40px;
+}
+
+/* --- GRUPPEN-ABSCHNITT --- */
+.gruppen-section {
+  margin-bottom: 32px;
+}
+
+.gruppen-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+  padding: 0 4px;
+}
+
+.gruppen-header h2 {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--gruen-dark);
+}
+
+.gruppen-trennlinie {
+  flex: 1;
+  height: 2px;
+  background: linear-gradient(to right, var(--gruen-light), transparent);
+  border-radius: 2px;
+}
+
+/* --- LÄNDER-GRID --- */
+.laender-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+@media (min-width: 480px) {
+  .laender-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+}
+
+@media (min-width: 700px) {
+  .laender-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  #main-content {
+    padding: 24px 20px 40px;
+  }
+  .laender-grid.single-gruppe {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+}
+
+/* --- LÄNDER-KARTE --- */
+.land-karte {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  box-shadow: var(--schatten);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition);
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  border: 2px solid transparent;
+  display: flex;
+  flex-direction: column;
+}
+
+.land-karte:hover,
+.land-karte:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: var(--schatten-lg);
+  border-color: var(--gruen-light);
+  outline: none;
+}
+
+.land-karte:active {
+  transform: translateY(0);
+}
+
+.land-flagge-wrapper {
+  width: 100%;
+  aspect-ratio: 3/2;
+  overflow: hidden;
+  background: #e0e0e0;
+}
+
+.land-flagge-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.3s ease;
+}
+
+.land-karte:hover .land-flagge-wrapper img {
+  transform: scale(1.04);
+}
+
+.land-info {
+  padding: 10px 12px 12px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 4px;
+}
+
+.land-name {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.land-spitzname {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  font-style: italic;
+  font-weight: 600;
+}
+
+.land-gruppe-badge {
+  display: inline-block;
+  background: var(--gruen);
+  color: var(--weiss);
+  font-size: 0.68rem;
+  font-weight: 800;
+  padding: 2px 7px;
+  border-radius: var(--radius-pill);
+  margin-top: 6px;
+  letter-spacing: 0.3px;
+  width: fit-content;
+}
+
+/* --- MODAL --- */
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: flex-end;
+}
+
+.modal[hidden] {
+  display: none;
+}
+
+.modal-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+}
+
+.modal-panel {
+  position: relative;
+  z-index: 1;
+  background: var(--bg-card);
+  width: 100%;
+  max-height: 95vh;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: slideUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); opacity: 0.5; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+
+@media (min-width: 700px) {
+  .modal {
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .modal-panel {
+    max-width: 780px;
+    max-height: 90vh;
+    border-radius: var(--radius-lg);
+    animation: fadeScaleIn 0.25s cubic-bezier(0.34, 1.2, 0.64, 1);
+  }
+  @keyframes fadeScaleIn {
+    from { transform: scale(0.92); opacity: 0; }
+    to   { transform: scale(1); opacity: 1; }
+  }
+}
+
+/* --- MODAL HEADER --- */
+.modal-header {
+  background: linear-gradient(135deg, var(--gruen-dark) 0%, var(--gruen) 100%);
+  color: var(--weiss);
+  padding: 14px 16px 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.back-btn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: rgba(255,255,255,0.9);
+  font-size: 0.9rem;
+  font-weight: 700;
+  padding: 6px 10px;
+  border-radius: var(--radius-pill);
+  transition: background var(--transition);
+  flex-shrink: 0;
+  min-height: 44px;
+  min-width: 44px;
+}
+
+.back-btn:hover,
+.back-btn:focus-visible {
+  background: rgba(255,255,255,0.15);
+  outline: none;
+}
+
+.modal-country-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+  min-width: 0;
+}
+
+.modal-flag-img {
+  width: 56px;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  flex-shrink: 0;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+
+.modal-country-title h2 {
+  font-size: 1.15rem;
+  font-weight: 900;
+  line-height: 1.1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.modal-country-title #modal-spitzname {
+  font-size: 0.8rem;
+  opacity: 0.8;
+  font-style: italic;
+}
+
+.gruppe-badge {
+  flex-shrink: 0;
+  background: var(--gold);
+  color: var(--gruen-dark);
+  font-weight: 900;
+  font-size: 0.85rem;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  white-space: nowrap;
+}
+
+/* --- MODAL TABS --- */
+.modal-tabs {
+  display: flex;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  background: var(--weiss);
+  border-bottom: 2px solid #e8e8e8;
+  flex-shrink: 0;
+  padding: 0 8px;
+}
+
+.modal-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tab-btn {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 10px 14px 8px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-light);
+  border-bottom: 3px solid transparent;
+  transition: color var(--transition), border-color var(--transition);
+  min-height: 56px;
+  min-width: 44px;
+  white-space: nowrap;
+}
+
+.tab-btn .tab-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.tab-btn:hover,
+.tab-btn:focus-visible {
+  color: var(--gruen);
+  outline: none;
+}
+
+.tab-btn.active {
+  color: var(--gruen);
+  border-bottom-color: var(--gruen);
+}
+
+/* --- MODAL BODY --- */
+.modal-body {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 20px 16px;
+  background: var(--bg);
+}
+
+@media (min-width: 600px) {
+  .modal-body {
+    padding: 24px 24px;
+  }
+}
+
+/* --- ABSCHNITT-KARTEN im Modal --- */
+.info-karte {
+  background: var(--weiss);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+}
+
+.info-karte h3 {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--gruen-dark);
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--gruen-pale);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.info-karte h3 .section-icon {
+  font-size: 1.1rem;
+}
+
+/* --- STECKBRIEF-TABELLE --- */
+.steckbrief-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 12px;
+  font-size: 0.9rem;
+}
+
+.steckbrief-label {
+  font-weight: 700;
+  color: var(--text-mid);
+  white-space: nowrap;
+}
+
+.steckbrief-wert {
+  color: var(--text);
+}
+
+/* --- TAGS / CHIPS --- */
+.tag-liste {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.tag {
+  background: var(--gruen-pale);
+  color: var(--gruen-dark);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+}
+
+/* --- WISSENSWERTES --- */
+.wissenstext {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--text);
+}
+
+.kurz-fakt {
+  background: linear-gradient(135deg, var(--gruen-pale), #d4edda);
+  border-left: 4px solid var(--gruen);
+  padding: 12px 14px;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--gruen-dark);
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+
+/* --- WAHRZEICHEN-LISTE --- */
+.wahrzeichen-liste {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.wahrzeichen-liste li::before {
+  content: "★ ";
+  color: var(--gold-dark);
+  font-size: 0.9rem;
+}
+
+.wahrzeichen-liste li {
+  font-size: 0.88rem;
+  color: var(--text-mid);
+}
+
+/* --- SPIELPLAN-TABELLE --- */
+.spiele-tabelle {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.spiele-tabelle th {
+  background: var(--gruen-pale);
+  color: var(--gruen-dark);
+  font-weight: 800;
+  padding: 8px 10px;
+  text-align: left;
+  border-radius: 0;
+}
+
+.spiele-tabelle td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.spiele-tabelle tr:last-child td {
+  border-bottom: none;
+}
+
+/* --- SPIELER-KARTEN --- */
+.spieler-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+@media (min-width: 500px) {
+  .spieler-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.spieler-karte {
+  background: var(--bg);
+  border-radius: var(--radius);
+  padding: 12px;
+  border-left: 4px solid var(--gruen);
+}
+
+.spieler-name {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--text);
+  margin-bottom: 2px;
+}
+
+.spieler-position {
+  font-size: 0.78rem;
+  color: var(--gruen);
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.spieler-verein {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-bottom: 4px;
+}
+
+.spieler-rolle {
+  font-size: 0.8rem;
+  color: var(--text-mid);
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* --- FUN FACT --- */
+.fun-fact-box {
+  background: linear-gradient(135deg, #fff8e1, #fff3cd);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius);
+  padding: 14px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #5a4000;
+}
+
+.fun-fact-box strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 1rem;
+  color: #6b4c00;
+}
+
+/* --- WM-STATISTIKEN --- */
+.wm-stats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.stat-chip {
+  background: var(--gruen-pale);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  text-align: center;
+  flex: 1;
+  min-width: 80px;
+}
+
+.stat-zahl {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: var(--gruen-dark);
+  line-height: 1;
+  display: block;
+}
+
+.stat-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-mid);
+  margin-top: 2px;
+  display: block;
+  line-height: 1.3;
+}
+
+/* --- TRAINER-KARTE --- */
+.trainer-karte {
+  background: var(--bg);
+  border-radius: var(--radius);
+  padding: 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  border: 2px solid var(--gruen-pale);
+}
+
+.trainer-symbol {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+
+.trainer-name {
+  font-size: 1rem;
+  font-weight: 800;
+  margin-bottom: 2px;
+}
+
+.trainer-nation {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  margin-bottom: 4px;
+}
+
+.trainer-besonderheit {
+  font-size: 0.82rem;
+  color: var(--text-mid);
+  line-height: 1.45;
+  font-style: italic;
+}
+
+/* --- BILD-TABS (Karte, Postkarte, Trikot) --- */
+.bild-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+}
+
+.bild-container img {
+  border-radius: var(--radius);
+  box-shadow: var(--schatten-lg);
+  width: 100%;
+  max-width: 680px;
+}
+
+.bild-caption {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  text-align: center;
+  font-style: italic;
+}
+
+.trikot-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.trikot-container img {
+  max-width: 280px;
+  width: 70%;
+  border-radius: var(--radius);
+  box-shadow: var(--schatten-lg);
+  background: var(--weiss);
+  padding: 10px;
+}
+
+/* --- HYMNEN-PLAYER --- */
+.hymne-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.hymne-flag-gross {
+  width: 160px;
+  border-radius: 8px;
+  box-shadow: var(--schatten-lg);
+  aspect-ratio: 3/2;
+  object-fit: cover;
+}
+
+.hymne-titel {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--gruen-dark);
+  text-align: center;
+}
+
+.play-btn {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  background: var(--gruen);
+  color: var(--weiss);
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(27, 107, 47, 0.35);
+  transition: transform var(--transition), background var(--transition);
+}
+
+.play-btn:hover,
+.play-btn:focus-visible {
+  background: var(--gruen-light);
+  transform: scale(1.06);
+  outline: none;
+}
+
+.play-btn.playing {
+  background: #c0392b;
+}
+
+.play-btn.playing:hover {
+  background: #e74c3c;
+}
+
+.hymne-status {
+  font-size: 0.88rem;
+  color: var(--text-light);
+  font-style: italic;
+  text-align: center;
+}
+
+.keine-hymne-box {
+  text-align: center;
+  padding: 30px 20px;
+  background: var(--weiss);
+  border-radius: var(--radius);
+  border: 2px dashed #ddd;
+}
+
+.keine-hymne-icon {
+  font-size: 2.5rem;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.keine-hymne-box p {
+  color: var(--text-mid);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* --- LADEANIMATION --- */
+.skeleton {
+  background: linear-gradient(90deg, #e0e0e0 25%, #f0f0f0 50%, #e0e0e0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+  border-radius: 6px;
+  height: 16px;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* --- HILFREICH --- */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+}
+
+/* --- Responsive Anpassungen --- */
+@media (min-width: 700px) {
+  #site-header {
+    padding: 24px 24px 20px;
+  }
+  .header-title h1 {
+    font-size: 2.2rem;
+  }
+  .header-desc {
+    font-size: 1rem;
+  }
+  .modal-body {
+    max-height: calc(90vh - 160px);
+  }
+  .spieler-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1000px) {
+  .laender-grid:not(.single-gruppe) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* --- Fokus-Styles für Tastaturnavigation --- */
+:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* --- Print --- */
+@media print {
+  #group-nav, .modal { display: none; }
+}

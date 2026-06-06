@@ -1,0 +1,95 @@
+{
+  "land": "Haiti",
+  "offizieller_name": "Republik Haiti",
+  "spitzname": "Les Grenadiers (Die Grenadiere)",
+  "flagge": "Zwei waagerechte Streifen: Blau oben, Rot unten – in der Mitte das haitianische Wappen mit einer Palme und Kanonen. Haiti war das erste Land der Welt, das durch einen Sklavenaufstand unabhängig wurde.",
+
+  "steckbrief": {
+    "hauptstadt": "Port-au-Prince",
+    "einwohner": "ca. 12 Millionen",
+    "sprachen": ["Haitianisches Kreolisch", "Französisch"],
+    "waehrung": "Haitianische Gourde (HTG)",
+    "lage": "Karibik – westliche Hälfte der Insel Hispaniola, östlich von Kuba",
+    "nachbarn": ["Dominikanische Republik (östliche Hälfte derselben Insel)"],
+    "bekannt_fuer": ["Erstes unabhängiges Land der Karibik (1804)", "Erste erfolgreiche Sklavenrevolution der Geschichte", "Bunte Malerei und Kunst", "Voodoo-Kultur", "Tropenklima und Strände", "Starke Diaspora in Frankreich, USA und Kanada"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Haiti ist ein kleines Land in der Karibik mit einer ganz besonderen Geschichte: Es war das erste Land der Welt, das durch einen Sklavenaufstand frei wurde – und bei der WM 2026 ist es nach 52 Jahren wieder dabei!",
+    "lang": "Haiti liegt in der Karibik auf der Insel Hispaniola, die es sich mit der Dominikanischen Republik teilt. Haiti hat eine einzigartige Geschichte: Im Jahr 1804 wurde es zum ersten Land der Welt, das durch einen Sklavenaufstand seine Unabhängigkeit erkämpfte – das ist heute noch eine Quelle des Nationalstolzes. Das Land ist bekannt für seine bunte Malerei und Volkskunst, aber auch für schwierige Lebensbedingungen durch Naturkatastrophen und Armut. Die meisten Haitianer sprechen Haitianisch Kreolisch – eine Mischung aus Französisch und westafrikanischen Sprachen. Viele Haitianer leben heute in Frankreich, den USA und Kanada – das spiegelt sich auch im Fußballkader wider, der fast vollständig aus Spielern der Diaspora besteht!"
+  },
+
+  "hauptstadt": {
+    "name": "Port-au-Prince",
+    "einwohner": "ca. 3 Millionen (Großraum)",
+    "lage": "An der Westküste Haitis, am Golf von Gonâve",
+    "wahrzeichen": ["Cathédrale Notre-Dame de Port-au-Prince (schwer beschädigt durch Erdbeben 2010)", "Champ de Mars (Nationalplatz)", "Stade Sylvio Cator (Nationalstadion)", "Iron Market (Eisenmarkt)"],
+    "beschreibung": "Port-au-Prince ist die lebhafte, bunte Hauptstadt Haitis. Das Stade Sylvio Cator ist das Heimstadion der Nationalmannschaft. Wegen der Sicherheitslage im Land konnte Haiti während der gesamten WM-Qualifikation kein einziges Heimspiel in Port-au-Prince austragen – alle Spiele mussten auf neutralem Boden stattfinden."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Nur die zweite WM-Teilnahme der Geschichte – und die erste seit 52 Jahren! Haiti qualifizierte sich sensationell als Gruppensieger der CONCACAF-Qualifikation, ohne ein einziges Heimspiel austragen zu können (Sicherheitslage).",
+    "gruppe": "C",
+    "gruppenGegner": ["Schottland", "Brasilien", "Marokko"],
+    "spielorte": {
+      "Schottland": "Boston-Stadion, Boston",
+      "Brasilien": "Philadelphia-Stadion, Philadelphia",
+      "Marokko": "Atlanta-Stadion, Atlanta"
+    },
+    "spieltermine": {
+      "Schottland": "14. Juni 2026",
+      "Brasilien": "20. Juni 2026",
+      "Marokko": "25. Juni 2026"
+    },
+    "trainer": {
+      "name": "Sébastien Migné",
+      "nationalitaet": "Französisch",
+      "besonderheit": "Übernahm Haiti im März 2024. Nie selbst Profispieler, aber erfahrener Reisender als Coach – trainierte Nationalteams in Oman, DR Kongo, Togo, Kongo und Kenia. Vollbrachte mit Haiti ein Fußballwunder: die WM-Qualifikation gegen etablierte CONCACAF-Nationen."
+    },
+    "qualifikation": {
+      "weg": "CONCACAF (Nord- und Mittelamerika)",
+      "besonderheit_qualifikation": "Haiti musste alle Heimspiele auf neutralem Boden austragen – die Sicherheitslage in Port-au-Prince machte eigene Heimspiele unmöglich.",
+      "beschreibung": "Haiti setzte sich als Gruppensieger in der CONCACAF-Qualifikation durch und ließ dabei traditionelle WM-Nationen wie Costa Rica und Honduras hinter sich. Am letzten Spieltag reichte ein 2:0 gegen Nicaragua für die Qualifikation – grenzenloser Jubel in der Diaspora und auf der Insel."
+    },
+    "kapitaen": "Johny Placide",
+    "teilnahmen_gesamt": 2,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (WM 1974 in Deutschland)",
+    "wm_historia_1974": {
+      "austragungsort": "Deutschland (Westdeutschland)",
+      "gruppe_gegner": ["Italien", "Polen", "Argentinien"],
+      "beschreibung": "Bei der einzigen bisherigen WM-Teilnahme 1974 erzielte Emmanuel Sanon beim 1:3 gegen Italien ein unvergessliches Tor: Er durchbrach die legendäre Imbattability von Torwart Dino Zoff, der 1.143 Minuten lang kein WM-Gegentor kassiert hatte. Sanon wurde mit 47 Toren bis heute Haitis Rekordtorschütze."
+    },
+    "kader_besonderheit": "Der Kader besteht fast ausschließlich aus Spielern der haitianischen Diaspora – viele in Frankreich geboren oder aufgewachsen. Zwei Spieler wechselten erst kurz vor der WM ihre Nationalität von Frankreich zu Haiti: Wilson Isidor und Jean-Ricner Bellegarde.",
+    "stars": [
+      {
+        "name": "Wilson Isidor",
+        "verein": "AFC Sunderland (England)",
+        "position": "Stürmer",
+        "rolle": "Hoffnungsträger – entschied sich erst im März 2026 für Haiti statt Frankreich. Traf bei seinem Debüt direkt gegen Island."
+      },
+      {
+        "name": "Jean-Ricner Bellegarde",
+        "verein": "Wolverhampton Wanderers (England)",
+        "position": "Mittelfeld",
+        "rolle": "Zweiter Premier-League-Star im Kader, kreativer Spielmacher"
+      },
+      {
+        "name": "Johny Placide",
+        "verein": "SC Bastia (Frankreich)",
+        "position": "Torwart",
+        "alter": 38,
+        "rolle": "Kapitän und Rückhalt – erfahrener Torwart mit 38 Jahren"
+      },
+      {
+        "name": "Josue Duverger",
+        "verein": "FC Cosmos Koblenz (Deutschland, Oberliga)",
+        "position": "Torwart (Ersatz)",
+        "rolle": "Besondere Geschichte: Spielt in der deutschen 5. Liga (Oberliga) und ist dennoch für eine WM nominiert!"
+      }
+    ],
+    "fun_fact": "Haiti hat einen WM-Torhüter, der in der deutschen Oberliga (5. Liga) spielt – Josue Duverger vom FC Cosmos Koblenz! Das gab es noch nie bei einer WM. Und 1974 schoss Emmanuel Sanon ein Tor, das Geschichte schrieb: Er beendete die legendäre Serie des italienischen Torwarts Dino Zoff, der über 1.100 Minuten kein Gegentor kassiert hatte. Haiti ist die Überraschungsmannschaft der WM 2026!"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "land": "Usbekistan",
+  "offizieller_name": "Republik Usbekistan",
+  "spitzname": "Oq bo'rilar (Die Weißen Wölfe)",
+  "flagge": "Drei waagerechte Streifen: Blau (oben), Weiß (Mitte), Grün (unten) – dazwischen zwei dünne rote Linien als Trennstreifen. Auf dem blauen Streifen links: eine weiße Mondsichel und zwölf weiße Sterne (für die zwölf Monate). Blau steht für den Himmel und das Wasser, Weiß für Frieden, Grün für die Natur.",
+
+  "steckbrief": {
+    "hauptstadt": "Taschkent",
+    "einwohner": "ca. 36 Millionen",
+    "sprache": "Usbekisch",
+    "waehrung": "Usbekischer Sum (UZS)",
+    "lage": "Zentralasien – von Kasachstan, Tadschikistan, Kirgisistan, Afghanistan und Turkmenistan umgeben. Doppelt landlocked: Eines der weltweit zwei Länder, die von lauter Binnenstaaten umgeben sind!",
+    "nachbarn": ["Kasachstan (Norden)", "Tadschikistan (Osten)", "Kirgisistan (Nordosten)", "Afghanistan (Süden)", "Turkmenistan (Süden)"],
+    "bekannt_fuer": ["Seidenstraße – durch Samarkand und Buchara", "Samarkand – prächtige Moscheen und Paläste", "Baumwollproduktion (früher Zwangsarbeit)", "Granatstaat: Heiße Sommer, kalte Winter", "Ossobuchi-Melonen (weltberühmt süß!)", "Erste WM-Teilnahme 2026"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Usbekistan liegt mitten in Zentralasien und war früher das Herz der Seidenstraße – der berühmten Handelsroute zwischen China und Europa! Die Stadt Samarkand gehört zu den schönsten der Welt.",
+    "lang": "Usbekistan liegt in Zentralasien und war über Jahrhunderte das Herzstück der Seidenstraße – jener legendären Handelsroute, auf der Seide, Gewürze und Ideen zwischen China und Europa ausgetauscht wurden. Die Städte Samarkand und Buchara waren Zentren der islamischen Wissenschaft und Kultur – voller prächtiger Moscheen, Basare und Mausoleen. Samarkand gilt als eine der schönsten Städte Asiens: Die blau-türkisfarbenen Kuppeln und Minarette des Registan-Platzes leuchten im Sonnenlicht. Usbekistan ist auch ein 'doppelt landlocked'-Land: Es ist von Binnenstaaten umgeben, die selbst keinen Meereszugang haben – weltweit gibt es nur Usbekistan und Liechtenstein! Seit der Unabhängigkeit von der Sowjetunion 1991 entwickelt sich das Land rasant."
+  },
+
+  "hauptstadt": {
+    "name": "Taschkent",
+    "usbekisch": "Toshkent",
+    "einwohner": "ca. 3,5 Millionen",
+    "lage": "Nordosten Usbekistans, nahe der kasachischen Grenze",
+    "historische_bedeutung": "Eine der ältesten Städte Zentralasiens – über 2.000 Jahre alt. Im Mittelalter wichtige Karawanenstation der Seidenstraße.",
+    "wahrzeichen": ["Chorsu-Bazar (größter traditioneller Markt in Zentralasien)", "Hazrat-Imam-Komplex (historisches religiöses Zentrum)", "Fernsehturm Taschkent (375 m)", "Amir-Timur-Platz"],
+    "beschreibung": "Taschkent ist die größte Stadt Zentralasiens und eine moderne Metropole – denn nach einem schweren Erdbeben 1966 wurde fast alles neu gebaut. Trotzdem gibt es im Altstadt-Viertel noch traditionelle Basare und Moscheen. Der riesige Chorsu-Bazar ist ein Farbenspektakel aus Gewürzen, Früchten und Stoffen."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "historische_besonderheit": "Usbekistans allererste WM-Teilnahme! Nach 30 Jahren als unabhängiger Staat und sieben gescheiterten WM-Qualifikationsversuchen ist das Ticket nach Nordamerika endlich gelungen. Usbekistan ist die 50. Nation der Geschichte, die sich für eine WM-Endrunde qualifiziert hat. Trainer des Teams: Fabio Cannavaro – Weltmeister 2006 und Ballon-d'Or-Gewinner!",
+    "gruppe": "K",
+    "gruppenGegner": ["Kolumbien", "Portugal", "DR Kongo"],
+    "spielorte": {
+      "Kolumbien": "Estadio Azteca, Mexiko-Stadt",
+      "Portugal": "NRG Stadium, Houston",
+      "DR Kongo": "Mercedes-Benz Stadium, Atlanta"
+    },
+    "spieltermine": {
+      "Kolumbien": "18. Juni 2026",
+      "Portugal": "23. Juni 2026",
+      "DR Kongo": "28. Juni 2026"
+    },
+    "trainer": {
+      "name": "Fabio Cannavaro",
+      "nationalitaet": "Italienisch",
+      "alter": 52,
+      "besonderheit": "Weltmeister 2006 mit Italien – Kapitän der Squadra Azzurra im Finalspiel gegen Frankreich! Gewann im selben Jahr den Ballon d'Or als bester Spieler der Welt. Als Innenverteidiger einer der besten seiner Generation. Übernahm Usbekistan im Oktober 2025 und führt es zur ersten WM."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien)",
+      "beschreibung": "Starteten als Gruppensieger in der Asien-Qualifikation, danach in der dritten Runde. Abbosbek Fayzullaev war mit 5 Toren in der dritten Runde wichtigster Torschütze, Eldor Shomurodov traf 4 Mal."
+    },
+    "kapitaen": "Eldor Shomurodov",
+    "teilnahmen_gesamt": 1,
+    "erste_wm_teilnahme": 2026,
+    "wm_titel": 0,
+    "deutschland_bezug": "Waldemar Anton – im deutschen WM-Kader – wurde in Taschkent, Usbekistan geboren! Er spielt für Deutschland, ist also ein echter Usbeke im DFB-Team.",
+    "stars": [
+      {
+        "name": "Abduqodir Khusanov",
+        "verein": "Manchester City (England)",
+        "position": "Innenverteidiger",
+        "alter": 22,
+        "wechsel_ablöse": "40 Millionen Euro (von RC Lens zu Manchester City)",
+        "rolle": "Wertvollster Spieler – wechselte im Januar 2025 für 40 Millionen Euro zu Manchester City, wo er unter Pep Guardiola spielt. Schnellster Verteidiger im Kader, gewann den FA Cup mit City."
+      },
+      {
+        "name": "Eldor Shomurodov",
+        "verein": "İstanbul Başakşehir (Türkei)",
+        "position": "Stürmer",
+        "alter": 30,
+        "länderspieltore": "Rekordtorschütze Usbekistans",
+        "rolle": "Kapitän und Torjäger – früher bei AS Roma und Genua in der Serie A aktiv. In der Saison 2025/26 mit 22 Ligator der Torschützenkönig der türkischen Süper Lig."
+      },
+      {
+        "name": "Abbosbek Fayzullaev",
+        "verein": "İstanbul Başakşehir (Türkei)",
+        "position": "Linksaußen",
+        "alter": 22,
+        "rolle": "Aufregendster junger Spieler – spielte alle 16 Qualifikationsspiele durch, 5 Qualifikationstori in der entscheidenden Runde. Schnell und dribbelstark."
+      }
+    ],
+    "kader_besonderheit": "Großteil des Kaders spielt in der heimischen Liga oder in Iran und den Vereinigten Arabischen Emiraten. Khusanov (Man City), Shomurodov und Fayzullaev (beide Başakşehir) sind die bekanntesten Legionäre.",
+    "fun_fact": "Fabio Cannavaro – Weltmeister 2006 und Ballon-d'Or-Sieger – trainiert Usbekistan bei der WM! Das ist wie wenn Franz Beckenbauer Marokko trainiert hätte. Und Waldemar Anton, der für Deutschland bei der WM spielt, wurde in Taschkent, Usbekistan geboren – ein echter Usbeke im DFB-Team! Usbekistan ist eines von nur zwei Ländern der Welt, die von Binnenstaaten umgeben sind – das andere ist Liechtenstein!"
+  }
+}

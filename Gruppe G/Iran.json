@@ -1,0 +1,107 @@
+{
+  "land": "Iran",
+  "offizieller_name": "Islamische Republik Iran",
+  "spitzname": "Team Melli (Nationalteam auf Persisch)",
+  "flagge": "Drei waagerechte Streifen: Grün (oben), Weiß (Mitte), Rot (unten). In der Mitte ein rotes Staatsemblem (stilisiertes 'Allah' in Schwerter-Form). Am Rand von Grün und Rot steht 22 Mal der Satz 'Allahu Akbar' (Gott ist groß) in weißer Schrift.",
+
+  "steckbrief": {
+    "hauptstadt": "Teheran",
+    "einwohner": "ca. 90 Millionen",
+    "sprache": "Persisch (Farsi)",
+    "waehrung": "Iranischer Rial (IRR)",
+    "lage": "Westasien (Naher Osten) – zwischen dem Kaspischen Meer im Norden und dem Persischen Golf im Süden",
+    "nachbarn": ["Türkei", "Irak", "Armenien", "Aserbaidschan", "Turkmenistan", "Afghanistan", "Pakistan"],
+    "bekannt_fuer": ["Persepolis – Ruinen der alten Hauptstadt des Persischen Reiches", "Teppiche (persische Teppiche weltberühmt)", "Pistazien und Granatäpfel", "Persische Küche und Safran", "Eines der ältesten Reiche der Geschichte", "Polo – im alten Persien erfunden!"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Der Iran hat eine über 2.500 Jahre alte Geschichte – das Persische Reich war einst das größte Reich der Welt! Und Polo, das Reiterspiel, wurde im alten Persien erfunden.",
+    "lang": "Der Iran liegt im Herzen des Nahen Ostens und ist eines der ältesten Länder der Welt. Das Persische Reich unter König Kyros dem Großen war vor 2.500 Jahren das größte Reich, das die Welt bis dahin gesehen hatte – es erstreckte sich von Griechenland bis nach Indien! Die Ruinen der alten Palaststadt Persepolis sind heute UNESCO-Welterbe. Der Iran ist bekannt für seine wunderschönen Basare voller bunter Gewürze und Teppiche – persische Teppiche sind weltweit berühmt für ihre feinen Muster. Die Sprache heißt Persisch (Farsi) und verwendet eine eigene, von rechts nach links geschriebene Schrift. Und wusstest du? Polo, das bekannte Reiterspiel, wurde im alten Persien erfunden!"
+  },
+
+  "hauptstadt": {
+    "name": "Teheran",
+    "persisch": "تهران",
+    "einwohner": "ca. 9 Millionen (Großraum ca. 16 Millionen)",
+    "lage": "Nordiranische Hochebene, an den Ausläufern des Elburs-Gebirges",
+    "wahrzeichen": ["Azadi-Turm (Freiheitsturm, Wahrzeichen der Stadt)", "Golestan-Palast (UNESCO-Welterbe)", "Milad-Turm (6.-höchster Turm der Welt)", "Grand Bazaar von Teheran"],
+    "beschreibung": "Teheran ist eine riesige, lebendige Metropole am Fuß des schneebedeckten Elburs-Gebirges. Der Azadi-Turm, erbaut 1971, ist das Wahrzeichen der Stadt – ein 45 Meter hoher weißer Turm in einer Mischung aus islamischer und moderner Architektur. Das Azadi-Stadion, Heimstadion des Nationalteams, fasst 100.000 Zuschauer und ist eines der größten Fußballstadien der Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Siebenmal bei der WM – und noch nie die Vorrunde überstanden! Das soll sich 2026 endlich ändern. Die Qualifikation war beeindruckend: Nur eine Niederlage in 16 Spielen. Starspieler Mehdi Taremi erzielte allein 10 Tore in der Qualifikation.",
+    "gruppe": "G",
+    "gruppenGegner": ["Neuseeland", "Belgien", "Ägypten"],
+    "spielorte": {
+      "Neuseeland": "SoFi Stadium, Los Angeles",
+      "Belgien": "SoFi Stadium, Los Angeles",
+      "Ägypten": "Lumen Field, Seattle"
+    },
+    "spieltermine": {
+      "Neuseeland": "16. Juni 2026",
+      "Belgien": "21. Juni 2026",
+      "Ägypten": "27. Juni 2026"
+    },
+    "trainer": {
+      "name": "Amir Ghalenoei",
+      "nationalitaet": "Iranisch",
+      "spitzname": "Der General",
+      "besonderheit": "Früher selbst Nationalspieler und erfolgreicher Klubtrainer (vier iranische Meisterschaften). Übernahm das Nationalteam 2023 und führte es mit nur einer Niederlage in 16 Qualifikationsspielen zur WM."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien)",
+      "beschreibung": "Starke Qualifikation: Nur eine Niederlage in 16 Spielen. Mehdi Taremi traf 10 Mal in 15 Qualifikationsspielen. Iran qualifizierte sich als einer der ersten asiatischen Teilnehmer."
+    },
+    "kapitaen": "Alireza Jahanbakhsh",
+    "teilnahmen_gesamt": 7,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (alle sechs bisherigen Teilnahmen) – aber stets nah dran!",
+    "historische_momente": [
+      "1998: 2:1-Sieg gegen die USA – eines der politisch bedeutsamsten Spiele der WM-Geschichte",
+      "2014: 0:1 gegen Argentinien – Messi traf erst in der Nachspielzeit",
+      "2018: 1:1 gegen Portugal – trotzdem in der Gruppenphase ausgeschieden",
+      "2022: 2:0 gegen Wales und 2 Tore gegen England – trotzdem raus"
+    ],
+    "stars": [
+      {
+        "name": "Mehdi Taremi",
+        "verein": "Olympiakos Piräus (Griechenland)",
+        "position": "Stürmer",
+        "alter": 33,
+        "länderspiele": 101,
+        "länderspieltore": 56,
+        "rolle": "Kapitän im Sturm und größter Star – seine Beweglichkeit und sein Torabschluss machen ihn zu einem der gefährlichsten Stürmer Asiens. Tritt bei seiner dritten WM an."
+      },
+      {
+        "name": "Alireza Jahanbakhsh",
+        "verein": "FCV Dender (Belgien)",
+        "position": "Flügel / Mittelfeld",
+        "alter": 32,
+        "rolle": "Kapitän – erste asiatischer Spieler, der Torschützenkönig einer europäischen Topliga wurde (21 Tore für AZ Alkmaar 2017/18). Früher bei Brighton & Hove Albion."
+      },
+      {
+        "name": "Alireza Beiranvand",
+        "verein": "Tractor Sazi (Iran)",
+        "position": "Torwart",
+        "rolle": "Stammtorhüter – eine der beeindruckendsten Lebensgeschichten: Wuchs als Obdachloser in Teheran auf, bevor er Profi wurde."
+      },
+      {
+        "name": "Saman Ghoddos",
+        "verein": "Ittihad Kalba (VAE)",
+        "position": "Mittelfeld",
+        "alter": 32,
+        "rolle": "Erfahrener Mittelfeldspieler – spielte früher bei Amiens in Frankreich"
+      },
+      {
+        "name": "Dennis Eckert (Dargahi)",
+        "verein": "Standard Lüttich (Belgien)",
+        "position": "Stürmer",
+        "besonderheit": "Deutsch-iranischer Doppelstaatsbürger – geboren in Deutschland, entschied sich für Iran",
+        "rolle": "Ersetzt den gesperrten Sardar Azmoun als Backup-Stürmer"
+      }
+    ],
+    "fun_fact": "1998 besiegte der Iran bei der WM die USA 2:1 – eines der politisch aufgeladensten Spiele der WM-Geschichte, denn die USA und Iran haben seit 1979 keine diplomatischen Beziehungen mehr. Torwart Alireza Beiranvand lebte als Jugendlicher obdachlos in Teheran und schläft auf Parkbänken – heute ist er einer der bekanntesten Sportler seines Landes. Und: Polo, das elegante Reitspiel, wurde im alten Persien (Iran) erfunden!"
+  }
+}

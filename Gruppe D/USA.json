@@ -1,0 +1,116 @@
+{
+  "land": "USA",
+  "offizieller_name": "Vereinigte Staaten von Amerika",
+  "spitzname": "USMNT / Stars and Stripes / Yanks",
+  "flagge": "13 abwechselnd rote und weiße waagerechte Streifen – für die 13 Gründungsstaaten – und ein blaues Feld oben links mit 50 weißen Sternen – für die 50 Bundesstaaten",
+
+  "steckbrief": {
+    "hauptstadt": "Washington D.C.",
+    "einwohner": "ca. 335 Millionen",
+    "sprache": "Englisch (de facto, keine offizielle Amtssprache auf Bundesebene)",
+    "waehrung": "US-Dollar ($)",
+    "lage": "Nordamerika – zwischen Atlantik im Osten und Pazifik im Westen",
+    "nachbarn": ["Kanada (Norden)", "Mexiko (Süden)"],
+    "bekannt_fuer": ["Freiheitsstatue und New York City", "Hollywood und Disneyland", "NASA und Mondlandung", "Grand Canyon und Yellowstone", "Fast Food (Burger, Cola)", "Football, Basketball, Baseball"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Die USA sind das drittgrößte Land der Welt und eines der bekanntesten – fast jeder kennt New York, Hollywood oder den Grand Canyon. Und 2026 richten sie gemeinsam mit Kanada und Mexiko die Fußball-WM aus!",
+    "lang": "Die USA liegen in Nordamerika und erstrecken sich von der Atlantikküste im Osten bis zur Pazifikküste im Westen – das sind über 4.500 Kilometer! Das Land hat 50 Bundesstaaten, darunter Alaska (ganz oben im Norden) und Hawaii (mitten im Pazifik). Die USA sind bekannt für berühmte Städte wie New York mit der Freiheitsstatue, Los Angeles mit Hollywood und Washington D.C. mit dem Weißen Haus. Die Nationalsportarten sind American Football, Basketball und Baseball – Fußball (Soccer) wird immer beliebter! 1969 landete der erste Mensch auf dem Mond – Neil Armstrong war Amerikaner. Und natürlich: Die USA sind das Land von Hamburger, Hotdog, Cola und Fast Food."
+  },
+
+  "hauptstadt": {
+    "name": "Washington D.C.",
+    "dc_steht_fuer": "District of Columbia – keine Zugehörigkeit zu einem der 50 Bundesstaaten",
+    "einwohner": "ca. 700.000",
+    "wahrzeichen": ["Weißes Haus (Wohnsitz des Präsidenten)", "Capitol (Parlament)", "Lincoln Memorial", "Washington Monument", "Smithsonian-Museen"],
+    "bekannte_staedte": {
+      "New York City": "Freiheitsstatue, Times Square, Empire State Building – bekannteste US-Stadt",
+      "Los Angeles": "Hollywood, Disneyland, Filmstudios – Kulturhauptstadt der USA",
+      "Chicago": "Skyline am Michigansee, Weltmeisterschaft 1994-Spielort"
+    },
+    "beschreibung": "Washington D.C. liegt an der Ostküste zwischen den Bundesstaaten Virginia und Maryland. Das Weiße Haus, Amtssitz des US-Präsidenten, und das Capitol, wo der Kongress tagt, prägen das Stadtbild. Rings um den National Mall reihen sich kostenlose Smithsonian-Museen. Obwohl Washington politisches Zentrum ist, sind New York, Los Angeles und Chicago bekannter."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit_gastgeber": "Die USA sind Mitgastgeber der WM 2026 – zum zweiten Mal nach 1994. Das Turnier findet in 11 US-Stadien statt, unter anderem in New York, Los Angeles, Miami, Dallas und Seattle. Das Finale wird im MetLife Stadium in New Jersey (bei New York) ausgetragen.",
+    "gruppe": "D",
+    "gruppenGegner": ["Paraguay", "Australien", "Türkei"],
+    "spielorte": {
+      "Paraguay": "SoFi Stadium, Los Angeles",
+      "Australien": "Lumen Field, Seattle",
+      "Türkei": "SoFi Stadium, Los Angeles"
+    },
+    "spieltermine": {
+      "Paraguay": "13. Juni 2026",
+      "Australien": "19. Juni 2026",
+      "Türkei": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Mauricio Pochettino",
+      "nationalitaet": "Argentinisch",
+      "besonderheit": "Übernahm die USA im September 2024. Bekannt durch erfolgreiche Arbeit in Europa: Tottenham Hotspur, Paris Saint-Germain und Chelsea. Einer der renommiertesten Trainer der Welt."
+    },
+    "qualifikation": {
+      "beschreibung": "Als Mitgastgeber automatisch für die WM 2026 qualifiziert."
+    },
+    "kapitaen": "Tim Ream",
+    "teilnahmen_gesamt": 12,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Halbfinale (1930 bei der ersten WM überhaupt)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "Niederlande",
+      "ergebnis_detail": "1:3",
+      "beschreibung": "Bei der WM 2022 erreichten die USA das Achtelfinale und unterlagen dort den Niederlanden."
+    },
+    "bundesliga_spieler": [
+      "Gio Reyna – Offensives Mittelfeld (Borussia Mönchengladbach)",
+      "Malik Tillman – Flügel (Bayer 04 Leverkusen)"
+    ],
+    "stars": [
+      {
+        "name": "Christian Pulisic",
+        "verein": "AC Mailand",
+        "position": "Offensives Mittelfeld / Flügel",
+        "rolle": "Bekanntester US-Spieler – Gesicht des amerikanischen Fußballs, 84 Länderspiele, 32 Tore"
+      },
+      {
+        "name": "Tyler Adams",
+        "verein": "AFC Bournemouth (England)",
+        "position": "Defensives Mittelfeld",
+        "rolle": "Anführer im Mittelfeld – kampfstarker Zweikämpfer"
+      },
+      {
+        "name": "Weston McKennie",
+        "verein": "Juventus Turin",
+        "position": "Mittelfeld",
+        "rolle": "Dynamischer Box-to-Box-Spieler bei Juventus, 12 Länderspieltore"
+      },
+      {
+        "name": "Gio Reyna",
+        "verein": "Borussia Mönchengladbach",
+        "position": "Offensives Mittelfeld",
+        "rolle": "Kreativster Spieler – in Gladbach aktiv, Sohn des früheren US-Nationalspielers Claudio Reyna"
+      },
+      {
+        "name": "Folarin Balogun",
+        "verein": "AS Monaco",
+        "position": "Stürmer",
+        "rolle": "Erster-Wahl-Stürmer – in London geboren, entschied sich für die USA"
+      },
+      {
+        "name": "Malik Tillman",
+        "verein": "Bayer 04 Leverkusen",
+        "position": "Flügel",
+        "rolle": "Bundesliga-Profi – in Nürnberg geboren, entschied sich für die USA statt Deutschland"
+      }
+    ],
+    "besonderheit_spieler": "Mehrere US-Spieler wurden in Deutschland geboren oder spielen in der Bundesliga: Gio Reyna (Gladbach), Malik Tillman (Leverkusen, in Nürnberg geboren). Auch Folarin Balogun wurde in London geboren – Amerika ist ein Land der Einwanderer, das spiegelt sich im Kader wider!",
+    "fun_fact": "In den USA heißt Fußball 'Soccer' – weil 'Football' schon von American Football besetzt ist! Die USA richten die WM 2026 gemeinsam mit Kanada und Mexiko aus – das Finale findet im riesigen MetLife Stadium bei New York statt, das über 82.000 Zuschauer fasst. Und: Gio Reyna spielt bei Borussia Mönchengladbach – sein Vater Claudio Reyna war früher auch US-Nationalspieler!"
+  }
+}

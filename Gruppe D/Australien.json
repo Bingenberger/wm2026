@@ -1,0 +1,115 @@
+{
+  "land": "Australien",
+  "offizieller_name": "Commonwealth of Australia",
+  "spitzname": "Socceroos",
+  "flagge": "Blauer Hintergrund mit dem Union Jack (Großbritannien) oben links, einem großen weißen Stern (Commonwealth-Stern) unten links und dem Kreuz des Südens (fünf weiße Sterne) rechts – Australien war früher ein britisches Kolonialgebiet.",
+
+  "steckbrief": {
+    "hauptstadt": "Canberra",
+    "einwohner": "ca. 27 Millionen",
+    "sprache": "Englisch",
+    "waehrung": "Australischer Dollar (AUD)",
+    "lage": "Ozeanien – der einzige Kontinent, der gleichzeitig ein ganzes Land ist, zwischen Indischem Ozean und Pazifik",
+    "nachbarn": ["Neuseeland (über die Tasmansee)", "Papua-Neuguinea und Indonesien (nördlich, über das Meer)"],
+    "bekannt_fuer": ["Kängurus, Koalas und Krokodile", "Sydney Opera House und Harbour Bridge", "Great Barrier Reef", "Outback und Uluru (Ayers Rock)", "Surfen und Strandleben", "Cricket und Rugby"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Australien ist der einzige Kontinent der Welt, der gleichzeitig ein ganzes Land ist – und die Heimat von Kängurus, Koalas und dem weltberühmten Great Barrier Reef!",
+    "lang": "Australien ist riesig – fast so groß wie Europa, aber mit nur 27 Millionen Einwohnern! Die meisten Menschen leben an der Küste, denn das Innere des Landes – das sogenannte Outback – ist heiß, trocken und kaum besiedelt. Mitten im Outback erhebt sich der Uluru (früher Ayers Rock), ein heiliger Felsen der Ureinwohner (Aborigines). Das Great Barrier Reef vor der Nordostküste ist das größte Korallenriff der Welt. In Australien leben Tiere, die es nur hier gibt – zum Beispiel das Känguru (das sogar auf der Flagge von Qantas Airlines abgebildet ist), der Koala und das Schnabeltier. Die Hauptstadt ist Canberra, aber die bekannteste Stadt ist Sydney mit der berühmten Oper und der Harbour Bridge."
+  },
+
+  "hauptstadt": {
+    "name": "Canberra",
+    "einwohner": "ca. 470.000",
+    "besonderheit": "Planhauptstadt – gebaut als Kompromiss, weil sich Sydney und Melbourne nicht einigen konnten, welche Stadt Hauptstadt werden sollte",
+    "wahrzeichen": ["Australian War Memorial", "Parliament House", "National Gallery of Australia", "Lake Burley Griffin"],
+    "bekannte_staedte": {
+      "Sydney": "Sydney Opera House, Harbour Bridge, Bondi Beach – bekannteste australische Stadt",
+      "Melbourne": "Kulturzentrum, Kaffee- und Sportstadt – Heimat des Australian Open (Tennis)",
+      "Brisbane": "Austragungsort der Olympischen Spiele 2032"
+    },
+    "beschreibung": "Canberra ist eine Planhauptstadt, die in den frühen 1900er Jahren entworfen wurde – als Kompromiss zwischen Sydney und Melbourne. Viel bekannter ist Sydney mit seinem ikonischen Opernhaus, das aussieht wie weiße Segel im Wind, und der spektakulären Harbour Bridge. Am Bondi Beach treffen sich Surfer aus aller Welt."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Australien nimmt zum 7. Mal und zum 6. Mal in Folge an der WM teil – eine beeindruckende Serie. Seit 2006 spielt Australien in der asiatischen Konföderation AFC statt im ozeanischen OFC, was die regelmäßige Qualifikation deutlich einfacher macht.",
+    "gruppe": "D",
+    "gruppenGegner": ["Türkei", "USA", "Paraguay"],
+    "spielorte": {
+      "Türkei": "BC Place, Vancouver",
+      "USA": "Lumen Field, Seattle",
+      "Paraguay": "Levi's Stadium, San Francisco Bay Area"
+    },
+    "spieltermine": {
+      "Türkei": "14. Juni 2026",
+      "USA": "19. Juni 2026",
+      "Paraguay": "26. Juni 2026"
+    },
+    "trainer": {
+      "name": "Tony Popovic",
+      "nationalitaet": "Australisch (kroatische Wurzeln)",
+      "besonderheit": "Stand 2006 selbst als Spieler im australischen WM-Kader beim historischen Achtelfinaleinzug. Übernahm die Socceroos im September 2024 und verlor in der Qualifikation kein einziges Spiel mehr."
+    },
+    "qualifikation": {
+      "weg": "AFC (Asien)",
+      "beschreibung": "Australien qualifizierte sich als Zweiter der asiatischen Qualifikationsgruppe hinter Japan. In der zweiten Runde blieben die Socceroos mit sechs Siegen ohne Gegentor makellos."
+    },
+    "kapitaen": "Mathew Ryan",
+    "teilnahmen_gesamt": 7,
+    "teilnahmen_in_folge": 6,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Achtelfinale (2006 in Deutschland und 2022 in Katar)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar",
+      "ergebnis": "Achtelfinale",
+      "ausgeschieden_gegen": "Argentinien",
+      "ergebnis_detail": "1:2",
+      "beschreibung": "Australien schlug 2022 Tunesien und Dänemark, bevor es im Achtelfinale knapp gegen den späteren Weltmeister Argentinien ausschied."
+    },
+    "bundesliga_spieler": [
+      "Jackson Irvine – Mittelfeld (FC St. Pauli)",
+      "Connor Metcalfe – Mittelfeld (FC St. Pauli)"
+    ],
+    "stars": [
+      {
+        "name": "Mathew Ryan",
+        "verein": "FC Kopenhagen (Dänemark)",
+        "position": "Torwart",
+        "alter": 34,
+        "rolle": "Kapitän – bei seiner vierten WM, stellt damit den australischen Rekord ein. Über 100 Länderspiele."
+      },
+      {
+        "name": "Mathew Leckie",
+        "verein": "Melbourne City (Australien)",
+        "position": "Flügel",
+        "alter": 35,
+        "rolle": "Rekord-Veteran bei seiner vierten WM – Held von 2022: Sein Tor gegen Dänemark sicherte das Achtelfinale."
+      },
+      {
+        "name": "Jackson Irvine",
+        "verein": "FC St. Pauli (Deutschland)",
+        "position": "Mittelfeld",
+        "rolle": "Motor im Mittelfeld – Bundesliga-Erfahrung beim FC St. Pauli, 81 Länderspiele"
+      },
+      {
+        "name": "Nestory Irankunda",
+        "verein": "Watford FC (England)",
+        "position": "Stürmer / Außenbahn",
+        "alter": 20,
+        "rolle": "Jungstes Ausnahmetalent – in Tansania geboren, gilt als Australiens aufregendster Offensivspieler"
+      },
+      {
+        "name": "Cristian Volpato",
+        "verein": "US Sassuolo (Italien)",
+        "position": "Mittelfeld / Angriff",
+        "alter": 22,
+        "rolle": "Wechselte kurz vor der WM von Italien zu Australien – kreativer Spielmacher"
+      }
+    ],
+    "fun_fact": "Australien ist so groß wie ganz Europa – hat aber nur 27 Millionen Einwohner! Und Jackson Irvine sowie Connor Metcalfe spielen beide beim gleichen deutschen Verein: FC St. Pauli in der Bundesliga. Außerdem wechselte Cristian Volpato kurz vor der WM die Nationalität von Italien zu Australien – und steht nun im WM-Kader der Socceroos!"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "land": "Katar",
+  "offizieller_name": "Staat Katar",
+  "spitzname": "Al-Annabi (Die Weinroten)",
+  "flagge": "Kastanienbraun-weinroter Hintergrund mit weißem Zickzack-Rand auf der linken Seite – eine der wenigen dunkelroten Flaggen der Welt",
+
+  "steckbrief": {
+    "hauptstadt": "Doha",
+    "einwohner": "ca. 3 Millionen",
+    "sprache": "Arabisch",
+    "waehrung": "Katarischer Riyal (QAR)",
+    "lage": "Halbinsel am Persischen Golf, Naher Osten",
+    "nachbarn": ["Saudi-Arabien (einzige Landgrenze)", "Bahrain, Iran und die Vereinigten Arabischen Emirate (über das Meer)"],
+    "bekannt_fuer": ["Wolkenkratzer und moderne Architektur", "Erdgas und Erdöl", "Al Jazeera (Nachrichtensender)", "Wüste und Kamele", "Fußball-WM 2022", "Souk Waqif (Alter Basar in Doha)"]
+  },
+
+  "wissenswertes": {
+    "kurz": "Katar ist ein kleines, aber steinreiches Land am Persischen Golf – 2022 richtete es als erstes arabisches Land eine Fußball-WM aus!",
+    "lang": "Katar ist eine kleine Halbinsel am Persischen Golf und gehört zu den reichsten Ländern der Welt – denn unter dem Boden liegen riesige Mengen an Erdgas und Erdöl. Die Hauptstadt Doha ist mit ihren glitzernden Wolkenkratzern direkt am Meer eine der modernsten Städte der Welt. Gleichzeitig gibt es noch den alten Basar Souk Waqif, wo man in engen Gassen Gewürze, Stoffe und Handwerk kaufen kann. Katar ist flächenmäßig ungefähr so groß wie das Bundesland Hessen. 2022 war Katar das erste arabische Land, das eine Fußball-WM ausrichtete – die Stadien wurden sogar klimatisiert, weil es im Sommer über 40 Grad heiß wird! Außerdem hat Katar mit Al Jazeera einen der bekanntesten Nachrichtensender der arabischen Welt."
+  },
+
+  "hauptstadt": {
+    "name": "Doha",
+    "arabisch": "الدوحة",
+    "einwohner": "ca. 2,4 Millionen (Großraum)",
+    "lage": "Direkt am Persischen Golf",
+    "wahrzeichen": ["Corniche (Strandpromenade)", "Museum of Islamic Art", "Souk Waqif", "Lusail Iconic Stadium", "The Pearl (künstliche Insel)"],
+    "beschreibung": "Doha ist das Herz Katars – eine glitzernde Metropole, die in den letzten Jahrzehnten aus der Wüste gewachsen ist. Entlang der Corniche spiegeln sich die Wolkenkratzer im Meer. Das Museum für Islamische Kunst zeigt Schätze aus 1.400 Jahren islamischer Geschichte. Und der alte Basar Souk Waqif erinnert daran, wie Doha einmal war – bunt, laut und duftend."
+  },
+
+  "wm_2026": {
+    "turnier": "FIFA WM 2026",
+    "austragungsort": "USA, Mexiko, Kanada",
+    "besonderheit": "Katar nimmt zum zweiten Mal an einer WM teil – und erstmals durch sportliche Qualifikation! 2022 war es noch als Gastgeber automatisch dabei. Alle drei Gruppenspiele finden auf US-amerikanischem Boden statt.",
+    "gruppe": "B",
+    "gruppenGegner": ["Schweiz", "Kanada", "Bosnien-Herzegowina"],
+    "spielorte": {
+      "Schweiz": "San Francisco-Stadion, San Francisco",
+      "Kanada": "Vancouver (BC Place), Vancouver",
+      "Bosnien-Herzegowina": "Seattle-Stadion, Seattle"
+    },
+    "spieltermine": {
+      "Schweiz": "13. Juni 2026",
+      "Kanada": "18. Juni 2026",
+      "Bosnien-Herzegowina": "24. Juni 2026"
+    },
+    "trainer": {
+      "name": "Julen Lopetegui",
+      "nationalitaet": "Spanisch",
+      "besonderheit": "Einer der erfahrensten Trainer der Welt – coachte die spanische Nationalmannschaft, Real Madrid, FC Sevilla, Wolverhampton Wanderers und West Ham United. Übernahm Katar im Mai 2025 und qualifizierte das Team innerhalb weniger Monate für die WM."
+    },
+    "qualifikation": {
+      "weg": "AFC-Qualifikation (Asien)",
+      "beschreibung": "Katar qualifizierte sich über die asiatische WM-Qualifikation – erstmals in der Geschichte ohne das Privileg als Gastgeber. Das Team setzte sich in seiner Gruppe gegen Kuwait, Indien und Afghanistan durch."
+    },
+    "kapitaen": "Hassan Al-Haydos",
+    "teilnahmen_gesamt": 2,
+    "wm_titel": 0,
+    "bestes_ergebnis": "Vorrunde (WM 2022 als Gastgeber)",
+    "letztes_turnier": {
+      "jahr": 2022,
+      "austragungsort": "Katar (Heimturnier)",
+      "ergebnis": "Vorrunde – als erster Gastgeber der WM-Geschichte ohne einen einzigen Sieg ausgeschieden",
+      "beschreibung": "Bei der Heim-WM 2022 schied Katar als erstes Gastgeberland aller Zeiten in der Vorrunde aus – ohne einen Punkt. Einziges WM-Tor: Mohammed Muntari beim 1:3 gegen Senegal."
+    },
+    "erstes_wm_tor_geschichte": {
+      "torschütze": "Mohammed Muntari",
+      "gegner": "Senegal",
+      "ergebnis": "1:3",
+      "jahr": 2022,
+      "bedeutung": "Erstes WM-Tor in der Geschichte der katarischen Nationalmannschaft"
+    },
+    "stars": [
+      {
+        "name": "Akram Afif",
+        "verein": "Al-Sadd (Katar)",
+        "position": "Linksaußen / Zehner",
+        "rolle": "Überragender Schlüsselspieler – zweifacher Asiens Fußballer des Jahres (2019 und 2023). Einziger Spieler im Kader mit europäischer Top-Liga-Erfahrung (früher Villarreal in Spanien)"
+      },
+      {
+        "name": "Almoez Ali",
+        "verein": "Al-Duhail SC (Katar)",
+        "position": "Stürmer",
+        "rolle": "Rekordtorschütze Katars mit 60 Toren in 125 Länderspielen – bester asiatischer WM-Qualifikations-Torschütze mit 12 Treffern"
+      },
+      {
+        "name": "Hassan Al-Haydos",
+        "verein": "Al-Sadd (Katar)",
+        "position": "Mittelfeld / Angriff",
+        "rolle": "Kapitän und Rekordnationalspieler mit 187 Einsätzen – kehrte eigens für die WM aus dem Ruhestand zurück"
+      },
+      {
+        "name": "Mohammed Muntari",
+        "verein": "Al-Gharafa (Katar)",
+        "position": "Stürmer",
+        "rolle": "Schoss 2022 das erste WM-Tor der katarischen Geschichte"
+      }
+    ],
+    "kader_besonderheit": "Fast alle Spieler spielen in der heimischen Qatar Stars League. Akram Afif ist die einzige Ausnahme mit europäischer Top-Liga-Erfahrung.",
+    "asien_cup_titel": [2019, 2023],
+    "fun_fact": "Katar ist mit rund 11.000 km² etwa so groß wie das Bundesland Hessen – und hat trotzdem 2022 die größte Sportveranstaltung der Welt ausgerichtet! Das Kapitän Hassan Al-Haydos hat 187 Länderspiele absolviert – für ein kleines Land ist das eine unglaubliche Zahl. Und: Katar hat zweimal hintereinander den Asien-Cup gewonnen, also die Fußball-Meisterschaft des ganzen asiatischen Kontinents!"
+  }
+}
