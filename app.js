@@ -263,12 +263,12 @@ function setupModalEvents() {
 
 function renderTab(tab, land) {
   switch (tab) {
-    case 'land':      modalBody.innerHTML = renderLandTab(land); break;
-    case 'team':      modalBody.innerHTML = renderTeamTab(land); break;
-    case 'karte':     modalBody.innerHTML = renderBildTab(land, 'karte'); break;
-    case 'postkarte': modalBody.innerHTML = renderBildTab(land, 'postkarte'); break;
-    case 'trikot':    modalBody.innerHTML = renderTrikotTab(land); break;
-    case 'hymne':     renderHymneTab(land); break;
+    case 'land':       modalBody.innerHTML = renderLandTab(land); break;
+    case 'team':       modalBody.innerHTML = renderTeamTab(land); break;
+    case 'karte':      modalBody.innerHTML = renderBildTab(land, 'karte'); break;
+    case 'hauptstadt': modalBody.innerHTML = renderHauptstadtTab(land); break;
+    case 'trikot':     modalBody.innerHTML = renderTrikotTab(land); break;
+    case 'hymne':      renderHymneTab(land); break;
   }
 }
 
@@ -289,6 +289,9 @@ function renderLandTab(land) {
   const flaggeBeschreibung = land.flagge ? `
     <div class="info-karte">
       <h3><span class="section-icon">🏳️</span> Die Flagge</h3>
+      <img src="${assets.flagge}" alt="Flagge von ${land.land}"
+           style="width:180px;border-radius:6px;box-shadow:var(--schatten);margin-bottom:12px"
+           loading="lazy" onerror="this.style.display='none'">
       <p class="wissenstext">${land.flagge}</p>
     </div>` : '';
 
@@ -307,13 +310,6 @@ function renderLandTab(land) {
     <span class="steckbrief-wert">${wert}</span>
   `).join('');
 
-  const hauptstadtBeschreibung = hs.beschreibung ? `
-    <div class="info-karte">
-      <h3><span class="section-icon">🏙️</span> Hauptstadt: ${hs.name || ''}</h3>
-      <p class="wissenstext">${hs.beschreibung}</p>
-      ${wahrzeichen.length ? `<ul class="wahrzeichen-liste" style="margin-top:10px">${wahrzeichenItems}</ul>` : ''}
-    </div>` : '';
-
   return `
     ${kurzFakt ? `<div class="info-karte" style="padding:14px">${kurzFakt}</div>` : ''}
 
@@ -324,8 +320,6 @@ function renderLandTab(land) {
     </div>
 
     ${langText ? `<div class="info-karte"><h3><span class="section-icon">📖</span> Wissenswertes</h3>${langText}</div>` : ''}
-
-    ${hauptstadtBeschreibung}
 
     ${flaggeBeschreibung}
   `;
@@ -451,20 +445,49 @@ function renderTeamTab(land) {
   `;
 }
 
-// --- Bild-Tab (Karte / Postkarte) ---
+// --- Hauptstadt-Tab ---
+function renderHauptstadtTab(land) {
+  const hs = land.hauptstadt || {};
+  const assets = land._assets || {};
+  const wahrzeichen = Array.isArray(hs.wahrzeichen) ? hs.wahrzeichen : [];
+  const wahrzeichenItems = wahrzeichen.map(w => `<li>${w}</li>`).join('');
+
+  const postkarte = assets.postkarte ? `
+    <div class="bild-container" style="margin-bottom:16px">
+      <img src="${assets.postkarte}"
+           alt="Postkarte aus ${hs.name || land.land}"
+           loading="lazy" onerror="this.style.display='none'">
+      <p class="bild-caption">📮 Postkarte aus <strong>${hs.name || land.land}</strong></p>
+    </div>` : '';
+
+  const infos = [];
+  if (hs.einwohner) infos.push(['👥 Einwohner', hs.einwohner]);
+  if (hs.fluss)     infos.push(['🌊 Fluss', hs.fluss]);
+  const infoRows = infos.map(([l, w]) => `
+    <span class="steckbrief-label">${l}</span>
+    <span class="steckbrief-wert">${w}</span>`).join('');
+
+  const infoBlock = (hs.beschreibung || infos.length || wahrzeichen.length) ? `
+    <div class="info-karte">
+      <h3><span class="section-icon">🏙️</span> ${hs.name || 'Hauptstadt'}</h3>
+      ${infos.length ? `<div class="steckbrief-grid" style="margin-bottom:12px">${infoRows}</div>` : ''}
+      ${hs.beschreibung ? `<p class="wissenstext">${hs.beschreibung}</p>` : ''}
+      ${wahrzeichen.length ? `
+        <p style="font-weight:700;font-size:.85rem;color:var(--text-mid);margin:12px 0 6px">Sehenswürdigkeiten:</p>
+        <ul class="wahrzeichen-liste">${wahrzeichenItems}</ul>` : ''}
+    </div>` : '';
+
+  return postkarte + infoBlock;
+}
+
+// --- Bild-Tab (Karte) ---
 function renderBildTab(land, typ) {
   const assets = land._assets || {};
   const src = assets[typ] || '';
-  const hs = land.hauptstadt || {};
 
   let caption = '';
   if (typ === 'karte') {
     caption = `Politische Karte von ${land.land}`;
-  } else if (typ === 'postkarte') {
-    caption = hs.name ? `Postkarte aus ${hs.name}, Hauptstadt von ${land.land}` : `Postkarte aus ${land.land}`;
-    if (hs.beschreibung && typ === 'postkarte') {
-      caption = `<strong>${hs.name}</strong> – ${hs.beschreibung}`;
-    }
   }
 
   return `
