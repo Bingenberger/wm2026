@@ -277,6 +277,7 @@ function renderLandTab(land) {
   const sb = land.steckbrief || {};
   const wiss = land.wissenswertes || {};
   const hs = land.hauptstadt || {};
+  const assets = land._assets || {};
 
   const sprache = sb.sprache || (Array.isArray(sb.sprachen) ? sb.sprachen.join(', ') : (sb.sprachen || '–'));
   const nachbarn = Array.isArray(sb.nachbarn) ? sb.nachbarn.join(', ') : (sb.nachbarn || '–');
