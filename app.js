@@ -77,13 +77,21 @@ function setupNavigation() {
   navBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       const gruppe = btn.dataset.gruppe;
-      setAktiveGruppe(gruppe);
+      if (gruppe === 'quiz') {
+        quizOeffnen();   // aus quiz.js
+      } else {
+        setAktiveGruppe(gruppe);
+      }
     });
   });
 }
 
 function setAktiveGruppe(gruppe) {
   aktiveGruppe = gruppe;
+  // Quiz schließen falls aktiv
+  const quizSection = document.getElementById('quiz-section');
+  if (quizSection) quizSection.hidden = true;
+  document.getElementById('main-content').hidden = false;
   // Aktiven Button markieren
   document.querySelectorAll('.nav-btn').forEach(btn => {
     const aktiv = btn.dataset.gruppe === gruppe;
